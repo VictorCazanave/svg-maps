@@ -1,30 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
 <?xml-stylesheet type="text/css" href="map.css"?>
 
 <svg
 	class="svg"
-	preserveAspectRatio="xMinYMin meet"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:cc="http://creativecommons.org/ns#"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:svg="http://www.w3.org/2000/svg"
+	viewBox="235 43 850 1200"
+	version="1.1"
 	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-	version="1.0"
 	sodipodi:version="0.32"
-	sodipodi:docname="map.svg">
+	sodipodi:docname="map.svg"
+	aria-labelledby="title">
+
+	<title id="title">Taiwan political division map</title>
 	<sodipodi:namedview gridtolerance="10000" guidetolerance="10" objecttolerance="10" showgrid="false"/>
-	<metadata>
-		<rdf:RDF>
-			<cc:Work rdf:about="">
-				<dc:format>image/svg+xml</dc:format>
-				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-			</cc:Work>
-		</rdf:RDF>
-	</metadata>
-	<g id="taiwan-map" transform="translate(0,500)">
-		<g id="taiwan-background" transform="translate(0,-500)">
+
+	<g id="taiwan-map">
+		<g id="taiwan-background">
 			<path
 				id="keelung-city"
 				class="background"
@@ -134,8 +127,9 @@
 				sodipodi:nodetypes="cssssscssssssssssscssssssssssssssssssssssssssssscsscsssssssssssssscsssssssssssssssssssssssssc"
 				d="M 246.882,777.676 L 247.211,779.262 L 246.961,781.042 L 251.617,783.823 L 252.523,784.073 L 254.273,785.698 L 257.429,787.354 L 261.367,791.51 L 262.867,792.26 L 268.18,797.198 L 268.305,797.698 L 271.71,800.979 L 274.116,804.635 L 275.741,804.26 L 278.022,802.135 L 279.397,801.354 L 278.397,803.51 L 277.522,804.635 L 277.522,805.915 L 280.803,806.79 L 279.147,808.196 L 277.272,808.071 L 276.241,806.665 L 275.366,806.165 L 276.116,808.071 L 277.272,809.571 L 277.772,811.227 L 277.272,820.821 L 276.741,822.196 L 277.758,824.226 L 279.029,823.46 L 281.05,821.439 L 282.591,820.872 L 287.111,812.601 L 289.889,812.096 L 290.141,808.561 L 292.918,807.297 L 296.706,807.297 L 299.988,798.964 L 292.665,789.619 L 288.878,787.095 L 294.182,779.519 L 297.465,778.256 L 299.485,775.731 L 297.969,773.206 L 291.656,770.429 L 289.132,771.692 L 286.102,771.187 L 285.596,768.409 L 278.778,768.662 L 278.02,765.633 L 277.01,764.621 L 257.06,766.39 L 254.03,768.411 L 248.473,774.724 L 246.882,777.676 L 246.882,777.676 z"/>
 		</g>
-		<g transform="translate(0,-500)">
-			<g id="taiwan-border-inside" transform="translate(-446.39217,55.385532)">
+
+		<g id="taiwan-border">
+			<g id="taiwan-border-inside" transform="translate(-446.4, 55.4)">
 				<path
 					class="border-inside"
 					sodipodi:nodetypes="cssssssssssssssssssssssssssssssssssc"
@@ -221,6 +215,7 @@
 						d="M 987.644,640.586 L 979.43,644.157 L 976.574,647.014 L 968.717,649.157 L 964.789,649.157 L 959.789,655.586 L 953.003,661.3 L 949.432,662.73 L 946.576,666.3 L 947.646,667.016 L 948.003,668.8 L 946.574,672.73 L 946.574,676.659 L 947.644,680.588 L 944.074,682.373 L 941.93,687.373 L 938.715,689.518 L 939.787,712.018 L 936.216,715.946 L 934.43,720.232 L 936.93,722.732 L 938.36,727.018 L 931.93,731.661 L 931.93,735.59 L 931.216,737.375 L 921.216,750.232 L 920.144,754.518 L 920.144,759.873 L 921.93,763.803 L 923.36,765.232 L 923.003,770.232 L 925.86,778.803 L 931.216,779.159 L 934.072,783.088 L 933.358,789.873"/>
 				</g>
 			</g>
+
 			<path
 				id="taiwan-border-outside"
 				class="border-outside"
