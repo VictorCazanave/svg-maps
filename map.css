@@ -1,0 +1,14 @@
+.svg {
+	width : 850px;
+	height: 1200px;
+}
+
+.background {
+	fill: #a1d99b;
+}
+
+.border-inside,
+.border-outside {
+	fill  : none;
+	stroke: #666;
+}
