@@ -7,3 +7,8 @@
 	stroke-linejoin: round;
 	stroke-width   : 1;
 }
+
+.rect {
+	fill  : none;
+	stroke: #666;
+}
