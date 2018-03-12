@@ -16,5 +16,8 @@ The original map is available [here](https://simplemaps.com/resources/svg-tw) un
 * Add understandable ids (`taipei-city`, `hsinchu-county`...)
 * Sort `<path/>` alphabetically
 
+## map-compacted.svg
+This map is the same as [map-full.svg](#map-fullsvg) but with a translation of Kinmen County and Lienchiang County to be closer from main island.
+
 ## map-cropped.svg
 This map is the same as [map-full.svg](#map-fullsvg) but without Kinmen County and Lienchiang County.
