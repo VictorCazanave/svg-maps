@@ -1,14 +1,9 @@
 .svg {
-	width : 100%;
-	height: auto;
-}
-
-.background {
-	fill: #a1d99b;
-}
-
-.border-inside,
-.border-outside {
-	fill  : none;
-	stroke: #666;
+	width          : 100%;
+	height         : auto;
+	fill           : #a1d99b;
+	stroke         : #666;
+	stroke-linecap : round;
+	stroke-linejoin: round;
+	stroke-width   : 1;
 }
