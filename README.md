@@ -15,9 +15,28 @@ The original map is available [here](https://commons.wikimedia.org/wiki/File:Aus
 * Remove inline styles
 * Add doctype
 * Add external stylesheet (australia.css)
-* Add title
-* Add name (`New South Wales`, `Queensland Mainland`...)
+* Add document title
+* Add locations name (`New South Wales`, `Queensland Mainland`...)
 * Standardize ids (`nsw`, `qld-mainland`...)
+* Sort `<path/>` alphabetically
+
+## France
+
+### france.svg
+This map contains all the regions of the Metropolitan France.
+
+### Credits
+This map is based on the work of [amcharts](https://www.amcharts.com).
+
+The original map is available [here](https://www.amcharts.com/svg-maps/?map=france2016) under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
+### Changes
+* Remove inline styles
+* Add doctype
+* Add external stylesheet (france.css)
+* Add document title
+* Replace locations title by name
+* Lowercase ids
 * Sort `<path/>` alphabetically
 
 ## Taiwan
@@ -41,6 +60,6 @@ The original map is available [here](https://simplemaps.com/resources/svg-tw) un
 * Fix viewBox
 * Add doctype
 * Add external stylesheet (taiwan.css)
-* Add title
+* Add document title
 * Add understandable ids (`taipei-city`, `hsinchu-county`...)
 * Sort `<path/>` alphabetically
