@@ -1,9 +1,9 @@
 .svg {
-	width          : 100%;
-	height         : auto;
-	fill           : #a1d99b;
-	stroke         : #666;
-	stroke-linecap : round;
+	width: 100%;
+	height: auto;
+	fill: #a1d99b;
+	stroke: #666;
+	stroke-linecap: round;
 	stroke-linejoin: round;
-	stroke-width   : 1;
+	stroke-width: 1;
 }
