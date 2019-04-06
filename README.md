@@ -2,7 +2,7 @@
 
 A set of SVG maps.
 
-* [Australia](australia)
-* [France](france)
-* [Taiwan](taiwan)
-* [USA](usa)
+* [Australia](maps/australia)
+* [France](maps/france)
+* [Taiwan](maps/taiwan)
+* [USA](maps/usa)
