@@ -20,7 +20,7 @@ The original map is available [here](https://www.amcharts.com/svg-maps/?map=usa)
 
 ## utah.svg
 
-Contains all the states of the United States of America.
+Contains all the counties of the Utah state.
 
 ### Credits
 
