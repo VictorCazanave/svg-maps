@@ -1,0 +1,28 @@
+{
+  "name": "svg-maps",
+  "version": "1.0.0",
+  "description": "A set of SVG maps",
+  "main": "index.js",
+  "dependencies": {
+    "svgson": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node svgToJs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorCazanave/svg-maps.git"
+  },
+  "keywords": [
+    "svg",
+    "svg-maps",
+    "javascript"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictorCazanave/svg-maps/issues"
+  },
+  "homepage": "https://github.com/VictorCazanave/svg-maps#readme"
+}
