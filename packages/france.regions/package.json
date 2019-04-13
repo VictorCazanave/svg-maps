@@ -1,6 +1,6 @@
 {
   "name": "france.regions",
-  "version": "0.0.1",
+  "version": "1.0.0-alpha.0",
   "description": "SVG Map of France regions",
   "main": "index.js",
   "keywords": [

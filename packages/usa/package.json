@@ -1,6 +1,6 @@
 {
   "name": "usa",
-  "version": "0.0.1",
+  "version": "1.0.0-alpha.0",
   "description": "SVG Map of USA",
   "main": "index.js",
   "keywords": [
