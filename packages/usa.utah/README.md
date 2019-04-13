@@ -31,6 +31,10 @@ Contains all the counties of the Utah state:
 * Wayne County
 * Weber County
 
+## Installation
+
+`npm install --save @svg-maps/usa.utah`
+
 ### Credits
 
 This map has been provided by hopkira(https://github.com/hopkira) in this [merge request](https://github.com/VictorCazanave/react-svg-map/pull/14).

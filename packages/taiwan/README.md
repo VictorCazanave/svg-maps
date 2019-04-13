@@ -24,6 +24,10 @@ Contains all the counties and cities of the administrative divisions of Taiwan:
 * Yilan County
 * Yunlin County
 
+## Installation
+
+`npm install --save @svg-maps/taiwan`
+
 ## Credits
 
 This map is based on the work of [simplemaps](https://simplemaps.com).

@@ -1,11 +1,15 @@
 {
-  "name": "usa",
-  "version": "1.0.0-alpha.0",
-  "description": "SVG Map of USA",
+  "name": "@svg-maps/usa",
+  "version": "1.0.0-beta.0",
+  "description": "Map of USA",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa"
+  },
   "keywords": [
     "svg",
-    "maps",
+    "map",
     "usa"
   ],
   "author": "Victor Cazanave <victor.cazanave@gmail.com>"

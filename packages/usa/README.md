@@ -53,6 +53,10 @@ Contains all the states of the United States of America:
 * West Virginia
 * Wyoming
 
+## Installation
+
+`npm install --save @svg-maps/usa`
+
 ### Credits
 
 This map is based on the work of [amcharts](https://www.amcharts.com).

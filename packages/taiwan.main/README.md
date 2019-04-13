@@ -22,6 +22,10 @@ Contains all the counties and cities of the main island. Same as [Taiwan](/packa
 * Yilan County
 * Yunlin County
 
+## Installation
+
+`npm install --save @svg-maps/taiwan.main`
+
 ### Credits
 
 This map is based on the work of [simplemaps](https://simplemaps.com).

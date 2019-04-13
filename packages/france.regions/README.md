@@ -15,6 +15,10 @@ Contains all the regions of Metropolitan France:
 * Pays de la Loire
 * Provence-Alpes-Côte d'Azur
 
+## Installation
+
+`npm install --save @svg-maps/france.regions`
+
 ## Credits
 
 This map is based on the work of [amcharts](https://www.amcharts.com).
