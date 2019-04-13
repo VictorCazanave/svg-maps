@@ -13,5 +13,8 @@
     "france",
     "region"
   ],
-  "author": "Victor Cazanave <victor.cazanave@gmail.com>"
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
 }

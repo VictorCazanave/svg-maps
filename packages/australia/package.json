@@ -1,12 +1,19 @@
 {
-  "name": "australia",
+  "name": "@svg-maps/australia",
   "version": "1.0.0-alpha.1",
-  "description": "SVG Map of Australia",
+  "description": "Map of Australia",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/australia"
+  },
   "keywords": [
     "svg",
     "map",
     "australia"
   ],
-  "author": "Victor Cazanave <victor.cazanave@gmail.com>"
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
 }
