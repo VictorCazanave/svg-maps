@@ -1,0 +1,13 @@
+{
+  "name": "usa.utah",
+  "version": "0.0.1",
+  "description": "SVG map of Utah, USA",
+  "main": "index.js",
+  "keywords": [
+    "svg",
+    "map",
+    "usa",
+    "utah"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>"
+}

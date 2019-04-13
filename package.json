@@ -1,13 +1,12 @@
 {
   "name": "svg-maps",
-  "version": "1.0.0-beta.1",
   "description": "A set of SVG maps",
-  "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
+    "lerna": "^3.13.2",
     "svgson": "^3.1.0"
   },
-  "devDependencies": {},
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "build": "node svgToJs.js"
   },
   "repository": {

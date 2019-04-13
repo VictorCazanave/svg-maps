@@ -1,0 +1,12 @@
+{
+  "name": "australia",
+  "version": "0.0.1",
+  "description": "SVG Map of Australia",
+  "main": "index.js",
+  "keywords": [
+    "svg",
+    "map",
+    "australia"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>"
+}

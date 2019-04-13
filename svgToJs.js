@@ -5,22 +5,24 @@ const svgson = require('svgson')
 /**
  * Convert SVG file into JS file
  * 
- * @param {string} file - Path of SVG file
+ * @param {string} dir - Name of directory
+ * @param {string} file - Name of SVG file
  */
-const svgToJs = (file) => {
-  const jsFile = file.replace('.svg', '.js')
+const svgToJs = (dir, file) => {
+  const svgFile = path.join(__dirname, 'packages', dir, file)
+  const jsFile = path.join(__dirname, 'packages', dir, 'index.js')
 
   if (fs.existsSync(jsFile)) {
     console.log(`File ${jsFile} already exists`)
     return
   }
 
-  fs.readFile(file, 'utf8', (err, data) => {
+  fs.readFile(svgFile, 'utf8', (err, data) => {
     if (err) {
-      console.error(`Unable to read file ${file}`, err)
+      console.error(`Unable to read file ${svgFile}`, err)
       return
     }
-    console.log(`Parsing file ${file}`)
+    console.log(`Parsing file ${svgFile}`)
     svgson.parse(data)
       .then(json => {
         const obj = {
@@ -51,30 +53,30 @@ const svgToJs = (file) => {
           }
         })
       }).catch(err => {
-        console.error(`Unable ton parse file ${file}`, err)
+        console.error(`Unable ton parse file ${svgFile}`, err)
       })
   })
 }
 
-// Read maps directory
-fs.readdir(path.join(__dirname, 'maps'), function (err, dirs) {
+// Read packages directory
+fs.readdir(path.join(__dirname, 'packages'), (err, dirs) => {
   if (err) {
-    console.log('Unable to scan maps directory', err)
+    console.log('Unable to scan packages directory', err)
     return
   }
 
   // Read all sub directories
   dirs.forEach((dir) => {
-    fs.readdir(path.join(__dirname, 'maps', dir), function (err, files) {
+    fs.readdir(path.join(__dirname, 'packages', dir), (err, files) => {
       if (err) {
         console.log(`Unable to scan directory ${dir}`, err)
         return
       }
 
       // Convert all SVG files to JS files
-      files.forEach((file) => {
+      files.forEach(file => {
         if (path.extname(file) === '.svg') {
-          svgToJs(path.join(__dirname, 'maps', dir, file))
+          svgToJs(dir, file)
         }
       })
     })

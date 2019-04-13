@@ -1,0 +1,12 @@
+{
+  "name": "usa",
+  "version": "0.0.1",
+  "description": "SVG Map of USA",
+  "main": "index.js",
+  "keywords": [
+    "svg",
+    "maps",
+    "usa"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>"
+}
