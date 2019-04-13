@@ -28,7 +28,7 @@ const svgToJs = (dir, file) => {
         const obj = {
           label: json.attributes['aria-label'],
           viewBox: json.attributes.viewBox,
-          location: json.children
+          locations: json.children
             .filter(child => {
               if (child.name !== 'path') {
                 console.warn(`<${child.name}> tag will be ignored`)
