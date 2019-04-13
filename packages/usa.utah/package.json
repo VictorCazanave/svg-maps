@@ -1,6 +1,6 @@
 {
   "name": "@svg-maps/usa.utah",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.1",
   "description": "Map of Utah, USA",
   "main": "index.js",
   "repository": {
