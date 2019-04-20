@@ -33,7 +33,13 @@ Contains all the counties of the Utah state:
 
 ## Installation
 
+### npm
+
 `npm install --save @svg-maps/usa.utah`
+
+### yarn
+
+`yarn add @svg-maps/usa.utah`
 
 ### Credits
 

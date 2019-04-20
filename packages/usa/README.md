@@ -55,7 +55,13 @@ Contains all the states of the United States of America:
 
 ## Installation
 
+### npm
+
 `npm install --save @svg-maps/usa`
+
+### yarn
+
+`yarn add @svg-maps/usa`
 
 ### Credits
 

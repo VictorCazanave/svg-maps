@@ -17,7 +17,13 @@ Contains all the regions of Metropolitan France:
 
 ## Installation
 
+### npm
+
 `npm install --save @svg-maps/france.regions`
+
+### yarn
+
+`yarn add @svg-maps/france.regions`
 
 ## Credits
 
