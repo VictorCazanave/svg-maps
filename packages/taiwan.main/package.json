@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/taiwan.main",
+  "version": "1.0.0-alpha.2",
+  "description": "Map of Taiwan main island",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/taiwan.main"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "taiwan"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}

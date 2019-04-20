@@ -1,0 +1,20 @@
+{
+  "name": "@svg-maps/france.regions",
+  "version": "1.0.0-alpha.2",
+  "description": "Map of France regions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/france.regions"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "france",
+    "region"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
