@@ -7,6 +7,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * [Taiwan, Main Island](packages/taiwan.main)
 * [USA](packages/usa)
 * [USA, Utah](packages/usa.utah)
+* [USA, Counties](packages/usa.counties)
 
 ## SVG files
 
