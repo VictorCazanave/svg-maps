@@ -3156,7 +3156,7 @@ Note: In general, "county," "parish," "borough," and other such signifiers are n
 
 `yarn add @svg-maps/usa.counties`
 
-### Credits
+## Credits
 
 The original image is available [here](https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg) (downloaded July 2019). It was first created by the US Census Bureau and has been modified by Wikimedia Commons users.
 

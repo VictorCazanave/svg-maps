@@ -63,7 +63,7 @@ Contains all the states of the United States of America:
 
 `yarn add @svg-maps/usa`
 
-### Credits
+## Credits
 
 This map is based on the work of [amcharts](https://www.amcharts.com).
 

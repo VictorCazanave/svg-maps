@@ -40,7 +40,7 @@ This map is based on the work of [simplemaps](https://simplemaps.com).
 
 The original map is available [here](https://simplemaps.com/resources/svg-tw) under the [Free for Commercial and Personal Use](https://simplemaps.com/resources/svg-license) license.
 
-## Changes
+### Changes
 
 * Remove inline styles
 * Fix viewBox

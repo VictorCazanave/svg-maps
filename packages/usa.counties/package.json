@@ -1,7 +1,7 @@
 {
   "name": "@svg-maps/usa.counties",
   "version": "1.0.0",
-  "description": "Map of USA Counties",
+  "description": "Map of USA counties",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
     "svg",
     "map",
     "usa",
-    "county"
+    "counties"
   ],
   "author": "Victor Cazanave <victor.cazanave@gmail.com>",
   "publishConfig": {

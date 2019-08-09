@@ -41,6 +41,6 @@ Contains all the counties of the Utah state:
 
 `yarn add @svg-maps/usa.utah`
 
-### Credits
+## Credits
 
 This map has been provided by hopkira(https://github.com/hopkira) in this [merge request](https://github.com/VictorCazanave/react-svg-map/pull/14).
