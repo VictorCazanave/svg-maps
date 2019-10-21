@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/tunisia",
+  "version": "1.1.0",
+  "description": "Map of Tunisia",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/tunisia"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "tunisia"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
