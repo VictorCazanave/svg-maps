@@ -1,7 +1,6 @@
 # Taiwan
 
 Contains all the counties and cities of the administrative divisions of Taiwan:
-* Changhua County
 * Ariana Governorate
 * Béja Governorate
 * Ben Arous	Governorate
