@@ -1,15 +1,15 @@
 # Tunisia
 
-Contains all the counties and cities of the administrative divisions of Taiwan:
+Contains all the governorates of the administrative divisions of Tunisia:
 * Ariana Governorate
 * Béja Governorate
-* Ben Arous	Governorate
+* Ben Arous Governorate
 * Bizerte Governorate
-* Gabès	Governorate
-* Gafsa	Governorate
+* Gabès Governorate
+* Gafsa Governorate
 * Jendouba Governorate
 * Kairouan Governorate
-* Kasserine	Governorate
+* Kasserine Governorate
 * Kebili Governorate
 * Kef Governorate
 * Mahdia Governorate
@@ -23,8 +23,11 @@ Contains all the counties and cities of the administrative divisions of Taiwan:
 * Sousse Governorate
 * Tataouine Governorate
 * Tozeur Governorate
-* Tunis	Governorate
+* Tunis Governorate
 * Zaghouan Governorate
+
+**TODO:** Fix split Nabeul, Sfax and Tunis.
+
 ## Installation
 
 ### npm
@@ -47,3 +50,4 @@ The original map is available [here](https://simplemaps.com/resources/svg-tn) un
 * Fix viewBox
 * Add document label
 * Add understandable ids (`tunis`, `sousse`...)
+* Sort `<path/>` alphabetically

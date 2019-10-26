@@ -5,10 +5,10 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * [France, Regions](packages/france.regions)
 * [Taiwan](packages/taiwan)
 * [Taiwan, Main Island](packages/taiwan.main)
+* [Tunisia](packages/tunisia)
 * [USA](packages/usa)
 * [USA, Counties](packages/usa.counties)
 * [USA, Utah](packages/usa.utah)
-* [Tunisia](packages/tunisia)
 
 ## SVG files
 
