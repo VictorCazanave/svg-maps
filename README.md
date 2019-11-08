@@ -3,6 +3,7 @@
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
 * [Australia](packages/australia)
 * [France, Regions](packages/france.regions)
+* [Germany](packages/germany)
 * [Taiwan](packages/taiwan)
 * [Taiwan, Main Island](packages/taiwan.main)
 * [Tunisia](packages/tunisia)
