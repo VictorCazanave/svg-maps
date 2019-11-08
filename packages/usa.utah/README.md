@@ -1,4 +1,4 @@
-# Utah, USA
+# 🇺🇸 Utah, USA
 
 Contains all the counties of the Utah state:
 * Beaver County

@@ -1,4 +1,4 @@
-# USA
+# 🇺🇸 USA
 
 Contains all the states of the United States of America:
 * Alaska

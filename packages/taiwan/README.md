@@ -1,4 +1,4 @@
-# Taiwan
+# 🇹🇼 Taiwan
 
 Contains all the counties and cities of the administrative divisions of Taiwan:
 * Changhua County

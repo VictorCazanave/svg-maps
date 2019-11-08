@@ -1,4 +1,4 @@
-# Taiwan, main island
+# 🇹🇼 Taiwan, main island
 
 Contains all the counties and cities of the main island. Same as [Taiwan](/packages/taiwan/) but without Kinmen County and Lienchiang County:
 * Changhua County

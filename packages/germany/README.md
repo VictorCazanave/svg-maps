@@ -1,4 +1,4 @@
-# Germany
+# 🇩🇪 Germany
 
 Contains all the states (_Länder_) of Germany:
 * Baden-Württemberg

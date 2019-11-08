@@ -1,4 +1,4 @@
-# France, regions
+# 🇫🇷 France, regions
 
 Contains all the regions of Metropolitan France:
 * Auvergne-Rhône-Alpes

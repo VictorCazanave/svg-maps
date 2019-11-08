@@ -1,4 +1,4 @@
-# Australia
+# 🇦🇺 Australia
 
 Contains all the states and territories (mainland and islands) of Australia:
 * Australian Capital Territory

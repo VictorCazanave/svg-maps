@@ -1,4 +1,4 @@
-# USA (Counties)
+# 🇺🇸 USA, Counties
 
 Contains all the counties and "[county-equivalents](https://en.wikipedia.org/wiki/County_%28United_States%29#County_equivalents)" in the United States of America:
 * Abbeville, SC
