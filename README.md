@@ -5,6 +5,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇨🇦[Canada](packages/canada)
 * 🇫🇷[France, Regions](packages/france.regions)
 * 🇩🇪[Germany](packages/germany)
+* 🇭🇰[Hong Kong](packages/hong-kong)
 * 🇳🇿[New Zealand](packages/new-zealand)
 * 🇹🇼[Taiwan](packages/taiwan)
 * 🇹🇼[Taiwan, Main Island](packages/taiwan.main)
@@ -27,7 +28,7 @@ The SVG files come from different sources and have been cleaned to be lighter an
 
 The JS files contain a simplified object representation of the SVG files.
 
-They can be imported and used in projects like [react-svg-map](https://github.com/VictorCazanave/react-svg-map) or [react-svg-map](https://github.com/VictorCazanave/vue-svg-map).
+They can be imported and used in projects like [react-svg-map](https://github.com/VictorCazanave/react-svg-map) or [vue-svg-map](https://github.com/VictorCazanave/vue-svg-map).
 
 ## Contribution
 

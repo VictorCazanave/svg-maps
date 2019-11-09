@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/hong-kong",
+  "version": "1.1.0",
+  "description": "Map of Hong Kong",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/hong-kong"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "hong kong"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
