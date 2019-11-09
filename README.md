@@ -4,6 +4,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇦🇺[Australia](packages/australia)
 * 🇫🇷[France, Regions](packages/france.regions)
 * 🇩🇪[Germany](packages/germany)
+* 🇳🇿[New Zealand](packages/new-zealand)
 * 🇹🇼[Taiwan](packages/taiwan)
 * 🇹🇼[Taiwan, Main Island](packages/taiwan.main)
 * 🇹🇳[Tunisia](packages/tunisia)
