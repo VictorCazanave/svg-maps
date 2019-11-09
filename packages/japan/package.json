@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/japan",
+  "version": "1.0.0",
+  "description": "Map of Japan",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/japan"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "japan"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
