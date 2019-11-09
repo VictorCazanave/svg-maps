@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/canada",
+  "version": "1.1.0",
+  "description": "Map of Canada",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/canada"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "canada"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
