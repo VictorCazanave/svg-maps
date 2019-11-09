@@ -7,7 +7,8 @@
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "build": "node svgToJs.js"
+    "build": "node svgToJs.js",
+    "release": "lerna publish from-package"
   },
   "repository": {
     "type": "git",
