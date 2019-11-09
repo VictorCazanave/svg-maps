@@ -7,6 +7,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇩🇪[Germany](packages/germany)
 * 🇭🇰[Hong Kong](packages/hong-kong)
 * 🇳🇿[New Zealand](packages/new-zealand)
+* 🇰🇷[South Korea](packages/south-korea)
 * 🇹🇼[Taiwan](packages/taiwan)
 * 🇹🇼[Taiwan, Main Island](packages/taiwan.main)
 * 🇹🇳[Tunisia](packages/tunisia)
