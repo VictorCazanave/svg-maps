@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/india",
+  "version": "1.0.0",
+  "description": "Map of India",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/india"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "india"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
