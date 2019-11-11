@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/china",
+  "version": "1.0.0",
+  "description": "Map of China",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/china"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "china"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
