@@ -1,0 +1,20 @@
+{
+    "name": "@svg-maps/israel",
+    "version": "1.0.0",
+    "description": "Map of Israel",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/israel"
+    },
+    "keywords": [
+      "svg",
+      "map",
+      "israel"
+    ],
+    "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+    "publishConfig": {
+      "access": "public"
+    }
+  }
+  
