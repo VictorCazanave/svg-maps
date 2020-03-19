@@ -1,14 +1,14 @@
 # 🇮🇳 Israel
 
-Contains all the states and union territories of israel:
+Contains all the states and union territories of Israel:
 * Golan Heights
+* Hadarom
+* Hamerkaz
 * Hazafon
 * Hefa
-* Palestine
-* Hamerkaz
-* Tel-Aviv
 * Jerusalem
-* Hadarom
+* Palestine
+* Tel-Aviv
 
 ## Installation
 

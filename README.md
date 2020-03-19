@@ -8,6 +8,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇫🇷[France, Regions](packages/france.regions)
 * 🇩🇪[Germany](packages/germany)
 * 🇭🇰[Hong Kong](packages/hong-kong)
+* 🇮🇱[Israel](packages/israel)
 * 🇮🇳[India](packages/india)
 * 🇯🇵[Japan](packages/japan)
 * 🇳🇿[New Zealand](packages/new-zealand)
