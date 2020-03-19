@@ -1,0 +1,19 @@
+{
+	"name": "@svg-maps/italy",
+	"version": "1.0.0",
+	"description": "Map of Italy",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/italy"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"italy"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	}
+}
