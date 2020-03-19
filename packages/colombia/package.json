@@ -1,0 +1,19 @@
+{
+	"name": "@svg-maps/colombia",
+	"version": "1.0.0",
+	"description": "Map of Colombia",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/colombia"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"colombia"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	}
+}
