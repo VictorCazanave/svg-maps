@@ -26,6 +26,9 @@ If you want to contribute to this project, here is a quick guide:
   * list all the locations (states, counties...) alphabetically sorted
   * indicate the credits (source, license...)
   * describe your modifications
+* Add the new map in the main `README.md` file:
+  * using alphabetical order
+  * linking to the package folder `/packages/[new-map]`
 
 ## Reporting a bug
 [Open an issue](https://github.com/VictorCazanave/svg-maps/issues/new).
