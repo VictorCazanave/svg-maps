@@ -1,0 +1,19 @@
+{
+	"name": "@svg-maps/mexico",
+	"version": "1.0.0",
+	"description": "Map of Mexico",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/mexico"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"mexico"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	}
+}
