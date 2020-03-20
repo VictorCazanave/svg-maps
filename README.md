@@ -37,9 +37,9 @@ The SVG files come from different sources and have been cleaned to be lighter an
 
 ### Sources
 
-* [Wikimedia Commons](https://commons.wikimedia.org/)
-* [simplemaps](https://simplemaps.com/)
 * [MapSVG](https://mapsvg.com/)
+* [simplemaps](https://simplemaps.com/)
+* [Wikimedia Commons](https://commons.wikimedia.org/)
 
 ## JS files
 
