@@ -1,4 +1,4 @@
-# 🇮🇳 Israel
+# 🇮🇱 Israel
 
 Contains all the states and union territories of Israel:
 * Golan Heights
@@ -8,7 +8,7 @@ Contains all the states and union territories of Israel:
 * Hefa
 * Jerusalem
 * Palestine
-* Tel-Aviv
+* Tel Aviv
 
 ## Installation
 
@@ -30,6 +30,7 @@ The original map is available [here](https://mapsvg.com/maps/israel) and free to
 
 * Remove unnecessary attributes
 * Replace title by name attributes
+* Use English names
 * Add viewBox
 * Rename ids
 * Sort `<path/>` alphabetically
