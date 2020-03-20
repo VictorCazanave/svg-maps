@@ -1,0 +1,19 @@
+{
+	"name": "@svg-maps/greece",
+	"version": "1.0.0",
+	"description": "Map of Greece",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/greece"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"greece"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	}
+}
