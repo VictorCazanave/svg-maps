@@ -18,7 +18,6 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇯🇵[Japan](packages/japan)
 * 🇲🇽[Mexico](packages/mexico)
 * 🇳🇿[New Zealand](packages/new-zealand)
-* 🇷🇺[Russia](packages/russia)
 * 🇰🇷[South Korea](packages/south-korea)
 * 🇪🇸[Spain](packages/spain)
 * 🇸🇪[Sweden](packages/sweden)
