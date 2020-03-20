@@ -26,6 +26,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇺🇸[USA](packages/usa)
 * 🇺🇸[USA, Counties](packages/usa.counties)
 * 🇺🇸[USA, Utah](packages/usa.utah)
+* 🌍[World](packages/world)
 
 ## SVG files
 
