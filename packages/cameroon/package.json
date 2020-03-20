@@ -1,0 +1,19 @@
+{
+	"name": "@svg-maps/cameroon",
+	"version": "1.0.0",
+	"description": "Map of Cameroon",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/cameroon"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"cameroon"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	}
+}
