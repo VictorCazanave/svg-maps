@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/ukraine",
+  "version": "1.0.0",
+  "description": "Map of Ukraine",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/urkaine"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "ukraine"
+  ],
+  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
