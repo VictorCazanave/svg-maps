@@ -5,23 +5,23 @@ Contains all the cities and administrative centers of Ukraine:
 * Cherkasy
 * Chernihiv
 * Chernivtsi
-* Dnipropetrovs'k
-* Donets'k
-* Ivano-Frankivs'k
+* Dnipropetrovsk
+* Donetsk
+* Ivano-Frankivsk
 * Kharkiv
 * Kherson
 * Kiev City
 * Kiev
 * Kirovohrad
-* Luhans'k
-* L'viv
+* Luhansk
+* Lviv
 * Mykolayiv
 * Odessa
 * Poltava
 * Rivne
-* Sevastpol' City
+* Sevastpol City
 * Sumy
-* Ternopil'
+* Ternopil
 * Transcarpathia
 * Vinnytsya
 * Volyn
@@ -40,13 +40,13 @@ Contains all the cities and administrative centers of Ukraine:
 
 ## Credits
 
-This map is based on the work of [simplemaps](https://simplemaps.com).
+This map is based on the work of [MapSVG](https://mapsvg.com).
 
-The original map is available [here](https://mapsvg.com/maps/ukraine) under the [Free for Commercial and Personal Use] license.
+The original map is available [here](https://mapsvg.com/maps/ukraine) and free to be used in any custom project.
 
 ### Changes
 
-* Fix viewBox
-* Add document label
-* Add understandable ids (`crimea`, `sumy`...)
+* Composed viewBox
+* Removed unnnecessary svg attrs
+* Add regions' ids (e.g. `crimea`, `sumy`)
 * Sort `<path/>` alphabetically
