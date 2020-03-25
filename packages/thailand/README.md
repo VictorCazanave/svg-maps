@@ -92,10 +92,3 @@ Contains all the provinces and administrative centers of Thailand:
 This map is based on the work of [MapSVG](https://mapsvg.com).
 
 The original map is available [here](https://mapsvg.com/maps/thailand) and free to be used in any custom project.
-
-### Changes
-
-* Composed viewBox
-* Removed unnnecessary svg attrs
-* Add regions' ids (e.g. `crimea`, `sumy`)
-* Sort `<path/>` alphabetically
