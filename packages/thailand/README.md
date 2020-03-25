@@ -95,7 +95,7 @@ The original map is available [here](https://mapsvg.com/maps/thailand) and free 
 
 ## Changes
 
-* Remove width and height attributes
+* Remove unnessary attributes
 * Add viewBox attribute
 * Replace title with name attributes
 * Update ids to use HS instead of ISO
