@@ -1,5 +1,6 @@
 # SVG Maps
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
@@ -60,6 +61,11 @@ Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/keatonboyle"><img src="https://avatars3.githubusercontent.com/u/3393465?v=4" width="100px;" alt=""/><br /><sub><b>keatonboyle</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=keatonboyle" title="Code">💻</a></td>
+  </tr>
+</table>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
