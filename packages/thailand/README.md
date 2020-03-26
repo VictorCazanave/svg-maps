@@ -1,3 +1,5 @@
+# 🇹🇭 Thailand
+
 Contains all the provinces and administrative centers of Thailand:
 * Amnat Charoen
 * Ang Thong
@@ -93,9 +95,9 @@ This map is based on the work of [MapSVG](https://mapsvg.com).
 
 The original map is available [here](https://mapsvg.com/maps/thailand) and free to be used in any custom project.
 
-## Changes
+### Changes
 
-* Remove unnessary attributes
+* Remove unnecessary attributes
 * Add viewBox attribute
 * Replace title with name attributes
 * Update ids to use HS instead of ISO
