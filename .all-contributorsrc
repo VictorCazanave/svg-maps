@@ -1,10 +1,18 @@
 {
+  "projectName": "svg-maps",
+  "projectOwner": "VictorCazanave",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
   "files": [
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
-  "contributors": [
+  "contributorsSortAlphabetically": true,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-green.svg)](#contributors)",
+  "commit": true,
+  "commitConvention": "none",
+    "contributors": [
     {
       "login": "keatonboyle",
       "name": "keatonboyle",
@@ -15,10 +23,5 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
-  "projectName": "svg-maps",
-  "projectOwner": "VictorCazanave",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true
+  "contributorsPerLine": 7
 }
