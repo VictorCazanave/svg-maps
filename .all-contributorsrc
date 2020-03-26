@@ -12,12 +12,21 @@
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-green.svg)](#contributors)",
   "commit": true,
   "commitConvention": "none",
-    "contributors": [
+  "contributors": [
     {
       "login": "keatonboyle",
       "name": "keatonboyle",
       "avatar_url": "https://avatars3.githubusercontent.com/u/3393465?v=4",
       "profile": "https://github.com/keatonboyle",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aref-lazrek",
+      "name": "Aref Ben Lazrek",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13694905?v=4",
+      "profile": "https://github.com/aref-lazrek",
       "contributions": [
         "code"
       ]
