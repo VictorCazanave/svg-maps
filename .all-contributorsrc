@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "keatonboyle",
+      "name": "keatonboyle",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3393465?v=4",
+      "profile": "https://github.com/keatonboyle",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "svg-maps",
+  "projectOwner": "VictorCazanave",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
