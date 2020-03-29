@@ -21,6 +21,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇰🇷[South Korea](packages/south-korea)
 * 🇪🇸[Spain](packages/spain)
 * 🇸🇪[Sweden](packages/sweden)
+* 🇸🇦[Saudi Arabia](packages/saudi-arabia)
 * 🇹🇼[Taiwan](packages/taiwan)
 * 🇹🇼[Taiwan, Main Island](packages/taiwan.main)
 * 🇹🇳[Tunisia](packages/tunisia)

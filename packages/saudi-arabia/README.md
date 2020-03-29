@@ -1,19 +1,19 @@
-# sa Saudi Arabia
+# SA Saudi Arabia
 
 Contains all the regions of Saudi Arabia:
-* Ar Riyāḑ
-* Makkah
-* Al Madīnah
-* Ash Sharqīyah
-* Al Qaşīm
-* Ḩā'il
-* Tabūk
-* Al Ḩudūd ash Shamālīyah
-* Jīzān
-* Najrān
-* Al Bāḩah
-* Al Jawf
 * Asir
+* Al Bahah
+* Al Hudud al Shamaliyah
+* Al Jawf
+* Al Madinah
+* Al Qasim
+* Al Ryiadh
+* Al Sharqiyah
+* Ha'il
+* Jizan
+* Makkah
+* Najran
+* Tabuk
 
 ## Installation
 
@@ -37,3 +37,4 @@ The original map is available [here](https://mapsvg.com/maps/saudi-arabia) and f
 * Replace title by name attributes
 * Add viewBox
 * Rename ids
+* Match names to readme file
