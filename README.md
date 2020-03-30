@@ -1,6 +1,6 @@
 # SVG Maps
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-green.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
@@ -70,6 +70,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/eliDatamix"><img src="https://avatars3.githubusercontent.com/u/61228529?v=4" width="100px;" alt=""/><br /><sub><b>eliDatamix</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=eliDatamix" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tae8838"><img src="https://avatars3.githubusercontent.com/u/7782153?v=4" width="100px;" alt=""/><br /><sub><b>Tae</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tae8838" title="Code">💻</a></td>
     <td align="center"><a href="http://k9-build.blogspot.co.uk/"><img src="https://avatars1.githubusercontent.com/u/5486945?v=4" width="100px;" alt=""/><br /><sub><b>Richard Hopkins</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=hopkira" title="Code">💻</a></td>
+    <td align="center"><a href="http://apper.tech"><img src="https://avatars2.githubusercontent.com/u/35299529?v=4" width="100px;" alt=""/><br /><sub><b>Muhammed Mazen Hafez</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=mh-mazen" title="Code">💻</a></td>
   </tr>
 </table>
 
