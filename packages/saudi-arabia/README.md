@@ -1,18 +1,18 @@
-# SA Saudi Arabia
+# 🇸🇦 Saudi Arabia
 
 Contains all the regions of Saudi Arabia:
+* Al-Bahah
+* Al-Jawf
 * Asir
-* Al Bahah
-* Al Hudud al Shamaliyah
-* Al Jawf
-* Al Madinah
-* Al Qasim
-* Al Ryiadh
-* Al Sharqiyah
+* Al-Qassim
+* Eastern Province
 * Ha'il
 * Jizan
-* Makkah
+* Mecca
+* Medina
 * Najran
+* Northern Borders
+* Ryiadh
 * Tabuk
 
 ## Installation
@@ -35,6 +35,6 @@ The original map is available [here](https://mapsvg.com/maps/saudi-arabia) and f
 
 * Remove unnecessary attributes
 * Replace title by name attributes
+* Use English names
 * Add viewBox
 * Rename ids
-* Match names to readme file
