@@ -1,6 +1,6 @@
 # 🇱🇰 Sri Lanka
 
-Contains all Districts of Sri Lanka:
+Contains all the districts of Sri Lanka:
 * Ampara
 * Anuradhapura
 * Badulla
@@ -47,6 +47,6 @@ The original map is available [here](https://mapsvg.com/maps/sri-lanka) and free
 
 * Remove unnecessary attributes
 * Replace title by name attributes
+* Use English names
 * Add viewBox
 * Rename ids
-* Rename names in english
