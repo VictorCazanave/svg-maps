@@ -23,6 +23,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇳🇿[New Zealand](packages/new-zealand)
 * 🇰🇷[South Korea](packages/south-korea)
 * 🇪🇸[Spain](packages/spain)
+* 🇱🇰[Sri Lanka](packages/sri-lanka)
 * 🇸🇪[Sweden](packages/sweden)
 * 🇸🇦[Saudi Arabia](packages/saudi-arabia)
 * 🇹🇼[Taiwan](packages/taiwan)
