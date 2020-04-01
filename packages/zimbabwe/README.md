@@ -31,7 +31,7 @@ The original map is available [here](https://commons.wikimedia.org/wiki/File:Pro
 
 ### Changes
 
-* Removed unnecessary attributes
-* Replaced title by name attributes
-* Added viewBox
-* Renamed ids
+* Remove unnecessary attributes
+* Replace title by name attributes
+* Add viewBox
+* Rename ids
