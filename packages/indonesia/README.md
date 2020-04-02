@@ -3,42 +3,36 @@
 Contains all the states and union territories of Indonesia:
 * Aceh
 * Bali
-* Bangka Belitung
-* Bengkulu
+* Bangka Belitung Islands
 * Banten
-* Gorontolo
+* Bengkulu
+* Central Java
+* Central Kalimantan
+* Central Sulawesi
+* East Java
+* East Kalimantan
+* East Nusa Tenggara
+* Gorontalo
+* Special Region of Jakarta
 * Jambi
-* Jawa Barat
-* Jawa Timur
-* Jakarta Raya
-* Jawa Tengah
-* Kalimantan Barat
-* Kalimantan Timur
-* Kepulauan Riau
-* Kalimantan Selatan
-* Kalimantan Tengah
-* Kalimantan Utara
 * Lampung
 * Maluku
-* Maluku Utara
-* Nusa Tenggara Barat
-* Nusa Tenggara Timur
+* North Kalimantan
+* North Sulawesi
+* North Sumatra
 * Papua
-* Papua Barat
 * Riau
-* Sulawesi Utara
-* Sumatera Barat
-* Sulawesi Tenggara
-* Sulawesi Selatan
-* Sulawesi Barat
-* Sumatera Selatan
-* Sulawesi Tengah
-* Sumatera Utara
-* Yogyakarta
-* Timor-Leste
-* Sabah
-* Sarawak
-* Brunei Darussalam
+* Riau Islands
+* Southeast Sulawesi
+* South Kalimantan
+* South Sulawesi
+* South Sumatra
+* West Java
+* West Kalimantan
+* West Nusa Tenggara
+* West Papua
+* West Sulawesi
+* Special Region of Yogyakarta
 
 ## Installation
 
