@@ -1,17 +1,17 @@
 # 🇿🇼 Zimbabwe
 
-Contains all the provinces of Zinbabwe:
+Contains all the provinces of Zimbabwe:
 
-* Bulawayo Province
-* Harare Province
-* Manicaland Province
-* Mashonaland Central Province
-* Mashonaland East Province
-* Mashonaland West Province
-* Masvingo Province
-* Matabeleland North Province
-* Matabeleland South Province
-* Midlands Province
+* Bulawayo
+* Harare
+* Manicaland
+* Mashonaland Central
+* Mashonaland East
+* Mashonaland West
+* Masvingo
+* Matabeleland North
+* Matabeleland South
+* Midlands
 
 ## Installation
 
