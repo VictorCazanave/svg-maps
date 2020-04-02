@@ -16,6 +16,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇬🇷[Greece](packages/greece)
 * 🇭🇰[Hong Kong](packages/hong-kong)
 * 🇮🇳[India](packages/india)
+* 🇮🇩[Indonesia](packages/indonesia) 
 * 🇮🇱[Israel](packages/israel)
 * 🇮🇹[Italy](packages/italy)
 * 🇯🇵[Japan](packages/japan)
@@ -75,6 +76,7 @@ Thanks goes to these wonderful people:
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Abiseban147"><img src="https://avatars2.githubusercontent.com/u/31163831?v=4" width="100px;" alt=""/><br /><sub><b>Abiseban</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Abiseban147" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/muhammad-ihsan"><img src="https://avatars2.githubusercontent.com/u/10700286?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Ihsan</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=muhammad-ihsan" title="Code">💻</a></td>
   </tr>
 </table>
 
