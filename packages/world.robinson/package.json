@@ -1,0 +1,20 @@
+{
+  "name": "@svg-maps/world.robinson",
+  "version": "1.0.0",
+  "description": "Map of World in Robinson projection",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/world.robinson"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "world",
+    "robinson"
+  ],
+  "author": "Chloé Gence <chloe.gence@protonmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
