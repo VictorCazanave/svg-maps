@@ -1,19 +1,19 @@
 {
-  "name": "@svg-maps/saudi-arabia",
-  "version": "1.0.0",
-  "description": "Map of Saudi Arabia",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/saudi-arabia"
-  },
-  "keywords": [
-    "svg",
-    "map",
-    "saudi arabia"
-  ],
-  "author": "Muhammed Hafez <mh.mazen@hotmail.com>",
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@svg-maps/saudi-arabia",
+	"version": "1.0.0",
+	"description": "Map of Saudi Arabia",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/saudi-arabia"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"saudi arabia"
+	],
+	"author": "Muhammed Hafez <mh.mazen@hotmail.com>",
+	"publishConfig": {
+		"access": "public"
+	}
 }

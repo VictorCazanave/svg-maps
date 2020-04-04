@@ -43,4 +43,4 @@ Contains all the counties of the Utah state:
 
 ## Credits
 
-This map has been provided by hopkira(https://github.com/hopkira) in this [merge request](https://github.com/VictorCazanave/react-svg-map/pull/14).
+This map has been provided by [@hopkira](https://github.com/hopkira) in this [pull request](https://github.com/VictorCazanave/react-svg-map/pull/14).
