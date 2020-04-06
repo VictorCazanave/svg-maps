@@ -1,18 +1,21 @@
 # SY Syria
 
-Contains all the regions of Syria:
-* Al Hasakah
-* Al Ladhiqiyah
-* Al Qunaytirah
-* Ar Raqqah
-* As Suwayda
-* Dayr az Zawr
-* Halab
-* Hamah
-* Hims
-* Idlib
-* Rif Dimashq
-* Tartus
+Contains all the governorates of Syria:
+
+- Aleppo
+- As-Suwayda
+- Darra
+- Damascus
+- Deir ez-Zor
+- Hama
+- Hasaka
+- Homs
+- Idlib
+- Latakia
+- Quneitra
+- Raqqa
+- Rif Dimashq
+- Tartus
 
 ## Installation
 
@@ -32,7 +35,7 @@ The original map is available [here](https://mapsvg.com/maps/syria) and free to 
 
 ### Changes
 
-* Remove unnecessary attributes
-* Replace title by name attributes
-* Add viewBox
-* Rename ids
+- Remove unnecessary attributes
+- Replace title by name attributes
+- Add viewBox
+- Rename ids
