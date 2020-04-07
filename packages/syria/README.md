@@ -4,7 +4,7 @@ Contains all the governorates of Syria:
 
 - Aleppo
 - As-Suwayda
-- Darra
+- Daraa
 - Damascus
 - Deir ez-Zor
 - Hama
