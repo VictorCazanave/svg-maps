@@ -11,7 +11,6 @@ Contains all the provinces of Pakistan:
 
 Contains all the cities of Pakistan:
 
-* AJK Border
 * Abbotabad
 * Astore
 * Attock
