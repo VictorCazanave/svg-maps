@@ -1,17 +1,8 @@
 # 🇵🇰 Paksitan
 
-Contains all the provinces of Pakistan:
-* Azad Jammu Kashmir
-* FATA
-* Gilgit Baltistan
-* Balochistan
-* Khyber Pakhtunkwah
-* Punjab
-* Sindh
+Contains all the districts of Pakistan:
 
-Contains all the cities of Pakistan:
-
-* Abbotabad
+* Abbottabad
 * Astore
 * Attock
 * Awaran
@@ -19,7 +10,7 @@ Contains all the cities of Pakistan:
 * Bagh
 * Bahawalnagar
 * Bahawalpur
-* Bajur
+* Bajaur
 * Bannu
 * Barkhan
 * Battagram
@@ -37,12 +28,12 @@ Contains all the cities of Pakistan:
 * Dera Ghazi Khan
 * Dera Ismail Khan
 * Diamer
-* FR Bannu
-* FR D.I.Khan
-* FR Kohat
-* FR Lakki
-* FR Peshawar
-* FR Tank
+* Bannu District
+* D I Khan District
+* Kohat District
+* Lakki District
+* Peshawar District
+* Tank District
 * Faisalabad
 * Ghanhce
 * Ghizer
@@ -168,9 +159,7 @@ Contains all the cities of Pakistan:
 
 ## Credits
 
-This map is based on the work of [MapSVG](https://mapsvg.com).
-
-The original map is available [here](https://https://en.wikipedia.org/wiki/File:Pakistan_Districts.svg) and free to be used in any custom project.
+The original map is available [here](https://en.wikipedia.org/wiki/File:Pakistan_Districts.svg#filelinks) and free to be used in any custom project.
 
 ### Changes
 
