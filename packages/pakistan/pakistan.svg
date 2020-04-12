@@ -579,33 +579,33 @@
   />
 
   <path 
- 	 	 id="tank-district" 
- 	 	 name="Tank District" 
+ 	 	 id="tank-subdivision" 
+ 	 	 name="Tank Subdivision" 
  	 	 d="m 946.2,593.1 -2,-34.2 24.8,-8.8 17.4,-5.8 12,13.2 -2.6,6.2 -10,-6 -9.4,14.4 z"
   />
   <path 
- 	 	 id="peshawar-district" 
- 	 	 name="Peshawar District" 
+ 	 	 id="peshawar-subdivision" 
+ 	 	 name="Peshawar Subdivision" 
  	 	 d="m 1120,423.1 5,-5 -1.4,-4.2 -10.2,-6.8 -4.2,7.2 -10.6,3.8 23.4,11 z"
   />
   <path 
- 	 	 id="lakki-district" 
- 	 	 name="Lakki District" 
+ 	 	 id="lakki-subdivision" 
+ 	 	 name="Lakki Subdivision" 
  	 	 d="m 986.4,544.3 -7.4,-8 -2.6,-15 -13.6,16.2 6.2,12.6 z"
   />
   <path 
- 	 	 id="kohat-district" 
- 	 	 name="Kohat District" 
+ 	 	 id="kohat-subdivision" 
+ 	 	 name="Kohat Subdivision" 
  	 	 d="m 1098.6,418.1 23.4,11 -13.8,11.2 -8,0.8 -3,-5.4 4.2,-4.8 -18.4,-3.6 6.2,-12.2 z"
   />
   <path 
- 	 	 id="d-i-khan-district" 
- 	 	 name="D I Khan District" 
+ 	 	 id="d-i-khan-subdivision" 
+ 	 	 name="D I Khan Subdivision" 
  	 	 d="m 951.2,614.5 6.8,3.4 2.6,27.2 18.4,60.4 -13.4,6.4 0.6,10 -3,0.4 -2.4,-5 4,-24.8 -1.4,-17 -16.6,8 -5.6,9.8 -2.6,-16.8 -8.6,-5.2 2.4,-43.8 -7.6,5.2 -3,-3.2 3.8,-8.2 7.6,-3.4 9.8,5 z"
   />
   <path 
- 	 	 id="bannu-district" 
- 	 	 name="Bannu District" 
+ 	 	 id="bannu-subdivision" 
+ 	 	 name="Bannu Subdivision" 
  	 	 d="m 992.6,494.3 17.2,0.8 15.8,-16.4 -13.2,-5.2 -10.8,-4.2 -22.8,21.4 -18.6,27.2 2.6,19.6 13.6,-16.2 z"
   />
   <path 

@@ -12,6 +12,7 @@ Contains all the districts of Pakistan:
 * Bahawalpur
 * Bajaur
 * Bannu
+* Bannu Subdivision
 * Barkhan
 * Battagram
 * Bhakkar
@@ -27,13 +28,8 @@ Contains all the districts of Pakistan:
 * Dera Bugti
 * Dera Ghazi Khan
 * Dera Ismail Khan
+* Dera Ismail Khan Subdivision
 * Diamer
-* Bannu District
-* D I Khan District
-* Kohat District
-* Lakki District
-* Peshawar District
-* Tank District
 * Faisalabad
 * Ghanhce
 * Ghizer
@@ -72,12 +68,14 @@ Contains all the districts of Pakistan:
 * Killa Abdullah
 * Killa Saifullah
 * Kohat
+* Kohat Subdivision
 * Kohistan
 * Kohlu
 * Kotli
 * Kurram
 * Lahore
 * Lakki Marwat
+* Lakki Subdivision
 * Larkana
 * Lasbela
 * Layyah
@@ -112,6 +110,7 @@ Contains all the districts of Pakistan:
 * Pakpattan
 * Panjgur
 * Peshawar
+* Peshawar Subdivision
 * Pishin
 * Poonch
 * Qambar Shahdatkot
@@ -137,6 +136,7 @@ Contains all the districts of Pakistan:
 * Tando Muhammad Khan
 * Tando_Allahyar
 * Tank
+* Tank Subdivision
 * Tharparkar
 * Thatta
 * Toba Tek Singh
