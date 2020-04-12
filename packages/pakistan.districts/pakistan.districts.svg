@@ -1,9 +1,8 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 1628 1544"
-  aria-label="Map of Pakistan"
+  viewBox="27 28 1628 1544"
+  aria-label="Map of Pakistan districts"
 >
-
   <path 
       id="islamabad"
       name="Islamabad"
@@ -182,7 +181,7 @@
   />
   <path 
  	 	 id="tando-allahyar" 
- 	 	 name="Tando-Allahyar" 
+ 	 	 name="Tando Allahyar" 
  	 	 d="m 821.2,1336 -10,9 0.6,10 -6.4,9.8 3.2,13.6 -4.4,5.8 3.8,5.8 5.4,-0.2 0.8,5.8 18.8,0 6.2,-9.4 0.6,-13 -6.8,-13.6 0.6,-18.4 z"
   />
   <path 

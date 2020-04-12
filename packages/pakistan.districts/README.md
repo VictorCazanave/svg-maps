@@ -1,7 +1,6 @@
-# 🇵🇰 Paksitan
+# 🇵🇰 Pakistan, districts
 
 Contains all the districts of Pakistan:
-
 * Abbottabad
 * Astore
 * Attock
@@ -134,7 +133,7 @@ Contains all the districts of Pakistan:
 * Swabi
 * Swat
 * Tando Muhammad Khan
-* Tando_Allahyar
+* Tando Allahyar
 * Tank
 * Tank Subdivision
 * Tharparkar
@@ -151,15 +150,17 @@ Contains all the districts of Pakistan:
 
 ### npm
 
-`npm install --save @svg-maps/pakistan`
+`npm install --save @svg-maps/pakistan.districts`
 
 ### yarn
 
-`yarn add @svg-maps/pakistan`
+`yarn add @svg-maps/pakistan.districts`
 
 ## Credits
 
-The original map is available [here](https://en.wikipedia.org/wiki/File:Pakistan_Districts.svg#filelinks) and free to be used in any custom project.
+This map is based on the work of [Schajee](https://commons.wikimedia.org/wiki/User:Schajee).
+
+The original map is available [here](https://upload.wikimedia.org/wikipedia/commons/9/9c/Pakistan_Districts.svg) and is in [public domain](https://en.wikipedia.org/wiki/Public_domain).
 
 ### Changes
 
