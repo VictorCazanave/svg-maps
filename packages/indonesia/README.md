@@ -13,7 +13,6 @@ Contains all the states and union territories of Indonesia:
 * East Kalimantan
 * East Nusa Tenggara
 * Gorontalo
-* Special Region of Jakarta
 * Jambi
 * Lampung
 * Maluku
@@ -27,12 +26,13 @@ Contains all the states and union territories of Indonesia:
 * South Kalimantan
 * South Sulawesi
 * South Sumatra
+* Special Region of Jakarta
+* Special Region of Yogyakarta
 * West Java
 * West Kalimantan
 * West Nusa Tenggara
 * West Papua
 * West Sulawesi
-* Special Region of Yogyakarta
 
 ## Installation
 
