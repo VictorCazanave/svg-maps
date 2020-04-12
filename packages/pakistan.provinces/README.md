@@ -20,11 +20,11 @@ Federal Territory:
 
 ### npm
 
-`npm install --save @svg-maps/pakistan.territories`
+`npm install --save @svg-maps/pakistan.provinces`
 
 ### yarn
 
-`yarn add @svg-maps/pakistan.territories`
+`yarn add @svg-maps/pakistan.provinces`
 
 ## Credits
 
