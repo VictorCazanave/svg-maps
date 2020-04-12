@@ -1,6 +1,6 @@
 # SVG Maps
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-green.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
@@ -76,6 +76,7 @@ Thanks goes to these wonderful people:
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Abiseban147"><img src="https://avatars2.githubusercontent.com/u/31163831?v=4" width="100px;" alt=""/><br /><sub><b>Abiseban</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Abiseban147" title="Code">💻</a></td>
+    <td align="center"><a href="https://noorjafri.com"><img src="https://avatars3.githubusercontent.com/u/13905049?v=4" width="100px;" alt=""/><br /><sub><b>Noor Jafri</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=nurely" title="Code">💻</a></td>
   </tr>
 </table>
 
