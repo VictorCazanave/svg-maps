@@ -1,6 +1,6 @@
 # 🇮🇩 Indonesia
 
-Contains all the states and union territories of Indonesia:
+Contains all the province of Indonesia:
 * Aceh
 * Bali
 * Bangka Belitung Islands
