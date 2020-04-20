@@ -1,6 +1,6 @@
 # 🇿🇼 Zimbabwe
 
-Contains all the provinces of Zinbabwe:
+Contains all the provinces of Zimbabwe:
 
 * Bulawayo
 * Harare
