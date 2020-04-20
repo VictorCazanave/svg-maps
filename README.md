@@ -35,7 +35,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇺🇸[USA, Counties](packages/usa.counties)
 * 🇺🇸[USA, Utah](packages/usa.utah)
 * 🌍[World](packages/world)
-* 🇿🇼[Zimbabwe](packages/world)
+* 🇿🇼[Zimbabwe](packages/zimbabwe)
 
 ## SVG files
 

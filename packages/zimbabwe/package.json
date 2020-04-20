@@ -1,0 +1,19 @@
+{
+	"name": "@svg-maps/zimbabwe",
+	"version": "1.0.0",
+	"description": "Map of Zimbabwe",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/zimbabwe"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"zimbabwe"
+	],
+	"author": "Nigel Mukandi <mapiye.nigel@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	}
+}
