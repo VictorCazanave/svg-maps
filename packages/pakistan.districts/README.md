@@ -160,7 +160,7 @@ Contains all the districts of Pakistan:
 
 This map is based on the work of [Schajee](https://commons.wikimedia.org/wiki/User:Schajee).
 
-The original map is available [here](https://upload.wikimedia.org/wikipedia/commons/9/9c/Pakistan_Districts.svg) and is in [public domain](https://en.wikipedia.org/wiki/Public_domain).
+The original map is available [here](https://en.wikipedia.org/wiki/File:Pakistan_Districts.svg) and is in [public domain](https://en.wikipedia.org/wiki/Public_domain).
 
 ### Changes
 
