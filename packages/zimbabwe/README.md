@@ -1,7 +1,6 @@
 # 🇿🇼 Zimbabwe
 
 Contains all the provinces of Zimbabwe:
-
 * Bulawayo
 * Harare
 * Manicaland
@@ -27,7 +26,7 @@ Contains all the provinces of Zimbabwe:
 
 This map is based on the work of [Mangwani](https://commons.wikimedia.org/wiki/User:Mangwanani).
 
-The original map is available [here](https://commons.wikimedia.org/wiki/File:Provinces_of_Zimbabwe.svg) under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license.
+The original map is available [here](https://commons.wikimedia.org/wiki/File:Provinces_of_Zimbabwe.svg) and is in [public domain](https://en.wikipedia.org/wiki/Public_domain).
 
 ### Changes
 
