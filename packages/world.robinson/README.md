@@ -234,6 +234,4 @@ The original map is available [here](https://simplemaps.com/resources/svg-world)
 ### Changes
 
 * Remove unnecessary attributes
-* Replace title by name attributes
-* Add viewBox
-* Rename ids
+
