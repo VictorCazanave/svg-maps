@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/pakistan.districts",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Pakistan districts",
 	"main": "index.js",
 	"repository": {
