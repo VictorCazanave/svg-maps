@@ -1,5 +1,9 @@
 # 🇹🇼 Taiwan, main island
 
+⚠️ **DO NOT USE THIS PACKAGE** ⚠️
+
+*Currently it does not respect the license of the original map. If [simplemaps](https://simplemaps.com) does not allow us to modify and distribute their maps, it will be unpublished and replaced by a map from another legal source.*
+
 Contains all the counties and cities of the main island. Same as [Taiwan](/packages/taiwan/) but without Kinmen County and Lienchiang County:
 * Changhua County
 * Chiayi City
