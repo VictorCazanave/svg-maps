@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/world",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of World",
 	"main": "index.js",
 	"repository": {
@@ -18,4 +18,3 @@
 	},
 	"license": "CC-BY-4.0"
 }
-
