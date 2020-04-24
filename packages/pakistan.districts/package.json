@@ -16,5 +16,6 @@
 	"author": "Noor Jafri <noor.jafri@live.com>",
 	"publishConfig": {
 		"access": "public"
-	}
+	},
+	"license": "Unlicense"
 }
