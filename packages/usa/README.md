@@ -1,5 +1,7 @@
 # 🇺🇸 USA
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Contains all the states of the United States of America:
 * Alaska
 * Alabama
@@ -65,7 +67,7 @@ Contains all the states of the United States of America:
 
 ## Credits
 
-This map is based on the work of [amcharts](https://www.amcharts.com).
+This map is based on the work of [amCharts](https://www.amcharts.com).
 
 The original map is available [here](https://www.amcharts.com/svg-maps/?map=usa) under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license.
 
