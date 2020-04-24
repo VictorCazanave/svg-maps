@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/sri-lanka",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Sri Lanka",
 	"main": "index.js",
 	"repository": {
