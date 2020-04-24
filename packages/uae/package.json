@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/uae",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Map of UAE",
 	"main": "index.js",
 	"repository": {
