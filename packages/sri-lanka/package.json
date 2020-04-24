@@ -15,5 +15,6 @@
 	"author": "Abiseban Pirapaharan <abiseban@gmail.com>",
 	"publishConfig": {
 		"access": "public"
-	}
+	},
+	"license": "CC-BY-4.0"
 }

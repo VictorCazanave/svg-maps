@@ -1,5 +1,7 @@
 # 🇫🇷 France, departments
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Contains all the departments of Metropolitan France:
 * Ain
 * Aisne
@@ -112,7 +114,7 @@ Contains all the departments of Metropolitan France:
 
 This map is based on the work of [MapSVG](https://mapsvg.com).
 
-The original map is available [here](https://mapsvg.com/maps/france-departments) and free to be used in any custom project.
+The original map is available [here](https://mapsvg.com/maps/france-departments) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Changes
 

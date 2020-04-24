@@ -1,20 +1,21 @@
 {
-  "name": "@svg-maps/france.regions",
-  "version": "1.1.0",
-  "description": "Map of France regions",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/france.regions"
-  },
-  "keywords": [
-    "svg",
-    "map",
-    "france",
-    "regions"
-  ],
-  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@svg-maps/france.regions",
+	"version": "1.1.0",
+	"description": "Map of France regions",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/france.regions"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"france",
+		"regions"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-NC-4.0"
 }

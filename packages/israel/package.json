@@ -15,5 +15,6 @@
 	"author": "eli <eli.takala@datamix.co.il>",
 	"publishConfig": {
 		"access": "public"
-	}
+	},
+	"license": "CC-BY-4.0"
 }

@@ -1,5 +1,7 @@
 # 🇺🇸 USA, Counties
 
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
 Contains all the counties and "[county-equivalents](https://en.wikipedia.org/wiki/County_%28United_States%29#County_equivalents)" in the United States of America:
 * Abbeville, SC
 * Acadia, LA
@@ -3158,7 +3160,9 @@ Note: In general, "county," "parish," "borough," and other such signifiers are n
 
 ## Credits
 
-The original image is available [here](https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg) (downloaded July 2019). It was first created by the US Census Bureau and has been modified by Wikimedia Commons users.
+This map was first created by the [United States Census Bureau](https://www.census.gov/) and has been modified by Wikimedia Commons users.
+
+The original map is available [here](https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg) (downloaded July 2019) and is in the [public domain](https://en.wikipedia.org/wiki/Public_domain).
 
 Further changes were made by [keatonboyle](https://github.com/keatonboyle) and are described below.
 

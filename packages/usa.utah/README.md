@@ -1,4 +1,6 @@
-# 🇺🇸 Utah, USA
+# 🇺🇸 USA, Utah
+
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Contains all the counties of the Utah state:
 * Beaver County

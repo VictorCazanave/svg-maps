@@ -15,5 +15,6 @@
 	"author": "Muhammed Hafez <mh.mazen@hotmail.com>",
 	"publishConfig": {
 		"access": "public"
-	}
+	},
+	"license": "CC-BY-4.0"
 }
