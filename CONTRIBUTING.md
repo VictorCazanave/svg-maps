@@ -64,7 +64,8 @@ Here is a simplified example of `new-zealand.svg`:
 	"author": "[Your Name] <[your email]>",
 	"publishConfig": {
 		"access": "public"
-	}
+	},
+	"license": "[License of the map]"
 }
 
 ```
@@ -74,9 +75,12 @@ Here is a simplified example of `new-zealand.svg`:
 * The `/packages/[new-map]/index.js` file should be generated. Otherwise it means the SVG file is not valid
 
 ### Documentation
+* Add a `/packages/[new-map]/LICENSE.md` file with the license of the map ([Creative Commons Markdown](https://github.com/idleberg/Creative-Commons-Markdown))
+
 * Create a new `/packages/[new-map]/README.md` file to:
+  * indicate the license of the map with a [badge](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
   * list all the locations (states, counties...) alphabetically sorted and using the same names as in the SVG file
-  * indicate the credits (source, license...)
+  * indicate the credits (source, license of the original map...)
   * describe your modifications
 
 * Add the new map in the main `README.md` file:
