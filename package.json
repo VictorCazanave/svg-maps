@@ -15,8 +15,8 @@
 		"url": "git+https://github.com/VictorCazanave/svg-maps.git"
 	},
 	"keywords": [
+		"map",
 		"svg",
-		"svg-maps",
 		"javascript"
 	],
 	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
