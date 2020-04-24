@@ -1,20 +1,21 @@
 {
-  "name": "@svg-maps/usa.utah",
-  "version": "1.1.0",
-  "description": "Map of Utah, USA",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.utah"
-  },
-  "keywords": [
-    "svg",
-    "map",
-    "usa",
-    "utah"
-  ],
-  "author": "Victor Cazanave <victor.cazanave@gmail.com>",
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@svg-maps/usa.utah",
+	"version": "1.1.0",
+	"description": "Map of Utah, USA",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.utah"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"usa",
+		"utah"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Unlicense"
 }
