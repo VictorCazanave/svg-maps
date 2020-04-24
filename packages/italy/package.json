@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/italy",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Italy",
 	"main": "index.js",
 	"repository": {
