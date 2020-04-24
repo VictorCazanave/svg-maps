@@ -15,5 +15,6 @@
 	"author": "Nigel Mukandi <mapiye.nigel@gmail.com>",
 	"publishConfig": {
 		"access": "public"
-	}
+	},
+	"license": "Unlicense"
 }
