@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/thailand",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Thailand",
 	"main": "index.js",
 	"repository": {
