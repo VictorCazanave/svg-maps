@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/china",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of China",
 	"main": "index.js",
 	"repository": {
