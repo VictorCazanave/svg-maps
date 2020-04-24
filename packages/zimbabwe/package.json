@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/zimbabwe",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Zimbabwe",
 	"main": "index.js",
 	"repository": {
