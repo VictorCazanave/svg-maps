@@ -16,5 +16,6 @@
 	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
 	"publishConfig": {
 		"access": "public"
-	}
+	},
+	"license": "Unlicense"
 }
