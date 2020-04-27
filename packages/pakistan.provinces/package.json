@@ -1,0 +1,22 @@
+{
+	"name": "@svg-maps/pakistan.provinces",
+	"version": "1.0.0",
+	"description": "Map of Provinces and Territories of Pakistan",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/pakistan.provinces"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"pakistan",
+		"territories",
+		"provinces",
+		"adminstrative units"
+	],
+	"author": "Noor Jafri <noor.jafri@live.com>",
+	"publishConfig": {
+		"access": "public"
+	}
+}
