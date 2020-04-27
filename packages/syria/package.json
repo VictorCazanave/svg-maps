@@ -1,0 +1,19 @@
+{
+  "name": "@svg-maps/syria",
+  "version": "1.0.0",
+  "description": "Map of Syria",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/syria"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "syria"
+  ],
+  "author": "Muhammed Hafez <mh.mazen@hotmail.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}

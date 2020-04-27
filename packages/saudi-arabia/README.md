@@ -40,3 +40,4 @@ The original map is available [here](https://mapsvg.com/maps/saudi-arabia) under
 * Use English names
 * Add viewBox
 * Rename ids
+
