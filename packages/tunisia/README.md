@@ -1,9 +1,5 @@
 # 🇹🇳 Tunisia
 
-⚠️ **DO NOT USE THIS PACKAGE** ⚠️
-
-*Currently it does not respect the license of the original map. If [simplemaps](https://simplemaps.com) does not allow us to modify and distribute their maps, it will be unpublished and replaced by a map from another legal source.*
-
 Contains all the governorates of the administrative divisions of Tunisia:
 * Ariana Governorate
 * Béja Governorate
@@ -46,7 +42,7 @@ Contains all the governorates of the administrative divisions of Tunisia:
 
 This map is based on the work of [simplemaps](https://simplemaps.com).
 
-The original map is available [here](https://simplemaps.com/resources/svg-tn) under the [Free for Commercial and Personal Use](https://simplemaps.com/resources/svg-license) license.
+The original map is available [here](https://simplemaps.com/resources/svg-tn) under the [Free for Commercial and Personal Use](https://simplemaps.com/resources/svg-license) license and its distribution has been kindly allowed only for this project.
 
 ### Changes
 

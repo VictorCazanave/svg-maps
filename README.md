@@ -27,10 +27,10 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇪🇸[Spain](packages/spain)
 * 🇱🇰[Sri Lanka](packages/sri-lanka)
 * 🇸🇪[Sweden](packages/sweden)
-* ~~🇹🇼[Taiwan](packages/taiwan)~~
-* ~~🇹🇼[Taiwan, Main Island](packages/taiwan.main)~~
+* 🇹🇼[Taiwan](packages/taiwan)
+* 🇹🇼[Taiwan, Main Island](packages/taiwan.main)
 * 🇹🇭[Thailand](packages/thailand)
-* ~~🇹🇳[Tunisia](packages/tunisia)~~
+* 🇹🇳[Tunisia](packages/tunisia)
 * 🇦🇪[UAE](packages/uae)
 * 🇺🇸[USA](packages/usa)
 * 🇺🇸[USA, Counties](packages/usa.counties)
