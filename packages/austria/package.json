@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/austria",
+	"version": "1.0.0",
+	"description": "Map of Austria",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/austria"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"austria"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
