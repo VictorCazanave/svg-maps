@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Contains all the states of Nigeria:
+Contains all the states and the Federal Capital Territory (FCT) of Nigeria:
 * Abia
 * Adamawa
 * Akwa Ibom
@@ -17,7 +17,7 @@ Contains all the states of Nigeria:
 * Edo
 * Ekiti
 * Enugu
-* FCT
+* Federal Capital Territory
 * Gombe
 * Imo
 * Jigawa
@@ -59,6 +59,7 @@ The original map is available [here](https://mapsvg.com/maps/nigeria) under the 
 
 ### Changes
 
+* Remove unnecessary attributes
 * Replace title by name attributes
-* Rounded up viewBox
+* Add viewBox
 * Rename ids
