@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/nigeria",
+	"version": "1.0.0",
+	"description": "Map of Nigeria",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/nigeria"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"nigeria"
+	],
+	"author": "Michael Chukwu <naemugo@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
