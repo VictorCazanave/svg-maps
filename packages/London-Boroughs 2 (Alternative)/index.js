@@ -1,0 +1,1 @@
+export default {"viewBox":"0 0 3405 2630","locations":[]}
