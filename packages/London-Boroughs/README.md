@@ -9,7 +9,7 @@ Contains all the 33 boroughs of London:
 * Brent
 * Bromley
 * Camden Town
-* City (also possible to combine this with Southwark)
+* City
 * Croydon
 * Ealing
 * Enfield
@@ -47,4 +47,10 @@ Contains all the 33 boroughs of London:
 ### yarn
 
 `yarn add @svg-maps/London-Boroughs`
+
+## Credits
+
+This map is based on topojson from [Vega](https://github.com/vega).
+
+The original topojson is available [here](https://vega.github.io/vega-datasets/data/londonBoroughs.json).
 
