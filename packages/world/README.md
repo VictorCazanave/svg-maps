@@ -146,7 +146,6 @@ Contains all the countries in the World:
 * Moldova
 * Madagascar
 * Montenegro
-* Saint Martin
 * Marshall Islands
 * Macedonia
 * Mali
