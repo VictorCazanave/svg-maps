@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Contains all the states of Honduras:
+Contains all the dapartments of Honduras:
 * Atlántida
 * Choluteca
 * Colón
@@ -37,3 +37,11 @@ Contains all the states of Honduras:
 This map is based on the work of [MapSVG](https://mapsvg.com).
 
 The original map is available [here](https://mapsvg.com/maps/honduras) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
+
+### Changes
+
+- Added `aria-label` and `viewBox` attributes in the &lt;svg&gt; tag
+- Changed `title` attribute to `name` in all &lt;path&gt; tags
+- Renamed `id` attribute values
+- Removed &lt;xml&gt; tag
+- Removed unnecessary attributes in &lt;svg&gt; tag
