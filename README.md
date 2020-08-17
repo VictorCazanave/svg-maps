@@ -15,6 +15,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇫🇷 [France, Regions](packages/france.regions)
 * 🇩🇪 [Germany](packages/germany)
 * 🇬🇷 [Greece](packages/greece)
+* 🇭🇳 [Honduras](packages/honduras)
 * 🇭🇰 [Hong Kong](packages/hong-kong)
 * 🇮🇳 [India](packages/india)
 * 🇮🇱 [Israel](packages/israel)
