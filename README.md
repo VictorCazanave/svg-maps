@@ -1,6 +1,6 @@
 # SVG Maps
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-green.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
@@ -86,6 +86,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://feldmanweber.com"><img src="https://avatars0.githubusercontent.com/u/18507767?v=4" width="100px;" alt=""/><br /><sub><b>Matt Weber</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=weber93" title="Code">💻</a></td>
     <td align="center"><a href="http://licorneltd.tech"><img src="https://avatars2.githubusercontent.com/u/7737341?v=4" width="100px;" alt=""/><br /><sub><b>Michael Chukwu</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=michaelchukwu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ashmidgley"><img src="https://avatars2.githubusercontent.com/u/13953984?v=4" width="100px;" alt=""/><br /><sub><b>Ash Midgley</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=ashmidgley" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/avalladaresm"><img src="https://avatars3.githubusercontent.com/u/4381970?v=4" width="100px;" alt=""/><br /><sub><b>Alejandro Valladares</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=avalladaresm" title="Code">💻</a></td>
   </tr>
 </table>
 
