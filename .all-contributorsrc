@@ -129,6 +129,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "avalladaresm",
+      "name": "Alejandro Valladares",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4381970?v=4",
+      "profile": "https://github.com/avalladaresm",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
