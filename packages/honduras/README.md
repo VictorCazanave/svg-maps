@@ -40,8 +40,7 @@ The original map is available [here](https://mapsvg.com/maps/honduras) under the
 
 ### Changes
 
-- Added `aria-label` and `viewBox` attributes in the &lt;svg&gt; tag
-- Changed `title` attribute to `name` in all &lt;path&gt; tags
-- Renamed `id` attribute values
-- Removed &lt;xml&gt; tag
-- Removed unnecessary attributes in &lt;svg&gt; tag
+* Remove unnecessary attributes
+* Replace title by name attributes
+* Add viewBox and aria label
+* Rename ids
