@@ -1,6 +1,6 @@
 # 🇭🇳 Honduras, municipalities
 
-[![License: GADM](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://www.gadm.org/license.html)
+[![License: GADM](https://img.shields.io/badge/License-GADM-orange)](https://www.gadm.org/license.html)
 
 Contains all the municipalities of Honduras and municipalities by department maps:
 * La Ceiba
