@@ -1,48 +1,47 @@
 # 🇷🇴️ Romania
 
 Contains the municipality of Bucharest and all the other counties of Romania:
+* Alba
+* Argeș
+* Arad
+* Bacău
+* Bihor
+* Bistrița-Năsăud
+* Brăila
+* Botoșani
+* Brașov
+* Buzău
+* Cluj
+* Călărași
+* Caraș-Severin
+* Constanța
+* Covasna
+* Dâmbovița
 * Dolj
 * Gorj
-* Mehedinti
-* Olt
-* Teleorman
-* Calarasi
-* Dâmbovita
+* Galați
 * Giurgiu
-* Ialomita
-* Constanta
-* Arad
-* Bihor
-* Caras-Severin
-* Timis
-* Botosani
-* Alba
-* Bistrita-Nasaud
-* Cluj
 * Hunedoara
-* Maramures
-* Mures
-* Salaj
-* Satu Mare
-* Arges
-* Sibiu
-* Vâlcea
-* Brasov
-* Covasna
 * Harghita
-* Iasi
-* Neamt
-* Prahova
-* Suceava
-* Bacau
-* Braila
-* Buzau
-* Galati
-* Vaslui
-* Vrancea
 * Ilfov
+* Ialomița
+* Iași
+* Mehedinți
+* Maramureș
+* Mureș
+* Neamț
+* Olt
+* Prahova
+* Sibiu
+* Sălaj
+* Satu Mare
+* Suceava
 * Tulcea
-
+* Timiș
+* Teleorman
+* Vâlcea
+* Vrancea
+* Vaslui
 ## Installation
 
 ### npm
@@ -55,13 +54,13 @@ Contains the municipality of Bucharest and all the other counties of Romania:
 
 ## Credits
 
-This map is based on the work of [simplemaps](https://simplemaps.com).
+This map is based on the work of [MapSVG](https://mapsvg.com).
 
-The original map is available [here](https://simplemaps.com/resources/svg-ro) under the [Free for Commercial and Personal Use](https://simplemaps.com/resources/svg-license) license.
+The original map is available [here](https://mapsvg.com/maps/romania) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Changes
 
-* Added diacritics
-* Changed ids to lowercased car plates abbreviations
-* Added document label
+* Lowercased ids
+* Changed București -> Bucharest
+* Only the useful attributes
 
