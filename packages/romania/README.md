@@ -6,7 +6,6 @@ Contains the municipality of Bucharest and all the other counties of Romania:
 * Mehedinti
 * Olt
 * Teleorman
-* Bucharest
 * Calarasi
 * Dâmbovita
 * Giurgiu
