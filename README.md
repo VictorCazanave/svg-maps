@@ -22,6 +22,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇮🇹 [Italy](packages/italy)
 * 🇯🇵 [Japan](packages/japan)
 * 🇲🇽 [Mexico](packages/mexico)
+* 🇳🇵 [Nepal](packages/nepal)
 * 🇳🇿 [New Zealand](packages/new-zealand)
 * 🇳🇬 [Nigeria](packages/nigeria)
 * 🇵🇰 [Pakistan, Districts](packages/pakistan.districts)

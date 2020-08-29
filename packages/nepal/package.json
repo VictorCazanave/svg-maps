@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/nepal",
+	"version": "1.0.0",
+	"description": "Map of Nepal",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/nepal"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"nepal"
+	],
+	"author": "RC Poudel < rmchndrapdl@gmail.com >",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
