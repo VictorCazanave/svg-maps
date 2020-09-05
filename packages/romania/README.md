@@ -42,6 +42,7 @@ Contains the municipality of Bucharest and all the other counties of Romania:
 * Vâlcea
 * Vrancea
 * Vaslui
+
 ## Installation
 
 ### npm
@@ -60,7 +61,7 @@ The original map is available [here](https://mapsvg.com/maps/romania) under the 
 
 ### Changes
 
-* Lowercased ids
+* Lowercased ids, changed them to ISO 3166-2
 * Changed București -> Bucharest
-* Only the useful attributes
+* Selected only the useful attributes
 
