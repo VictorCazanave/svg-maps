@@ -2,41 +2,41 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Contains all the states and union territories of Indonesia:
+Contains all provinces of Indonesia:
 * Aceh
 * Bali
-* Bangka Belitung
+* Bangka Belitung Islands
 * Bengkulu
 * Banten
 * Gorontalo
 * Jambi
-* Jawa Barat
-* Jawa Timur
-* Jawa Tengah
-* Jakarta Raya
-* Kalimantan Barat
-* Kalimantan Timur
-* Kalimantan Selatan
-* Kalimantan Tengah
-* Kalimantan Utara
-* Kepulauan Riau
+* West Java
+* East Java
+* Central Java
+* Special Capital Region of Jakarta
+* West Kalimantan
+* East Kalimantan
+* South Kalimantan
+* Central Kalimantan
+* North Kalimantan
+* Riau Islands
 * Lampung
 * Maluku
-* Maluku Utara
-* Nusa Tenggara Barat
-* Nusa Tenggara Timur
+* North Maluku
+* West Nusa Tenggara
+* East Nusa Tenggara
 * Papua
-* Papua Barat
+* West Papua
 * Riau
-* Sulawesi Barat
-* Sulawesi Selatan
-* Sulawesi Tengah
-* Sulawesi Tenggara
-* Sulawesi Utara
-* Sumatera Barat
-* Sumatera Selatan
-* Sumatera Utara
-* Yogyakarta
+* West Sulawesi
+* South Sulawesi
+* Central Sulawesi
+* Southeast Sulawesi
+* North Sulawesi
+* West Sumatra
+* South Sumatra
+* North Sumatra
+* Special Region of Yogyakarta
 
 ## Installation
 
@@ -56,8 +56,6 @@ The original map is available [here](https://mapsvg.com/maps/indonesia) under th
 
 ### Changes
 
-* Remove unnecessary attributes
-* Replace title by name attributes
-* Add viewBox
-* Rename ids
-* Sort `<path/>` alphabetically
+* Add Map from [mapsvg.com](https://mapsvg.com/maps/indonesia)
+* Refactor svg format to follow guideline
+* Change provinces name with English version
