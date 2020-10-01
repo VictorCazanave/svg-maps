@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/indonesia",
+	"version": "1.0.0",
+	"description": "Map of Indonesia",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/indonesia"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"indonesia"
+	],
+	"author": "Bashir Arrohman <tyangjawi03@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
