@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/cambodia",
+	"version": "1.0.0",
+	"description": "Map of Cambodia",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/cambodia"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"cambodia"
+	],
+	"author": "Vong Mengty <vongmengty55@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
