@@ -4,29 +4,29 @@
 
 Contains all the provinces of Cambodia:
 * Banteay Meanchey
-* Batdambang
+* Battambang
 * Kampong Cham
 * Kampong Chhnang
-* Kampong Spoe
-* Kampong Thum
+* Kampong Speu
+* Kampong Thom
 * Kampot
 * Kandal
-* Kaoh Kong
-* Kracheh
-* Krong Keb
-* Krong Pailin
-* Krong Preah Sihanouk
-* Mondol Kiri
-* Otdar Meanchey
+* Kep
+* Koh Kong
+* Kratie
+* Mondulkiri
+* Oddar Meanchey
+* Pailin
 * Phnom Penh
-* Pouthisat
+* Preah Sihanouk
 * Preah Vihear
 * Prey Veng
-* Rotana Kiri
+* Pursat
+* Rattanakkiri
 * Siem Reap
-* Steung Treng
+* Stung Treng
 * Svay Rieng
-* Takev
+* Ta Keo
 * Tboung Khmum
 
 ## Installation
