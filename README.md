@@ -38,6 +38,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇹🇭 [Thailand](packages/thailand)
 * 🇹🇳 [Tunisia](packages/tunisia)
 * 🇦🇪 [UAE](packages/uae)
+* 🇺🇦 [Ukraine](packages/ukraine)
 * 🇺🇸 [USA](packages/usa)
 * 🇺🇸 [USA, Counties](packages/usa.counties)
 * 🇺🇸 [USA, Utah](packages/usa.utah)
