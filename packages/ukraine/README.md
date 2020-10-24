@@ -2,33 +2,33 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Contains all the regions of Ukraine:
-* Cherkasy Oblast
-* Chernihiv Oblast
-* Chernivtsi Oblast
+Contains all the regions (oblasts) and the capital city of Ukraine:
+* Cherkasy
+* Chernihiv
+* Chernivtsi
 * Crimea
-* Dnipropetrovsk Oblast
-* Donetsk Oblast
-* Ivano-Frankivsk Oblast
-* Kharkiv Oblast
-* Kherson Oblast
-* Khmelnytskyi Oblast
-* Kirovohrad Oblast
+* Dnipropetrovsk
+* Donetsk
+* Ivano-Frankivsk
+* Kharkiv
+* Kherson
+* Khmelnytskyi
+* Kirovohrad
+* Kyiv
 * Kyiv City
-* Kyiv Oblast
-* Luhansk Oblast
-* Lviv Oblast
-* Mykolaiv Oblast
-* Odessa Oblast
-* Poltava Oblast
-* Rivne Oblast
-* Sumy Oblast
-* Ternopil Oblast
-* Vinnytsia Oblast
-* Volyn Oblast
-* Zakarpattia Oblast
-* Zaporizhia Oblast
-* Zhytomyr Oblast
+* Luhansk
+* Lviv
+* Mykolaiv
+* Odessa
+* Poltava
+* Rivne
+* Sumy
+* Ternopil
+* Vinnytsia
+* Volyn
+* Zakarpattia
+* Zaporizhia
+* Zhytomyr
 
 ## Installation
 
