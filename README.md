@@ -34,6 +34,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇸🇪 [Sweden](packages/sweden)
 * 🇹🇼 [Taiwan](packages/taiwan)
 * 🇹🇼 [Taiwan, Main Island](packages/taiwan.main)
+* 🇹🇿 [Tanzania](packages/tanzania)
 * 🇹🇭 [Thailand](packages/thailand)
 * 🇹🇳 [Tunisia](packages/tunisia)
 * 🇦🇪 [UAE](packages/uae)
