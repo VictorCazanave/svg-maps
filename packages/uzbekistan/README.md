@@ -6,7 +6,7 @@
 
 ### All Regions:
 * Andijan
-* Buxara
+* Bukhara
 * Fergana
 * Jizzakh
 * Namangan
