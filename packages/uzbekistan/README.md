@@ -5,24 +5,24 @@
 ## Contents:
 
 ### All Regions:
-* Andijon
-* Buxoro
-* Farg‘ona
-* Jizzax
+* Andijan
+* Buxara
+* Fergana
+* Jizzakh
 * Namangan
-* Navoiy
-* Qashqadaryo
-* Samarqand
-* Sirdaryo
-* Surxondaryo
-* Toshkent
-* Xorazm
+* Navaiy
+* Kashqadarya
+* Samarkand
+* Sirdarya
+* Surkhandarya
+* Tashkent
+* Khorezm
 
 ### Sea area:
-* Orol Dengizi
+* Aral Sea
 
 ### Autonomous Republic:
-* Qoraqalpog‘iston
+* Karakalpak republic
 
 ## Installation
 
@@ -38,12 +38,12 @@
 
 This map is based on the work of [MapSVG](https://mapsvg.com).
 
-The original map is available [here](https://mapsvg.com/maps/japan) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
+The original map is available [here](https://mapsvg.com/maps/uzbekistan) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Changes
 
 * Remove unnecessary attributes
-* Replace title by name attributes
 * Add viewBox
 * Rename ids
+* Translated names of the regions to English
 * Sort `<path/>` alphabetically
