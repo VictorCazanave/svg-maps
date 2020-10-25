@@ -97,7 +97,6 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/tyangjawi03"><img src="https://avatars0.githubusercontent.com/u/7666467?v=4" width="100px;" alt=""/><br /><sub><b>tyangjawi03</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tyangjawi03" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/vongmengty"><img src="https://avatars3.githubusercontent.com/u/19471093?v=4" width="100px;" alt=""/><br /><sub><b>Mengty Vong</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=vongmengty" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/OsyaLdn"><img src="https://avatars2.githubusercontent.com/u/11708080?v=4" width="100px;" alt=""/><br /><sub><b>OlesiaLdn</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=OsyaLdn" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Disctanger"><img src="https://avatars1.githubusercontent.com/u/10447714?s=460&u=88f7c24ff87d9ce9b552e828c09f1af8d43df105&v=4" width="100px;" alt=""/><br /><sub><b>Disctanger</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Disctanger" title="Code">💻</a></td>
   </tr>
 </table>
 
