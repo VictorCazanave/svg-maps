@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/usa.texas",
+	"version": "1.0.0",
+	"description": "Map of Texas, USA",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.texas"
+	},
+	"keywords": [
+		"svg",
+		"map",
+        "usa",
+        "texas"
+	],
+	"author": "Ashley Johnson <ashvalejohn@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Unlicense"
+}
