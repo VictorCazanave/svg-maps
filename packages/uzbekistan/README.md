@@ -2,27 +2,21 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## Contents:
-
-### All Regions:
+Contains all the regions, the autonomous republic and the independent city of Uzbekistan:
+* Aral Sea
 * Andijan
 * Bukhara
 * Fergana
 * Jizzakh
+* Karakalpakstan
 * Namangan
-* Navaiy
-* Kashqadarya
-* Samarkand
-* Sirdarya
-* Surkhandarya
+* Navoiy
+* Qashqadaryo
+* Samarqand
+* Sirdaryo
+* Surxondaryo
 * Tashkent
-* Khorezm
-
-### Sea area:
-* Aral Sea
-
-### Autonomous Republic:
-* Karakalpak republic
+* Xorazm
 
 ## Installation
 
@@ -43,7 +37,7 @@ The original map is available [here](https://mapsvg.com/maps/uzbekistan) under t
 ### Changes
 
 * Remove unnecessary attributes
+* Replace title by name attributes
+* Use English names
 * Add viewBox
 * Rename ids
-* Translated names of the regions to English
-* Sort `<path/>` alphabetically
