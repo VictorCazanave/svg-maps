@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/uzbekistan",
+	"version": "1.0.0",
+	"description": "Map of Uzbekistan",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/uzbekistan"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"uzbekistan"
+	],
+	"author": "Abduvali Mamajonov <disctanger@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
