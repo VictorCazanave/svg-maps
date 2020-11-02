@@ -84,3 +84,5 @@ Contains all the counties of the Florida state:
 ## Credits
 
 This map is based on the work of [Dbenbenn](https://commons.wikimedia.org/wiki/User:Dbenbenn).
+
+The original map is available [here](https://commons.wikimedia.org/wiki/File:Map_of_Florida_highlighting_Santa_Rosa_County.svg) under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license.
