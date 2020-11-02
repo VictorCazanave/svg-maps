@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/<%= package %>",
+	"version": "1.0.0",
+	"description": "Map of <%= map %>",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/<%= package %>"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"<%= map.toLowerCase() %>"
+	],
+	"author": "<%- author %>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "<%= license %>"
+}

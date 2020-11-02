@@ -16,5 +16,9 @@
 		"cli"
 	],
 	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
-	"license": "GPL-3.0"
+	"license": "GPL-3.0",
+	"devDependencies": {},
+	"dependencies": {
+		"yo": "^3.1.1"
+	}
 }
