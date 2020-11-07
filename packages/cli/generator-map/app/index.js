@@ -1,3 +1,4 @@
+const path = require('path')
 const fs = require('fs');
 const Generator = require('yeoman-generator');
 
@@ -65,7 +66,11 @@ module.exports = class extends Generator {
 		// Create package folder
 		fs.mkdirSync(packagePath)
 
-		// Change destination root to package folder to copy templates
+		// Use absolute path of templates folder 
+		// because default is ./templates/ and depends on working directory
+		this.sourceRoot(path.join(__dirname, 'templates'))
+
+		// Change destination root to copy templates in created package folder
 		this.destinationRoot(packagePath)
 
 		// Generate package.json
