@@ -1,6 +1,6 @@
 # SVG Maps
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-green.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
@@ -99,6 +99,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/vongmengty"><img src="https://avatars3.githubusercontent.com/u/19471093?v=4" width="100px;" alt=""/><br /><sub><b>Mengty Vong</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=vongmengty" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/OsyaLdn"><img src="https://avatars2.githubusercontent.com/u/11708080?v=4" width="100px;" alt=""/><br /><sub><b>OlesiaLdn</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=OsyaLdn" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Disctanger"><img src="https://avatars3.githubusercontent.com/u/10447714?v=4" width="100px;" alt=""/><br /><sub><b>Mamajonov Abduvali</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Disctanger" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ashvalejohn"><img src="https://avatars0.githubusercontent.com/u/15790488?v=4" width="100px;" alt=""/><br /><sub><b>Ashley Valenzuela Johnson</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=ashvalejohn" title="Code">💻</a></td>
   </tr>
 </table>
 
