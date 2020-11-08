@@ -12,6 +12,7 @@ program
 	.name("svg-maps")
 	.version(module.exports.version, '-v, --version')
 
+// TODO: Allow to type name of map directly ('add [map]') to skip first prompting?
 program.command('add')
 	.description('Create a new map package with the same format as svg-maps')
 	.action(runGenerator)
