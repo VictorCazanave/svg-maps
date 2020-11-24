@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/cape-verde",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"description": "Map of Cape Verde",
 	"main": "index.js",
 	"repository": {
@@ -10,7 +10,7 @@
 	"keywords": [
 		"svg",
 		"map",
-		"cape-verde"
+		"cape verde"
 	],
 	"author": "José C. Paiva <josepaiva94@gmail.com>",
 	"publishConfig": {
