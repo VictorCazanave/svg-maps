@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/cape-verde",
+	"version": "1.0.0",
+	"description": "Map of Cape Verde",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/cape-verde"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"cape verde"
+	],
+	"author": "José C. Paiva <josepaiva94@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
