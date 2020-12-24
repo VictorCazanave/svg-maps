@@ -42,6 +42,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇺🇦 [Ukraine](packages/ukraine)
 * 🇺🇸 [USA](packages/usa)
 * 🇺🇸 [USA, Counties](packages/usa.counties)
+* 🇺🇸 [USA, Michigan](packages/usa.michigan)
 * 🇺🇸 [USA, Florida](packages/usa.florida)
 * 🇺🇸 [USA, Utah](packages/usa.utah)
 * 🇺🇿 [Uzbekistan](packages/uzbekistan)
