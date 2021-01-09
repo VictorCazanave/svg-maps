@@ -1,28 +1,28 @@
-# 🌍 World, Capitals
+# 🌍 World Capitals
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Contains all the capitals for countries in the World:
-* Andorra
-* United Arab Emirates
-* Afghanistan
-* Antigua and Barbuda
-* Anguilla
-* Albania
-* Armenia
-* Angola
-* Argentina
-* American Samoa
-* Austria
-* Australia
-* Aruba
-* Aland Islands
-* Azerbaijan
-* Bosnia and Herzegovina
-* Barbados
-* Bangladesh
-* Belgium
-* Burkina Faso
+* Andorra la Vella, Andorra
+* Abu Dhabi, United Arab Emirates
+* Kabul, Afghanistan
+* Saint John's, Antigua and Barbuda
+* The Valley, Anguilla
+* Tirana, Albania
+* Yerevan, Armenia
+* Luanda, Angola
+* Buenos Aires, Argentina
+* Pago Pago, American Samoa
+* Vienna, Austria
+* Canberra, Australia
+* Oranjestad, Aruba
+* Mariehamn, Aland Islands
+* Baku, Azerbaijan
+* Sarajevo, Bosnia and Herzegovina
+* Bridgetown, Barbados
+* Dhaka, Bangladesh
+* Brussels, Belgium
+* Ouagadougou, Burkina Faso
 * Bulgaria
 * Bahrain
 * Burundi
