@@ -23,36 +23,36 @@ Contains all the capitals for countries in the World:
 * Dhaka, Bangladesh
 * Brussels, Belgium
 * Ouagadougou, Burkina Faso
-* Bulgaria
-* Bahrain
-* Burundi
-* Benin
-* Saint Barthelemy
-* Brunei Darussalam
-* Bolivia
-* Bermuda
-* Bonaire,  Saint Eustachius and Saba
-* Brazil
-* Bahamas
-* Bhutan
-* Bouvet Island
-* Botswana
-* Belarus
-* Belize
-* Canada
-* Cocos  (Keeling)  Islands
-* Democratic Republic of Congo
-* Central African Republic
-* Republic of Congo
-* Switzerland
-* Côte d'Ivoire
-* Cook Islands
-* Chile
-* Cameroon
-* China
-* Colombia
-* Costa Rica
-* Cuba
+* Sofia, Bulgaria
+* Manama, Bahrain
+* Gitega, Burundi
+* Porto-Novo, Benin
+* Gustavia, Saint Barthelemy
+* Bandar Seri Begawan, Brunei Darussalam
+* La Paz, Bolivia
+* Hamilton, Bermuda
+* Oranjestad, Bonaire, Saint Eustachius and Saba
+* Brasilia, Brazil
+* Nassau, Bahamas
+* Thimphu, Bhutan
+* Oslo, Bouvet Island
+* Gaborone, Botswana
+* Minsk, Belarus
+* Belmopan, Belize
+* Ottawa, Canada
+* West Island, Cocos (Keeling) Islands
+* Kinshasa, Democratic Republic of Congo
+* Bangui, Central African Republic
+* Brazzaville, Republic of Congo
+* Bern, Switzerland
+* Yamoussoukro, Côte d'Ivoire
+* Avarua, Cook Islands
+* Santiago, Chile
+* Yaounde, Cameroon
+* Beijing, China
+* Bogota, Colombia
+* San José, Costa Rica
+* Havana, Cuba
 * Cape Verde
 * Curaçao
 * Christmas Island
