@@ -53,56 +53,56 @@ Contains all the capitals for countries in the World:
 * Bogota, Colombia
 * San José, Costa Rica
 * Havana, Cuba
-* Cape Verde
-* Curaçao
-* Christmas Island
-* Cyprus
-* Czech Republic
-* Germany
-* Djibouti
-* Denmark
-* Dominica
-* Dominican Republic
-* Algeria
-* Ecuador
-* Egypt
-* Estonia
-* Western Sahara
-* Eritrea
-* Spain
-* Ethiopia
-* Finland
-* Fiji
-* Falkland Islands
-* Federated States of Micronesia
-* Faroe Islands
-* France
-* Gabon
-* United Kingdom
-* Georgia
-* Grenada
-* French Guiana
-* Guernsey
-* Ghana
-* Gibraltar
-* Greenland
-* Gambia
-* Guinea
-* Glorioso Islands
-* Guadeloupe
-* Equatorial Guinea
-* Greece
-* South Georgia and South Sandwich Islands
-* Guatemala
-* Guam
-* Guinea-Bissau
-* Guyana
-* Hong Kong
-* Heard Island and McDonald Islands
-* Honduras
-* Croatia
-* Haiti
-* Hungary
+* Praia, Cape Verde
+* Willemstad, Curaçao
+* Flying Fish Cove, Christmas Island
+* Nicosia, Cyprus
+* Prague, Czech Republic
+* Berlin, Germany
+* Djibouti, Djibouti
+* Copenhagen, Denmark
+* Roseau, Dominica
+* Santo Domingo, Dominican Republic
+* Algiers, Algeria
+* Quito, Ecuador
+* Cairo, Egypt
+* Tallinn, Estonia
+* Laayoune, Western Sahara
+* Asmara, Eritrea
+* Madrid, Spain
+* Addis Ababa, Ethiopia
+* Helsinki, Finland
+* Suva, Fiji
+* Stanley, Falkland Islands
+* Palikir, Federated States of Micronesia
+* Tórshavn, Faroe Islands
+* Paris, France
+* Libreville, Gabon
+* London, United Kingdom
+* Tbilisi, Georgia
+* Saint George's, Grenada
+* Cayenne, French Guiana
+* Saint Peter Port, Guernsey
+* Accra, Ghana
+* Gibraltar, Gibraltar
+* Nuuk, Greenland
+* Banjul, Gambia
+* Conakry, Guinea
+* Reunion, Glorioso Islands
+* Basse-Terre, Guadeloupe
+* Malabo, Equatorial Guinea
+* Athens, Greece
+* King Edward Point, South Georgia and South Sandwich Islands
+* Guatemala City, Guatemala
+* Hagåtña, Guam
+* Bissau, Guinea-Bissau
+* Georgetown, Guyana
+* Hong Kong, Hong Kong
+* Perth, Heard Island and McDonald Islands
+* Tegucigalpa, Honduras
+* Zagreb, Croatia
+* Port-au-Prince, Haiti
+* Budapest, Hungary
 * Indonesia
 * Ireland
 * Israel
