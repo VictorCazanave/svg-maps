@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Contains all the capitals for countries in the World:
+Contains all the capitals in the World:
 * Andorra la Vella, Andorra
 * Abu Dhabi, United Arab Emirates
 * Kabul, Afghanistan
@@ -219,46 +219,46 @@ Contains all the capitals for countries in the World:
 * Damascus, Syria
 * Mbabane, Swaziland
 * Cockburn Town, Turks and Caicos Islands
-* Chad
-* French Southern and Antarctic Lands
-* Togo
-* Thailand
-* Tajikistan
-* Tokelau
-* Timor-Leste
-* Turkmenistan
-* Tunisia
-* Tonga
-* Turkey
-* Trinidad and Tobago
-* Tuvalu
-* Taiwan
-* Tanzania
-* Ukraine
-* Uganda
-* Jarvis Island
-* Baker Island
-* Howland Island
-* Johnston Atoll
-* Midway Islands
-* Wake Island
-* United States
-* Uruguay
-* Uzbekistan
-* Vatican City
-* Saint Vincent and the Grenadines
-* Venezuela
-* British Virgin Islands
-* US Virgin Islands
-* Vietnam
-* Vanuatu
-* Wallis and Futuna
-* Samoa
-* Yemen
-* Mayotte
-* South Africa
-* Zambia
-* Zimbabwe
+* N'Djamena, Chad
+* Saint Pierre, French Southern and Antarctic Lands
+* Lome, Togo
+* Bangkok, Thailand
+* Dushanbe, Tajikistan
+* Nukunonu, Tokelau
+* Dili, Timor-Leste
+* Ashgabat, Turkmenistan
+* Tunis, Tunisia
+* Nuku'alofa, Tonga
+* Ankara, Turkey
+* Port of Spain, Trinidad and Tobago
+* Funafuti, Tuvalu
+* Taipei, Taiwan
+* Dodoma, Tanzania
+* Kyiv, Ukraine
+* Kampala, Uganda
+* Washington, D.C., Jarvis Island
+* Washington, D.C., Baker Island
+* Washington, D.C., Howland Island
+* N/A, Johnston Atoll
+* N/A, Midway Islands
+* N/A, Wake Island
+* Washington, D.C., United States
+* Montevideo, Uruguay
+* Tashkent, Uzbekistan
+* Vatican City, Vatican City
+* Kingstown, Saint Vincent and the Grenadines
+* Caracas, Venezuela
+* Road Town, British Virgin Islands
+* Charlotte Amalie, US Virgin Islands
+* Hanoi, Vietnam
+* Port Vila, Vanuatu
+* Matā'utu, Wallis and Futuna
+* Apia, Samoa
+* Sana'a, Yemen
+* Mamoudzou, Mayotte
+* Cape Town, South Africa
+* Lusaka, Zambia
+* Harare, Zimbabwe
 
 ## Installation
 
