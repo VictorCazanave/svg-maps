@@ -103,55 +103,56 @@ Contains all the capitals for countries in the World:
 * Zagreb, Croatia
 * Port-au-Prince, Haiti
 * Budapest, Hungary
-* Indonesia
-* Ireland
-* Israel
-* Isle of Man
-* India
-* British Indian Ocean Territory
-* Iraq
-* Iran
-* Iceland
-* Italy
-* Jersey
-* Jamaica
-* Jordan
-* Japan
-* Juan De Nova Island
-* Kenya
-* Kyrgyzstan
-* Cambodia
-* Kiribati
-* Comoros
-* Saint Kitts and Nevis
-* North Korea
-* South Korea
-* Kosovo
-* Kuwait
-* Cayman Islands
-* Kazakhstan
-* Lao People's Democratic Republic
-* Lebanon
-* Saint Lucia
-* Liechtenstein
-* Sri Lanka
-* Liberia
-* Lesotho
-* Lithuania
-* Luxembourg
-* Latvia
-* Libya
-* Morocco
-* Monaco
-* Moldova
-* Madagascar
-* Montenegro
-* Marshall Islands
-* Macedonia
-* Mali
-* Macau
-* Myanmar
-* Mongolia
+* Jakarta, Indonesia
+* Dublin, Ireland
+* Jerusalem, Israel
+* Douglas, Isle of Man
+* New Delhi, India
+* Camp Justice, British Indian Ocean Territory
+* Baghdad, Iraq
+* Tehran, Iran
+* Reykjavík, Iceland
+* Rome, Italy
+* Saint Helier, Jersey
+* Kingston, Jamaica
+* Amman, Jordan
+* Tokyo, Japan
+* N/A, Juan De Nova Island
+* Nairobi, Kenya
+* Bishkek, Kyrgyzstan
+* Phnom Penh, Cambodia
+* Tarawa, Kiribati
+* Moroni, Comoros
+* Basseterre, Saint Kitts and Nevis
+* Pyongyang, North Korea
+* Seoul, South Korea
+* Pristina, Kosovo
+* Kuwait City, Kuwait
+* George Town, Cayman Islands
+* Nur-Sultan, Kazakhstan
+* Vientiane, Lao People's Democratic Republic
+* Beirut, Lebanon
+* Castries, Saint Lucia
+* Vaduz, Liechtenstein
+* Colombo, Sri Lanka
+* Monrovia, Liberia
+* Maseru, Lesotho
+* Vilnius, Lithuania
+* Luxembourg City, Luxembourg
+* Riga, Latvia
+* Tripoli, Libya
+* Rabat, Morocco
+* Monaco, Monaco
+* Chișinău, Moldova
+* Antananarivo, Madagascar
+* Podgorica, Montenegro
+* Marigot, Saint Martin
+* Majuro, Marshall Islands
+* Skopje, Macedonia
+* Bamako, Mali
+* Macau, Macau
+* Naypyitaw, Myanmar
+* Ulaanbaatar, Mongolia
 * Northern Mariana Islands
 * Martinique
 * Mauritania
