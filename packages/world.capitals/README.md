@@ -153,32 +153,32 @@ Contains all the capitals for countries in the World:
 * Macau, Macau
 * Naypyitaw, Myanmar
 * Ulaanbaatar, Mongolia
-* Northern Mariana Islands
-* Martinique
-* Mauritania
-* Montserrat
-* Malta
-* Mauritius
-* Maldives
-* Malawi
-* Mexico
-* Malaysia
-* Mozambique
-* Namibia
-* New Caledonia
-* Niger
-* Norfolk Island
-* Nigeria
-* Nicaragua
-* Netherlands
-* Norway
-* Nepal
-* Nauru
-* Niue
-* New Zealand
-* Oman
-* Panama
-* Peru
+* Saipan, Northern Mariana Islands
+* Fort-de-France, Martinique
+* Nouakchott, Mauritania
+* Plymouth, Montserrat
+* Valletta, Malta
+* Port Louis, Mauritius
+* Malé, Maldives
+* Lilongwe, Malawi
+* Mexico City, Mexico
+* Kuala Lumpur, Malaysia
+* Maputo, Mozambique
+* Windhoek, Namibia
+* Noumea, New Caledonia
+* Niamey, Niger
+* Kingston, Norfolk Island
+* Abuja, Nigeria
+* Managua, Nicaragua
+* Amsterdam, Netherlands
+* Oslo, Norway
+* Kathmandu, Nepal
+* Yaren, Nauru
+* Alofi, Niue
+* Wellington, New Zealand
+* Muscat, Oman
+* Panama City, Panama
+* Lima, Peru
 * French Polynesia
 * Papua New Guinea
 * Philippines
