@@ -179,46 +179,46 @@ Contains all the capitals for countries in the World:
 * Muscat, Oman
 * Panama City, Panama
 * Lima, Peru
-* French Polynesia
-* Papua New Guinea
-* Philippines
-* Pakistan
-* Poland
-* Saint Pierre and Miquelon
-* Pitcairn Islands
-* Puerto Rico
-* Palestinian Territories
-* Portugal
-* Palau
-* Paraguay
-* Qatar
-* Reunion
-* Romania
-* Serbia
-* Russia
-* Rwanda
-* Saudi Arabia
-* Solomon Islands
-* Seychelles
-* Sudan
-* Sweden
-* Singapore
-* Saint Helena
-* Slovenia
-* Svalbard and Jan Mayen
-* Slovakia
-* Sierra Leone
-* San Marino
-* Senegal
-* Somalia
-* Suriname
-* South Sudan
-* Sao Tome and Principe
-* El Salvador
-* Saint Martin
-* Syria
-* Swaziland
-* Turks and Caicos Islands
+* Pape'ete, French Polynesia
+* Port Moresby, Papua New Guinea
+* Manila, Philippines
+* Islamabad, Pakistan
+* Warsaw, Poland
+* Saint-Pierre, Saint Pierre and Miquelon
+* Adamstown, Pitcairn Islands
+* San Juan, Puerto Rico
+* Ramallah, Palestinian Territories
+* Lisbon, Portugal
+* Ngerulmud, Palau
+* Asunción, Paraguay
+* Doha, Qatar
+* Saint-Denis, Reunion
+* Bucharest, Romania
+* Belgrade, Serbia
+* Moscow, Russia
+* Kigali, Rwanda
+* Riyadh, Saudi Arabia
+* Honiara, Solomon Islands
+* Victoria, Seychelles
+* Khartoum, Sudan
+* Stockholm, Sweden
+* Singapore, Singapore
+* Jamestown, Saint Helena
+* Ljubljana, Slovenia
+* Longyearbyen, Svalbard and Jan Mayen
+* Bratislava, Slovakia
+* Freetown, Sierra Leone
+* San Marino, San Marino
+* Dakar, Senegal
+* Mogadishu, Somalia
+* Paramaribo, Suriname
+* Juba, South Sudan
+* Sao Tome, Sao Tome and Principe
+* San Salvador, El Salvador
+* Marigot, Saint Martin
+* Damascus, Syria
+* Mbabane, Swaziland
+* Cockburn Town, Turks and Caicos Islands
 * Chad
 * French Southern and Antarctic Lands
 * Togo
