@@ -23,11 +23,14 @@ module.exports = {
 	 * Convert SVG file to JS file
 	 *
 	 * @param {string} svgFile - Path of SVG file
+	 * @param {string} [jsFile] - Path of JS file
 	 * @returns {undefined}
 	 */
-	convertSvgToJs(svgFile) {
-		const basename = path.basename(svgFile, path.extname(svgFile))
-		const jsFile = path.join(process.cwd(), `${basename}.js`,)
+	convertSvgToJs(svgFile, jsFile) {
+		if (!jsFile) {
+			const basename = path.basename(svgFile, path.extname(svgFile))
+			jsFile = jsFile || path.join(process.cwd(), `${basename}.js`)
+		}
 
 		if (fs.existsSync(jsFile)) {
 			console.error(`File ${jsFile} already exists`)

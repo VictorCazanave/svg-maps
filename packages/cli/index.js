@@ -16,7 +16,7 @@ program.command('add')
 	.description('Create a new map package with the same format as svg-maps')
 	.action(runGenerator)
 
-program.command('generate <file>')
+program.command('generate <file.svg> [file.js]')
 	.description('Generate JS file from SVG file')
 	.action(convertSvgToJs)
 

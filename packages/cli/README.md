@@ -21,11 +21,10 @@ This CLI tool helps to create new maps without forking this repository.
 Usage: svg-maps [options] [command]
 
 Options:
-  -v, --version    output the version number
-  -h, --help       display help for command
+  -v, --version                  output the version number
+  -h, --help                     output usage information
 
 Commands:
-  add              Create a new map package with the same format as svg-maps
-  generate <file>  Generate JS file from SVG file
-  help [command]   display help for command
+  add                            Create a new map package with the same format as svg-maps
+  generate <file.svg> [file.js]  Generate JS file from SVG file
 ```
