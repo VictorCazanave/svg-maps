@@ -65,6 +65,10 @@ The JS files contain a simplified object representation of the SVG files.
 
 They can be imported and used in projects like [react-svg-map](https://github.com/VictorCazanave/react-svg-map) or [vue-svg-map](https://github.com/VictorCazanave/vue-svg-map).
 
+## CLI tool
+
+The [CLI tool](packages/cli) can be used to create new map packages or generate JS files from SVG from files.
+
 ## Contribution
 
 If you want to add a new map (country, state...), feel free to [contribute](CONTRIBUTING.md)!
