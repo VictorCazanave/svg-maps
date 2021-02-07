@@ -2,12 +2,10 @@
 	"name": "svg-maps",
 	"description": "A set of SVG maps",
 	"devDependencies": {
-		"lerna": "^3.13.2",
-		"svgson": "^3.1.0"
+		"lerna": "^3.13.2"
 	},
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
-		"build": "node svgToJs.js",
 		"release": "lerna publish from-package"
 	},
 	"repository": {

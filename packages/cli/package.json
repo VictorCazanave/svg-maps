@@ -1,0 +1,23 @@
+{
+	"name": "@svg-maps/cli",
+	"version": "1.0.0.beta.2",
+	"description": "Command-Line Interface to manage SVG maps",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/cli"
+	},
+	"keywords": [
+		"svg",
+		"maps",
+		"cli"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"commander": "^6.2.0",
+		"pkginfo": "^0.4.1",
+		"svgson": "^4.1.0",
+		"yeoman-environment": "^2.10.3"
+	}
+}

@@ -1,0 +1,15 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="TBD"
+	aria-label="Map of <%= map %>"
+>
+	<!-- 
+	Add all the location paths
+	For example:
+	<path
+		id="new-york"
+		name="New York"
+		d="..."
+	/>
+	-->
+</svg>

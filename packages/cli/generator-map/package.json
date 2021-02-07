@@ -1,0 +1,16 @@
+{
+	"name": "generator-map",
+	"version": "1.0.0",
+	"description": "Yeoman generator to create an SVG map",
+	"files": [
+		"generators"
+	],
+	"keywords": [
+		"yeoman-generator"
+	],
+	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"license": "GPL-3.0",
+	"dependencies": {
+		"yeoman-generator": "^4.12.0"
+	}
+}
