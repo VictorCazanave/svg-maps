@@ -67,7 +67,7 @@ They can be imported and used in projects like [react-svg-map](https://github.co
 
 ## CLI tool
 
-The [CLI tool](packages/cli) can be used to create new map packages or generate JS files from SVG from files.
+The [CLI tool](packages/cli) can be used to create new map packages or generate JS files from SVG files.
 
 ## Contribution
 
