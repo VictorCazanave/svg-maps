@@ -1,47 +1,49 @@
 # 🇷🇴️ Romania
 
-Contains the municipality of Bucharest and all the other counties of Romania:
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+Contains the municipality of Bucharest and all the counties of Romania:
 * Alba
-* Argeș
 * Arad
+* Argeș
 * Bacău
 * Bihor
 * Bistrița-Năsăud
-* Brăila
 * Botoșani
+* Brăila
 * Brașov
 * Buzău
-* Cluj
-* Călărași
 * Caraș-Severin
+* Călărași
+* Cluj
 * Constanța
 * Covasna
 * Dâmbovița
 * Dolj
-* Gorj
 * Galați
 * Giurgiu
-* Hunedoara
+* Gorj
 * Harghita
-* Ilfov
+* Hunedoara
 * Ialomița
 * Iași
-* Mehedinți
+* Ilfov
 * Maramureș
+* Mehedinți
 * Mureș
 * Neamț
 * Olt
 * Prahova
-* Sibiu
-* Sălaj
 * Satu Mare
+* Sălaj
+* Sibiu
 * Suceava
 * Tulcea
 * Timiș
 * Teleorman
+* Vaslui
 * Vâlcea
 * Vrancea
-* Vaslui
 
 ## Installation
 
@@ -61,7 +63,8 @@ The original map is available [here](https://mapsvg.com/maps/romania) under the 
 
 ### Changes
 
-* Lowercased ids, changed them to ISO 3166-2
-* Changed București -> Bucharest
-* Selected only the useful attributes
-
+* Remove unnecessary attributes
+* Replace title by name attributes
+* Use English names
+* Add viewBox
+* Rename ids
