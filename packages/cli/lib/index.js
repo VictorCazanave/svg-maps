@@ -4,7 +4,7 @@ const path = require('path')
 const fs = require('fs')
 const yeoman = require('yeoman-environment');
 const svgson = require('svgson')
-const GeneratorMap = require('../generator-map/app')
+const GeneratorMap = require('../generator-map')
 
 module.exports = {
 	/**
