@@ -31,7 +31,7 @@ Contains all the counties of the Michigan state:
 * Genesee
 * Gladwin
 * Gogebic
-* Grand-Traverse
+* Grand Traverse
 * Gratiot
 * Hillsdale
 * Houghton
@@ -74,16 +74,16 @@ Contains all the counties of the Michigan state:
 * Oscoda
 * Otsego
 * Ottawa
-* Presque-Isle
+* Presque Isle
 * Roscommon
 * Saginaw
 * Sanilac
 * Schoolcraft
 * Shiawassee
-* St-Clair
-* St-Joseph
+* St. Clair
+* St. Joseph
 * Tuscola
-* Van-Buren
+* Van Buren
 * Washtenaw
 * Wayne
 * Wexford
