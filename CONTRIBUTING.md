@@ -102,7 +102,8 @@ Here is a simplified example of `new-zealand.svg`:
 
 #### JS file
 
-* Generate the JS file running the `npm run build` command
+* Install the CLI tool: `npm run install`
+* Generate the JS file: `npm run generate [new-map.svg] index.js`
 * The `/packages/[new-map]/index.js` file should be generated. Otherwise it means the SVG file is not valid
 
 #### Documentation

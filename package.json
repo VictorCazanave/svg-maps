@@ -2,7 +2,7 @@
 	"name": "svg-maps",
 	"description": "A set of SVG maps",
 	"devDependencies": {
-		"@svg-maps/cli": "^1.0.0-beta.2",
+		"@svg-maps/cli": "^1.0.0-beta.5",
 		"lerna": "^3.13.2"
 	},
 	"scripts": {
@@ -18,7 +18,8 @@
 	"keywords": [
 		"map",
 		"svg",
-		"javascript"
+		"javascript",
+		"es modules"
 	],
 	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
 	"license": "MIT",

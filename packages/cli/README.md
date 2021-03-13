@@ -15,6 +15,10 @@ This CLI tool helps to create new maps without forking this repository.
 
 `yarn add @svg-maps/cli`
 
+### npx (using directly without installation)
+
+`npx @svg-maps/cli [command]`
+
 ## API
 
 ```
