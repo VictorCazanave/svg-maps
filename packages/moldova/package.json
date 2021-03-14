@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/moldova",
+	"version": "1.0.0",
+	"description": "Map of Moldova",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/moldova"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"moldova"
+	],
+	"author": "Mihai Ro <mihai.roshca@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
