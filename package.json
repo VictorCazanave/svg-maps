@@ -2,12 +2,13 @@
 	"name": "svg-maps",
 	"description": "A set of SVG maps",
 	"devDependencies": {
-		"lerna": "^3.13.2",
-		"svgson": "^3.1.0"
+		"@svg-maps/cli": "^1.0.0-beta.5",
+		"lerna": "^3.13.2"
 	},
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
-		"build": "node svgToJs.js",
+		"add": "cd ./packages && svg-maps add",
+		"generate": "svg-maps generate",
 		"release": "lerna publish from-package"
 	},
 	"repository": {
@@ -17,7 +18,8 @@
 	"keywords": [
 		"map",
 		"svg",
-		"javascript"
+		"javascript",
+		"es modules"
 	],
 	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
 	"license": "MIT",

@@ -1,15 +1,45 @@
 # Contributing
 
-If you want to contribute to this project, here is a quick guide:
-1. Fork the repository
-2. Develop your code changes
+_First thank you for willing to contribute to this project!_
+
+- [Contributing](#contributing)
+	- [Adding a map to this repository](#adding-a-map-to-this-repository)
+		- [Quick guide](#quick-guide)
+		- [With CLI tool](#with-cli-tool)
+		- [Manually](#manually)
+			- [SVG file](#svg-file)
+			- [Package file](#package-file)
+			- [JS file](#js-file)
+			- [Documentation](#documentation)
+	- [Adding a map from an external respository](#adding-a-map-from-an-external-respository)
+		- [Quick guide](#quick-guide-1)
+		- [Creation](#creation)
+		- [Linking](#linking)
+	- [Tips to choose a map](#tips-to-choose-a-map)
+	- [Reporting a bug](#reporting-a-bug)
+
+
+## Adding a map to this repository
+
+### Quick guide
+
+1. Fork this repository
+2. Create a new package for your map
 3. Commit your changes
 4. Push to your fork
 5. Submit a pull request
 
-## Adding a new map
+### With CLI tool
 
-### SVG file
+* Install the CLI tool: `npm run install`
+* Run the command to create a new map: `npm run add`
+* Answer the questions to configure your map
+* Complete the generated files with the data of your map 
+
+### Manually
+
+#### SVG file
+
 * Create a new folder `/packages/[new-map]/` and a new file `/packages/[new-map]/[new-map].svg` in kebab-case. _For example: `/packages/new-zealand/new-zealand.svg`_
 * Use tab indentation
 * Use only `<svg>` and `<path>` tags (no doctype, external stylesheet, comment...). __Other tags will be ignored__
@@ -44,7 +74,8 @@ Here is a simplified example of `new-zealand.svg`:
 </svg>
 ```
 
-### Package file
+#### Package file
+
 * Create a new `/packages/[new-map]/package.json` file to describe the npm package to publish:
 ```json
 {
@@ -67,14 +98,16 @@ Here is a simplified example of `new-zealand.svg`:
 	},
 	"license": "[License of the map]"
 }
-
 ```
 
-### JS file
-* Generate the JS file running the `npm run build` command
+#### JS file
+
+* Install the CLI tool: `npm run install`
+* Generate the JS file: `npm run generate [new-map.svg] index.js`
 * The `/packages/[new-map]/index.js` file should be generated. Otherwise it means the SVG file is not valid
 
-### Documentation
+#### Documentation
+
 * Add a `/packages/[new-map]/LICENSE.md` file with the license of the map ([Creative Commons Markdown](https://github.com/idleberg/Creative-Commons-Markdown))
 
 * Create a new `/packages/[new-map]/README.md` file to:
@@ -87,5 +120,31 @@ Here is a simplified example of `new-zealand.svg`:
   * using alphabetical order
   * linking to the package folder `/packages/[new-map]`
 
+## Adding a map from an external respository
+
+### Quick guide
+
+1. Create a map in your repository
+2. Publish the map to [npm](https://www.npmjs.com)
+3. Fork this repository
+4. Add a link to your map in the documentation
+6. Push to your fork
+7. Submit a pull request
+
+### Creation
+
+You're free to create the map as you want, but using the [CLI tool](https://www.npmjs.com/package/@svg-maps/cli) is recommended.
+
+### Linking
+
+Update the [`README`](README.md) to add a link to the npm package of your map with an _external_ tag: `[YourMap (external)](https://www.npmjs.com/package/your-map)`)
+
+## Tips to choose a map
+
+* Find a simple map with compatible SVG code
+* Pay attention to the license
+* Give credits and information about the original map
+
 ## Reporting a bug
-[Open an issue](https://github.com/VictorCazanave/svg-maps/issues/new).
+
+If you see any incorrect or incomplete data, please [open an issue](https://github.com/VictorCazanave/svg-maps/issues/new).
