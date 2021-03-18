@@ -64,11 +64,11 @@ Contains all the states and territories of the United States:
 
 ### npm
 
-`npm install --save @svg-maps/usa-states-territories`
+`npm install --save @svg-maps/usa.states-territories`
 
 ### yarn
 
-`yarn add @svg-maps/usa-states-territories`
+`yarn add @svg-maps/usa.states-territories`
 
 ## Credits
 

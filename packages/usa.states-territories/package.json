@@ -1,5 +1,5 @@
 {
-	"name": "@svg-maps/[new-map]",
+	"name": "@svg-maps/usa.states-territories",
 	"version": "1.0.0",
 	"description": "Map of US States and Territories",
 	"main": "index.js",
