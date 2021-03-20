@@ -1,6 +1,6 @@
 # SVG Maps
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-green.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
@@ -109,9 +109,10 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://www.linkedin.com/in/stefangomez"><img src="https://avatars2.githubusercontent.com/u/346081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefan Gomez</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=stefangomez" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tae8838"><img src="https://avatars3.githubusercontent.com/u/7782153?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tae</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tae8838" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/eliDatamix"><img src="https://avatars3.githubusercontent.com/u/61228529?v=4?s=100" width="100px;" alt=""/><br /><sub><b>eliDatamix</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=eliDatamix" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/keatonboyle"><img src="https://avatars3.githubusercontent.com/u/3393465?v=4?s=100" width="100px;" alt=""/><br /><sub><b>keatonboyle</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=keatonboyle" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fbouhamd"><img src="https://avatars.githubusercontent.com/u/33428552?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fbouhamd</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=fbouhamd" title="Code">💻</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/keatonboyle"><img src="https://avatars3.githubusercontent.com/u/3393465?v=4?s=100" width="100px;" alt=""/><br /><sub><b>keatonboyle</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=keatonboyle" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tyangjawi03"><img src="https://avatars0.githubusercontent.com/u/7666467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tyangjawi03</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tyangjawi03" title="Code">💻</a></td>
   </tr>
 </table>
