@@ -1,0 +1,19 @@
+{
+	"name": "@svg-maps/romania",
+	"version": "1.0.0",
+	"description": "Map of Romania",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/romania"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"romania"
+	],
+	"author": "Popa Ioan Alexandru <alexioanpopa11@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	}
+}

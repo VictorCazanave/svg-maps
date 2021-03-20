@@ -1,0 +1,22 @@
+{
+	"name": "@svg-maps/usa.states-territories",
+	"version": "1.0.0",
+	"description": "Map of USA states and territories",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.states-territories"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"usa",
+		"states",
+		"territories"
+	],
+	"author": "Fatima Gomez <fatima3558@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Unlicense"
+}
