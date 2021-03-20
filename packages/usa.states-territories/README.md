@@ -2,7 +2,7 @@
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Contains all the states and territories of the United States:
+Contains all the states and territories of the United States of America:
 * Alabama
 * Alaska
 * American Samoa
@@ -72,13 +72,12 @@ Contains all the states and territories of the United States:
 
 ## Credits
 
-This map was originally found on [Wikimedia Commons](https://commons.wikimedia.org).
+This map is based on the work of [Heitordp](https://commons.wikimedia.org/wiki/User:Heitordp).
 
 The original map is available [here](https://commons.wikimedia.org/wiki/File:Blank_USA,_w_territories.svg) under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license.
 
 ## Changes
 
-* remove tags that are not `svg` and `path`
-* replace `title` tags with `name` attributes
-* add `viewBox` and `aria-label`
-* remove comments
+* Remove unnecessary tags, attributes and comments
+* Replace title by name attributes
+* Add viewBox
