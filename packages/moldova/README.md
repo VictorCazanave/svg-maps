@@ -37,7 +37,7 @@ Contains all the districts of Moldova:
 - Unitatea Teritorială din Stînga Nistrului
 - Soroca
 - Străşeni
--  Ştefan Vodă
+- Ştefan Vodă
 - Taraclia
 - Teleneşti
 - Ungheni
