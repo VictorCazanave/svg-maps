@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/usa.michigan",
+	"version": "1.0.0",
+	"description": "Map of Michigan, USA",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.michigan"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"usa",
+		"michigan"
+	],
+	"author": "Fatima Bouhamdan <fbouhamd@umich.edu>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-SA-3.0"
+}
