@@ -1,0 +1,23 @@
+{
+	"name": "@svg-maps/isle-of-man",
+	"version": "1.0.0",
+	"description": "Map of Isle of Man",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/isle-of-man"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"isle of man"
+	],
+	"author": "Jamie Paterson <jlp1@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0",
+	"dependencies": {
+		"@svg-maps/cli": "^1.0.0-beta.5"
+	}
+}
