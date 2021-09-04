@@ -51,6 +51,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇺🇸 [USA, Utah](packages/usa.utah)
 * 🇺🇿 [Uzbekistan](packages/uzbekistan)
 * 🌍 [World](packages/world)
+* 🌍 [World, Capitals](packages/world.capitals)
 * 🇿🇼 [Zimbabwe](packages/zimbabwe)
 
 ## SVG files

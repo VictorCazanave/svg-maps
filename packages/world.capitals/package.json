@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/world.capitals",
+	"version": "1.0.0",
+	"description": "Map of World Capitals",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/world.capitals"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"world",
+		"capitals"
+	],
+	"author": "Ash Midgley <ashleymidgley@protonmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
