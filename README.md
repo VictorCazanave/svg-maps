@@ -1,55 +1,60 @@
 # SVG Maps
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-23-green.svg)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
-* 🇦🇺 [Australia](packages/australia)
-* 🇦🇹 [Austria](packages/austria)
-* 🇧🇷 [Brazil](packages/brazil)
-* 🇰🇭 [Cambodia](packages/cambodia)
-* 🇨🇲 [Cameroon](packages/cameroon)
-* 🇨🇦 [Canada](packages/canada)
-* 🇨🇻 [Cape Verde](packages/cape-verde)
-* 🇨🇳 [China](packages/china)
-* 🇨🇴 [Colombia](packages/colombia)
-* 🇫🇷 [France, Departments](packages/france.departments)
-* 🇫🇷 [France, Regions](packages/france.regions)
-* 🇩🇪 [Germany](packages/germany)
-* 🇬🇷 [Greece](packages/greece)
-* 🇭🇳 [Honduras](packages/honduras)
-* 🇭🇰 [Hong Kong](packages/hong-kong)
-* 🇮🇳 [India](packages/india)
-* 🇮🇩 [Indonesia](packages/indonesia)
-* 🇮🇱 [Israel](packages/israel)
-* 🇮🇹 [Italy](packages/italy)
-* 🇯🇵 [Japan](packages/japan)
-* 🇲🇽 [Mexico](packages/mexico)
-* 🇳🇿 [New Zealand](packages/new-zealand)
-* 🇳🇬 [Nigeria](packages/nigeria)
-* 🇵🇰 [Pakistan, Districts](packages/pakistan.districts)
-* 🇷🇴 [Romania](packages/romania)
-* 🇸🇦 [Saudi Arabia](packages/saudi-arabia)
-* 🇰🇷 [South Korea](packages/south-korea)
-* 🇪🇸 [Spain](packages/spain)
-* 🇱🇰 [Sri Lanka](packages/sri-lanka)
-* 🇸🇪 [Sweden](packages/sweden)
-* 🇹🇼 [Taiwan](packages/taiwan)
-* 🇹🇼 [Taiwan, Main Island](packages/taiwan.main)
-* 🇹🇿 [Tanzania](packages/tanzania)
-* 🇹🇭 [Thailand](packages/thailand)
-* 🇹🇳 [Tunisia](packages/tunisia)
-* 🇦🇪 [UAE](packages/uae)
-* 🇺🇦 [Ukraine](packages/ukraine)
-* 🇺🇸 [USA](packages/usa)
-* 🇺🇸 [USA, Counties](packages/usa.counties)
-* 🇺🇸 [USA, States & Territories](packages/usa-.states-territories)
-* 🇺🇸 [USA, Florida](packages/usa.florida)
-* 🇺🇸 [USA, Michigan](packages/usa.michigan)
-* 🇺🇸 [USA, Utah](packages/usa.utah)
-* 🇺🇿 [Uzbekistan](packages/uzbekistan)
-* 🌍 [World](packages/world)
-* 🇿🇼 [Zimbabwe](packages/zimbabwe)
+
+- 🇦🇺 [Australia](packages/australia)
+- 🇦🇹 [Austria](packages/austria)
+- 🇧🇷 [Brazil](packages/brazil)
+- 🇰🇭 [Cambodia](packages/cambodia)
+- 🇨🇲 [Cameroon](packages/cameroon)
+- 🇨🇦 [Canada](packages/canada)
+- 🇨🇻 [Cape Verde](packages/cape-verde)
+- 🇨🇳 [China](packages/china)
+- 🇨🇴 [Colombia](packages/colombia)
+- 🇫🇷 [France, Departments](packages/france.departments)
+- 🇫🇷 [France, Regions](packages/france.regions)
+- 🇩🇪 [Germany](packages/germany)
+- 🇬🇷 [Greece](packages/greece)
+- 🇭🇳 [Honduras](packages/honduras)
+- 🇭🇰 [Hong Kong](packages/hong-kong)
+- 🇮🇳 [India](packages/india)
+- 🇮🇩 [Indonesia](packages/indonesia)
+- 🇮🇷 [Iran](packages/iran)
+- 🇮🇱 [Israel](packages/israel)
+- 🇮🇹 [Italy](packages/italy)
+- 🇯🇵 [Japan](packages/japan)
+- 🇲🇽 [Mexico](packages/mexico)
+- 🇳🇿 [New Zealand](packages/new-zealand)
+- 🇳🇬 [Nigeria](packages/nigeria)
+- 🇵🇰 [Pakistan, Districts](packages/pakistan.districts)
+- 🇷🇴 [Romania](packages/romania)
+- 🇸🇦 [Saudi Arabia](packages/saudi-arabia)
+- 🇰🇷 [South Korea](packages/south-korea)
+- 🇪🇸 [Spain](packages/spain)
+- 🇱🇰 [Sri Lanka](packages/sri-lanka)
+- 🇸🇪 [Sweden](packages/sweden)
+- 🇹🇼 [Taiwan](packages/taiwan)
+- 🇹🇼 [Taiwan, Main Island](packages/taiwan.main)
+- 🇹🇿 [Tanzania](packages/tanzania)
+- 🇹🇭 [Thailand](packages/thailand)
+- 🇹🇳 [Tunisia](packages/tunisia)
+- 🇦🇪 [UAE](packages/uae)
+- 🇺🇦 [Ukraine](packages/ukraine)
+- 🇺🇸 [USA](packages/usa)
+- 🇺🇸 [USA, Counties](packages/usa.counties)
+- 🇺🇸 [USA, States & Territories](packages/usa-.states-territories)
+- 🇺🇸 [USA, Florida](packages/usa.florida)
+- 🇺🇸 [USA, Michigan](packages/usa.michigan)
+- 🇺🇸 [USA, Utah](packages/usa.utah)
+- 🇺🇿 [Uzbekistan](packages/uzbekistan)
+- 🌍 [World](packages/world)
+- 🇿🇼 [Zimbabwe](packages/zimbabwe)
 
 ## SVG files
 
@@ -57,10 +62,10 @@ The SVG files come from different sources and have been cleaned to be lighter an
 
 ### Sources
 
-* [amCharts](https://www.amcharts.com/)
-* [MapSVG](https://mapsvg.com/)
-* [simplemaps](https://simplemaps.com/)
-* [Wikimedia Commons](https://commons.wikimedia.org/)
+- [amCharts](https://www.amcharts.com/)
+- [MapSVG](https://mapsvg.com/)
+- [simplemaps](https://simplemaps.com/)
+- [Wikimedia Commons](https://commons.wikimedia.org/)
 
 ## JS files
 
@@ -114,6 +119,7 @@ Thanks goes to these wonderful people:
   <tr>
     <td align="center"><a href="https://github.com/keatonboyle"><img src="https://avatars3.githubusercontent.com/u/3393465?v=4?s=100" width="100px;" alt=""/><br /><sub><b>keatonboyle</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=keatonboyle" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tyangjawi03"><img src="https://avatars0.githubusercontent.com/u/7666467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tyangjawi03</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tyangjawi03" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/premier213"><img src="https://avatars.githubusercontent.com/u/4321174?v=4" width="100px;" alt=""/><br /><sub><b>premier213</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=premier213" title="Code">💻</a></td>
   </tr>
 </table>
 

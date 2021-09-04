@@ -1,0 +1,20 @@
+{
+  "name": "@svg-maps/iran",
+  "version": "1.0.0",
+  "description": "Map of Iran",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/iran"
+  },
+  "keywords": [
+    "svg",
+    "map",
+    "iran"
+  ],
+  "author": "premier213 <premierp1213@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "Unlicense"
+}
