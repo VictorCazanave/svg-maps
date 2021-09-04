@@ -10,6 +10,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇰🇭 [Cambodia](packages/cambodia)
 * 🇨🇲 [Cameroon](packages/cameroon)
 * 🇨🇦 [Canada](packages/canada)
+* 🇨🇦 [Canada, Lambert Projection](packages/canada.lambert-projection)
 * 🇨🇻 [Cape Verde](packages/cape-verde)
 * 🇨🇳 [China](packages/china)
 * 🇨🇴 [Colombia](packages/colombia)
