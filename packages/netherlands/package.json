@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/netherlands",
+	"version": "1.0.0",
+	"description": "Map of Netherlands",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/netherlands"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"netherlands"
+	],
+	"author": "Zubayer Rahman <dev.zubayer@protonmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
