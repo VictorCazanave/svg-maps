@@ -6,7 +6,7 @@ Contains all the districts of Moldova:
 
 - Anenii Noi
 - Bălţi
-- Tighina
+- Bender
 - Briceni
 - Basarabeasca
 - Cahul
