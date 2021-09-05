@@ -34,7 +34,7 @@ Contains all the districts of Moldova:
 - Rîşcani
 - Şoldăneşti
 - Sîngerei
-- Unitatea Teritorială din Stînga Nistrului
+- Unitatea Teritorială din Stînga Nistrului (Transnistria)
 - Soroca
 - Străşeni
 - Ştefan Vodă
