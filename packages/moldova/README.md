@@ -59,3 +59,6 @@ This map is based on the work of [MapSVG](https://mapsvg.com).
 The original map is available [here](https://mapsvg.com/maps/moldova) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Changes
+* renamed ”Tighina” to ”Bender”
+* extended UTSN label to include ”Transnistria”
+* rounded values for width/height of the svg element
