@@ -1,6 +1,6 @@
 # SVG Maps
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-green.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
@@ -10,6 +10,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇰🇭 [Cambodia](packages/cambodia)
 * 🇨🇲 [Cameroon](packages/cameroon)
 * 🇨🇦 [Canada](packages/canada)
+* 🇨🇦 [Canada, Lambert Projection](packages/canada.lambert-projection)
 * 🇨🇻 [Cape Verde](packages/cape-verde)
 * 🇨🇳 [China](packages/china)
 * 🇨🇴 [Colombia](packages/colombia)
@@ -26,6 +27,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇯🇵 [Japan](packages/japan)
 * 🇲🇽 [Mexico](packages/mexico)
 * 🇲🇩 [Moldova](packages/moldova)
+* 🇳🇱 [Netherlands](packages/netherlands)
 * 🇳🇿 [New Zealand](packages/new-zealand)
 * 🇳🇬 [Nigeria](packages/nigeria)
 * 🇵🇰 [Pakistan, Districts](packages/pakistan.districts)
@@ -50,6 +52,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇺🇸 [USA, Utah](packages/usa.utah)
 * 🇺🇿 [Uzbekistan](packages/uzbekistan)
 * 🌍 [World](packages/world)
+* 🌍 [World, Capitals](packages/world.capitals)
 * 🇿🇼 [Zimbabwe](packages/zimbabwe)
 
 ## SVG files
@@ -90,29 +93,31 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/Abiseban147"><img src="https://avatars2.githubusercontent.com/u/31163831?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abiseban</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Abiseban147" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/avalladaresm"><img src="https://avatars3.githubusercontent.com/u/4381970?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alejandro Valladares</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=avalladaresm" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/aref-lazrek"><img src="https://avatars3.githubusercontent.com/u/13694905?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aref Ben Lazrek</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=aref-lazrek" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ashmidgley"><img src="https://avatars2.githubusercontent.com/u/13953984?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ash Midgley</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=ashmidgley" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ashmidgley"><img src="https://avatars2.githubusercontent.com/u/13953984?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ash Midgley</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=ashmidgley" title="Documentation">📖</a><a href="https://github.com/VictorCazanave/svg-maps/commits?author=ashmidgley" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ashvalejohn"><img src="https://avatars0.githubusercontent.com/u/15790488?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashley Valenzuela Johnson</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=ashvalejohn" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/fatima3558"><img src="https://avatars.githubusercontent.com/u/48227264?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fatima Gomez</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=fatima3558" title="Code">💻</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://harukikinoshita.com"><img src="https://avatars.githubusercontent.com/u/15783959?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Haruki Kinoshita</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=HarukiKinoshita" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/josepaiva94"><img src="https://avatars3.githubusercontent.com/u/2206344?v=4?s=100" width="100px;" alt=""/><br /><sub><b>José Carlos Paiva</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=josepaiva94" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Disctanger"><img src="https://avatars3.githubusercontent.com/u/10447714?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mamajonov Abduvali</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Disctanger" title="Code">💻</a></td>
     <td align="center"><a href="https://feldmanweber.com"><img src="https://avatars0.githubusercontent.com/u/18507767?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matt Weber</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=weber93" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/vongmengty"><img src="https://avatars3.githubusercontent.com/u/19471093?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mengty Vong</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=vongmengty" title="Code">💻</a></td>
     <td align="center"><a href="http://licorneltd.tech"><img src="https://avatars2.githubusercontent.com/u/7737341?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Chukwu</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=michaelchukwu" title="Code">💻</a></td>
     <td align="center"><a href="http://apper.tech"><img src="https://avatars2.githubusercontent.com/u/35299529?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammed Mazen Hafez</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=mh-mazen" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Chitova263"><img src="https://avatars2.githubusercontent.com/u/33910227?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nigel Mukandi</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Chitova263" title="Code">💻</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/Chitova263"><img src="https://avatars2.githubusercontent.com/u/33910227?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nigel Mukandi</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Chitova263" title="Code">💻</a></td>
     <td align="center"><a href="https://noorjafri.com"><img src="https://avatars3.githubusercontent.com/u/13905049?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Noor Jafri</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=nurely" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/OsyaLdn"><img src="https://avatars2.githubusercontent.com/u/11708080?v=4?s=100" width="100px;" alt=""/><br /><sub><b>OlesiaLdn</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=OsyaLdn" title="Code">💻</a></td>
     <td align="center"><a href="http://k9-build.blogspot.co.uk/"><img src="https://avatars1.githubusercontent.com/u/5486945?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Richard Hopkins</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=hopkira" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/stefangomez"><img src="https://avatars2.githubusercontent.com/u/346081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefan Gomez</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=stefangomez" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tae8838"><img src="https://avatars3.githubusercontent.com/u/7782153?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tae</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tae8838" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/eliDatamix"><img src="https://avatars3.githubusercontent.com/u/61228529?v=4?s=100" width="100px;" alt=""/><br /><sub><b>eliDatamix</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=eliDatamix" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/fbouhamd"><img src="https://avatars.githubusercontent.com/u/33428552?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fbouhamd</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=fbouhamd" title="Code">💻</a></td>
+    <td align="center"><a href="https://hellozubayer.com/"><img src="https://avatars.githubusercontent.com/u/11891508?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zubayer Rahman</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=the-code-explorer" title="Code">💻</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/eliDatamix"><img src="https://avatars3.githubusercontent.com/u/61228529?v=4?s=100" width="100px;" alt=""/><br /><sub><b>eliDatamix</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=eliDatamix" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fbouhamd"><img src="https://avatars.githubusercontent.com/u/33428552?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fbouhamd</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=fbouhamd" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/keatonboyle"><img src="https://avatars3.githubusercontent.com/u/3393465?v=4?s=100" width="100px;" alt=""/><br /><sub><b>keatonboyle</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=keatonboyle" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tyangjawi03"><img src="https://avatars0.githubusercontent.com/u/7666467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tyangjawi03</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tyangjawi03" title="Code">💻</a></td>
   </tr>

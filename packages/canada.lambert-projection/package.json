@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/canada.lambert-projection",
+	"version": "1.0.0",
+	"description": "Map of Canada, Lambert Projection",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/canada.lambert-projection"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"canada",
+		"lambert projection"
+	],
+	"author": "HarukiKinoshita <harukikinoshita@outlook.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC BY-SA 4.0"
+}
