@@ -2,27 +2,26 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Contains all the districts of Moldova:
+Contains all the districts, municipalities and autonomous territories of Moldova:
 
 - Anenii Noi
-- Bălţi
+- Basarabeasca
 - Bender
 - Briceni
-- Basarabeasca
+- Bălţi
 - Cahul
-- Călăraşi
-- Cimişlia
-- Criuleni
-- Căuşeni
 - Cantemir
 - Chişinău
+- Cimişlia
+- Criuleni
+- Călăraşi
+- Căuşeni
 - Donduşeni
 - Drochia
 - Dubăsari
 - Edineţ
-- Făleşti
 - Floreşti
-- Unitatea Teritorială Autonomă Găgăuzia (UTAG)
+- Făleşti
 - Glodeni
 - Hînceşti
 - Ialoveni
@@ -32,15 +31,16 @@ Contains all the districts of Moldova:
 - Orhei
 - Rezina
 - Rîşcani
-- Şoldăneşti
-- Sîngerei
-- Unitatea Teritorială din Stînga Nistrului (Transnistria)
 - Soroca
 - Străşeni
-- Ştefan Vodă
+- Sîngerei
 - Taraclia
 - Teleneşti
 - Ungheni
+- Unitatea Teritorială Autonomă Găgăuzia (UTAG)
+- Unitatea Teritorială din Stînga Nistrului (Transnistria)
+- Şoldăneşti
+- Ştefan Vodă
 
 ## Installation
 
@@ -59,6 +59,9 @@ This map is based on the work of [MapSVG](https://mapsvg.com).
 The original map is available [here](https://mapsvg.com/maps/moldova) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Changes
-* renamed ”Tighina” to ”Bender”
-* extended UTSN label to include ”Transnistria”
-* rounded values for width/height of the svg element
+
+* Remove unnecessary attributes
+* Replace title by name attributes
+* Add viewBox
+* Rename ”Tighina” to ”Bender”
+* Extend UTSN label to include ”Transnistria”
