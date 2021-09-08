@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/tokyo.special-wards",
+	"version": "1.0.0",
+	"description": "Map of Tokyo Special Wards",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/tokyo.special-wards;"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"tokyo"
+	],
+	"author": "HarukiKinoshita <harukikinoshita@outlook.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Public Domain"
+}
