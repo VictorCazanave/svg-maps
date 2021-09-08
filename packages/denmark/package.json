@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/denmark.regions",
+	"name": "@svg-maps/denmark",
 	"version": "1.0.0",
-	"description": "Map of Denmark regions",
+	"description": "Map of Denmark's regions",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/denmark.regions"
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/denmark"
 	},
 	"keywords": [
 		"svg",

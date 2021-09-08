@@ -14,11 +14,11 @@ Contains all the regions of Denmark:
 
 ### npm
 
-`npm install --save @svg-maps/denmark.regions`
+`npm install --save @svg-maps/denmark`
 
 ### yarn
 
-`yarn add @svg-maps/denmark.regions`
+`yarn add @svg-maps/denmark`
 
 ## Credits
 
