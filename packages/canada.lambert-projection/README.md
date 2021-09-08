@@ -38,6 +38,7 @@ The original map is available [here](https://en.wikipedia.org/wiki/File:Canada_(
 
 ### Changes
 
+* Remove other countries 
 * Remove unnecessary attributes
 * Replace title by name attributes
 * Add viewBox
