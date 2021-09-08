@@ -24,6 +24,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇮🇱 [Israel](packages/israel)
 * 🇮🇹 [Italy](packages/italy)
 * 🇯🇵 [Japan](packages/japan)
+* 🇯🇵 [Tokyo, Special Wards](packages/tokyo.special-wards)
 * 🇲🇽 [Mexico](packages/mexico)
 * 🇳🇿 [New Zealand](packages/new-zealand)
 * 🇳🇬 [Nigeria](packages/nigeria)
