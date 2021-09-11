@@ -1,7 +1,7 @@
 {
 	"name": "@svg-maps/denmark",
 	"version": "1.0.0",
-	"description": "Map of Denmark's regions",
+	"description": "Map of Denmark",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
