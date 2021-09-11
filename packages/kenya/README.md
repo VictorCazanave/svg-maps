@@ -4,53 +4,53 @@
 
 Contains all the counties of Kenya:
 
-- Baringo
-- Bomet
-- Bungoma
-- Busia
-- Embu
-- Garissa
-- Homa Bay
-- Isiolo
-- Kajiado
-- Kakamega
-- Keiyo-Marakwet
-- Kericho
-- Kiambu
-- Kilifi
-- Kirinyaga
-- Kisii
-- Kisumu
-- Kitui
-- Kwale
-- Laikipia
-- Lamu
-- Machakos
-- Makueni
-- Mandera
-- Marsabit
-- Meru
-- Mombasa
-- Migori
-- Murang'a
-- Nairobi
-- Nakuru
-- Narok
-- Nandi
-- Nyamira
-- Nyandarua
-- Nyeri
-- Samburu
-- Siaya
-- Tana River
-- Taita Taveta
-- Tharaka
-- Trans Nzoia
-- Turkana
-- Uasin Gishu
-- Vihiga
-- Wajir
-- West Pokot
+* Baringo
+* Bomet
+* Bungoma
+* Busia
+* Embu
+* Garissa
+* Homa Bay
+* Isiolo
+* Kajiado
+* Kakamega
+* Keiyo-Marakwet
+* Kericho
+* Kiambu
+* Kilifi
+* Kirinyaga
+* Kisii
+* Kisumu
+* Kitui
+* Kwale
+* Laikipia
+* Lamu
+* Machakos
+* Makueni
+* Mandera
+* Marsabit
+* Meru
+* Mombasa
+* Migori
+* Murang'a
+* Nairobi
+* Nakuru
+* Narok
+* Nandi
+* Nyamira
+* Nyandarua
+* Nyeri
+* Samburu
+* Siaya
+* Tana River
+* Taita Taveta
+* Tharaka
+* Trans Nzoia
+* Turkana
+* Uasin Gishu
+* Vihiga
+* Wajir
+* West Pokot
 
 ## Installation
 
