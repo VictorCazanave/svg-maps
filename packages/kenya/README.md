@@ -69,7 +69,8 @@ This map is based on the work of [MapSVG](https://mapsvg.com).
 The original map is available [here](https://mapsvg.com/maps/kenya) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Changes
-* Round up values for the viewbox of the svg
+* Add viewBox
+* Round up values for the viewBox of the svg
 * Remove unnecessary attributes
 * Replace default ids with more friendly values
-
+* Replace title with name attributes
