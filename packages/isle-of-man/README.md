@@ -33,3 +33,11 @@ This map is based on the work of Manx Radio
 The original map is available [here](https://www.manxradio.com/election-2021/election-welcome/) under the Creative Commons Attribution-Share Alike 3.0 Unported license.
 
 This map is under the Creative Commons Attribution-Share Alike 4.0 license which is compatible with the license of the original map.
+
+### changes
+
+Removed unnecessary attributes
+
+Removed div classes
+
+Removed g classes
