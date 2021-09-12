@@ -25,3 +25,11 @@ Contains all the constituencies of the Isle of Man:
 ### yarn
 
 `yarn add @svg-maps/isle-of-man`
+
+## Credits
+
+This map is based on the work of Manx Radio
+
+The original map is available [here](https://www.manxradio.com/election-2021/election-welcome/) under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+
+This map is under the Creative Commons Attribution-Share Alike 4.0 license which is compatible with the license of the original map.

@@ -17,7 +17,4 @@
 		"access": "public"
 	},
 	"license": "CC-BY-4.0",
-	"dependencies": {
-		"@svg-maps/cli": "^1.0.0-beta.5"
-	}
 }
