@@ -3,7 +3,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Contains all the counties of Kenya:
-
 * Baringo
 * Bomet
 * Bungoma
@@ -69,8 +68,9 @@ This map is based on the work of [MapSVG](https://mapsvg.com).
 The original map is available [here](https://mapsvg.com/maps/kenya) under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Changes
-* Add viewBox
-* Round up values for the viewBox of the svg
+
 * Remove unnecessary attributes
-* Replace default ids with more friendly values
-* Replace title with name attributes
+* Replace title by name attributes
+* Add viewBox
+* Rename ids
+* Sort `<path/>` alphabetically
