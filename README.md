@@ -4,6 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
+* :angola: [Angola](packages/angola) 
 * 🇦🇺 [Australia](packages/australia)
 * 🇦🇹 [Austria](packages/austria)
 * 🇧🇷 [Brazil](packages/brazil)
