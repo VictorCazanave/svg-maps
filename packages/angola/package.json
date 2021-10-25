@@ -1,0 +1,22 @@
+{
+	"name": "@svg-maps/angola",
+	"version": "1.0.1",
+	"description": "Map of Angola",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/angola"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"angola",
+		"ao",
+		"aoa"
+	],
+	"author": "Gentil Pinto <gentil.junior.gp@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
