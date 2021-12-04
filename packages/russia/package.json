@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/russia",
+	"version": "1.0.0",
+	"description": "Map of Russia",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/russia"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"russia",
+		"regions"
+	],
+	"author": "Mihai Ro <mihairo.dev@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}

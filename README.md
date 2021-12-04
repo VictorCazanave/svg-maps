@@ -35,6 +35,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇵🇰 [Pakistan, Districts](packages/pakistan.districts)
 * 🇵🇷 [Puerto Rico](packages/puerto-rico)
 * 🇷🇴 [Romania](packages/romania)
+* 🇷🇺 [Russia](packages/russia)
 * 🇸🇦 [Saudi Arabia](packages/saudi-arabia)
 * 🇰🇷 [South Korea](packages/south-korea)
 * 🇪🇸 [Spain](packages/spain)
