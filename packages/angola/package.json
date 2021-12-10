@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/angola",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"description": "Map of Angola",
 	"main": "index.js",
 	"repository": {
