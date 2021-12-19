@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/africa",
+	"version": "1.0.0",
+	"description": "Map of Africa",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/africa"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"africa"
+	],
+	"author": "Simba Tsuro <pose@simbatsuro.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
