@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/greece.prefectureswneighbours"
+		"url": "https://github.com/thanasisxan/svg-maps-with-greece-prefectures/tree/master/packages/greece.prefectureswneighbours"
 	},
 	"keywords": [
 		"svg",
