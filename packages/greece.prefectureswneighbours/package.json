@@ -1,5 +1,5 @@
 {
-	"name": "@svg-maps/greece.prefectureswneighbours",
+	"name": "@thanasis-svg-maps/greece.prefectureswneighbours",
 	"version": "1.0.0",
 	"description": "Map of Greece, PrefecturesWNeighbours",
 	"main": "index.js",
