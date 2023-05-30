@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/porutgal",
+	"version": "1.0.0",
+	"description": "Map of Portugal",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/portugal"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"portugal"
+	],
+	"author": "Pedro Gaudio <pedrogaudio@live.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
