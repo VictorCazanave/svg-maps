@@ -1,34 +1,39 @@
-# 🇦🇺 Australia
+# pt Portugal
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Contains all the states and territories (mainland and islands) of Australia:
-* Australian Capital Territory
-* New South Wales
-* Northern Territory - Groote Eylandt
-* Northern Territory - Mainland
-* Northern Territory Melville Island
-* Queensland - Fraser Island
-* Queensland - Mainland
-* Queensland - Mornington Island
-* South Australia - Kangaroo Island
-* South Australia - Mainland
-* Tasmania - Cape Barren
-* Tasmania - Flinders Island
-* Tasmania - King Currie Island
-* Tasmania - Mainland
-* Victoria
-* Western Australia
+Contains all the districts  of Portugal:
+* Azores
+* Aveiro
+* Beja
+* Braga
+* Bragança
+* Castelo Branco
+* Coimbra
+* Évora
+* Faro
+* Guarda
+* Leiria
+* Lisbon
+* Madeira
+* Portalegre
+* Porto
+* Santarém
+* Setúbal
+* Viana do Castelo 
+* Vila Real
+* Viseu
+
 
 ## Installation
 
 ### npm
 
-`npm install --save @svg-maps/australia`
+`npm install --save @svg-maps/portugal`
 
 ### yarn
 
-`yarn add @svg-maps/australia`
+`yarn add @svg-maps/portugal`
 
 ## Credits
 
@@ -40,8 +45,4 @@ This map is under the [Creative Commons Attribution-Share Alike 4.0](https://cre
 
 ### Changes
 
-* Remove inline styles
-* Add document label
-* Add locations name (`New South Wales`, `Queensland Mainland`...)
-* Standardize ids (`nsw`, `qld-mainland`...)
-* Sort `<path/>` alphabetically
+
