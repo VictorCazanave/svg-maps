@@ -1,16 +1,16 @@
 {
-	"name": "@svg-maps/greece.regions-wide",
+	"name": "@svg-maps/greece.cities-wide",
 	"version": "1.0.0",
-	"description": "Map of Greece, Regions wide",
+	"description": "Map of Greece, Cities",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/greece.regions-wide"
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/greece.cities-wide"
 	},
 	"keywords": [
 		"svg",
 		"map",
-		"greece, regions wide"
+		"greece, cities"
 	],
 	"author": "Thanasis Xanthopoulos <thanasis.xanthop@gmail.com>",
 	"publishConfig": {

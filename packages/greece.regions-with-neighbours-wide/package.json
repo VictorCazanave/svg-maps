@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/greece.regions-with-neighbours-wide",
+	"version": "1.0.0",
+	"description": "Map of Greece, Regions wide",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/greece.regions-with-neighbours-wide"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"greece, regions wide"
+	],
+	"author": "Thanasis Xanthopoulos <thanasis.xanthop@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC BY-SA 4.0"
+}
