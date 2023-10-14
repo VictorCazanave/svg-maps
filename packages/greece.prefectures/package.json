@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/greece.prefectures",
+	"version": "1.0.0",
+	"description": "Map of Greece, Prefectures",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/greece.prefecture"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"greece, prefectures"
+	],
+	"author": "Thanasis Xanthopoulos <thanasis.xanthop@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC BY-SA 4.0"
+}
