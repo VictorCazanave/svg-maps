@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/vietnam",
+	"version": "1.0.0",
+	"description": "Map of Vietnam",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/vietnam"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"vietnam"
+	],
+	"author": "Tien Chu <chu.tien@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC BY 4.0"
+}
