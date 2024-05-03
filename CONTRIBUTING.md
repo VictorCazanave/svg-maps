@@ -85,7 +85,7 @@ Here is a simplified example of `new-zealand.svg`:
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/[new-map]"
+		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/[new-map]"
 	},
 	"keywords": [
 		"svg",

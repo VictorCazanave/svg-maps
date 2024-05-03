@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/cameroon"
+		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/cameroon"
 	},
 	"keywords": [
 		"svg",
