@@ -3,6 +3,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-26-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+### This repository was clone from https://github.com/VictorCazanave/svg-maps. We would like to add a map, but the author is not responding. 
+
 A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
 * 🇦🇺 [Australia](packages/australia)
 * 🇦🇹 [Austria](packages/austria)
@@ -59,6 +61,12 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🌍 [World, Capitals](packages/world.capitals)
 * 🇿🇼 [Zimbabwe](packages/zimbabwe)
 
+## Install
+
+```shell
+npm install --save @vocweb/svg-maps/japan
+```
+
 ## SVG files
 
 The SVG files come from different sources and have been cleaned to be lighter and easier to use.
@@ -66,7 +74,7 @@ The SVG files come from different sources and have been cleaned to be lighter an
 ### Sources
 
 * [amCharts](https://www.amcharts.com/)
-* [MapSVG](https://mapsvg.com/)
+* [MapSVG for Vue 3](https://github.com/vocweb/svg-map)
 * [simplemaps](https://simplemaps.com/)
 * [Wikimedia Commons](https://commons.wikimedia.org/)
 
@@ -74,7 +82,8 @@ The SVG files come from different sources and have been cleaned to be lighter an
 
 The JS files contain a simplified object representation of the SVG files.
 
-They can be imported and used in projects like [react-svg-map](https://github.com/VictorCazanave/react-svg-map) or [vue-svg-map](https://github.com/VictorCazanave/vue-svg-map).
+They can be imported and used in projects like:
+* [svg-map](https://github.com/vocweb/svg-map): this project support Vue 3/Nuxt 3.
 
 ## CLI tool
 
