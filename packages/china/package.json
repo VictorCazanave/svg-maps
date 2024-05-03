@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/china",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Map of China",
 	"main": "index.js",
 	"repository": {

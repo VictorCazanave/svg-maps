@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/india",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Map of India",
 	"main": "index.js",
 	"repository": {

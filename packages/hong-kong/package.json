@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/hong-kong",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Map of Hong Kong",
 	"main": "index.js",
 	"repository": {

@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/canada.lambert-projection",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Canada, Lambert Projection",
 	"main": "index.js",
 	"repository": {

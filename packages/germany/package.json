@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/germany",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Map of Germany",
 	"main": "index.js",
 	"repository": {
