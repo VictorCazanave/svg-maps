@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/canada.lambert-projection",
+	"name": "@svg-country-maps/canada.lambert-projection",
 	"version": "1.0.0",
 	"description": "Map of Canada, Lambert Projection",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/canada.lambert-projection"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/canada.lambert-projection"
 	},
 	"keywords": [
 		"svg",
@@ -17,5 +17,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC BY-SA 4.0"
+	"license": "CC BY-SA 4.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

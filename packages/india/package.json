@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/india",
+	"name": "@svg-country-maps/india",
 	"version": "1.0.1",
 	"description": "Map of India",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/india"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/india"
 	},
 	"keywords": [
 		"svg",
@@ -16,5 +16,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC-BY-4.0"
+	"license": "CC-BY-4.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

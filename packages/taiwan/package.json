@@ -1,11 +1,11 @@
 {
-  "name": "@svg-maps/taiwan",
+  "name": "@svg-country-maps/taiwan",
   "version": "1.1.0",
   "description": "Map of Taiwan",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vocweb/svg-maps/tree/master/packages/taiwan"
+    "url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/taiwan"
   },
   "keywords": [
     "svg",
@@ -15,5 +15,6 @@
   "author": "Victor Cazanave <victor.cazanave@gmail.com>",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

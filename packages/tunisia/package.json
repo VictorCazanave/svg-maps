@@ -1,11 +1,11 @@
 {
-  "name": "@svg-maps/tunisia",
+  "name": "@svg-country-maps/tunisia",
   "version": "1.0.0",
   "description": "Map of Tunisia",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vocweb/svg-maps/tree/master/packages/tunisia"
+    "url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/tunisia"
   },
   "keywords": [
     "svg",
@@ -15,5 +15,6 @@
   "author": "Aref Ben Lazrek <areflazrek@gmail.com>",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

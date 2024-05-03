@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/denmark",
+	"name": "@svg-country-maps/denmark",
 	"version": "1.0.0",
 	"description": "Map of Denmark",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/denmark"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/denmark"
 	},
 	"keywords": [
 		"svg",
@@ -17,5 +17,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC-BY-4.0"
+	"license": "CC-BY-4.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

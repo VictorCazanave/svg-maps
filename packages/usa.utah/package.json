@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/usa.utah",
+	"name": "@svg-country-maps/usa.utah",
 	"version": "1.1.1",
 	"description": "Map of Utah, USA",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/usa.utah"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/usa.utah"
 	},
 	"keywords": [
 		"svg",
@@ -17,5 +17,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "Unlicense"
+	"license": "Unlicense",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

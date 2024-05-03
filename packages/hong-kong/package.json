@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/hong-kong",
+	"name": "@svg-country-maps/hong-kong",
 	"version": "1.0.1",
 	"description": "Map of Hong Kong",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/hong-kong"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/hong-kong"
 	},
 	"keywords": [
 		"svg",
@@ -16,5 +16,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC-BY-4.0"
+	"license": "CC-BY-4.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }
