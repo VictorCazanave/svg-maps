@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/indonesia",
+	"name": "@svg-country-maps/indonesia",
 	"version": "1.0.0",
 	"description": "Map of Indonesia",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/indonesia"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/indonesia"
 	},
 	"keywords": [
 		"svg",
@@ -16,5 +16,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC-BY-4.0"
+	"license": "CC-BY-4.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

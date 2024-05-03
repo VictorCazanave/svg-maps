@@ -1,11 +1,11 @@
 {
-  "name": "@svg-maps/taiwan.main",
+  "name": "@svg-country-maps/taiwan.main",
   "version": "1.0.0",
   "description": "Map of Taiwan main island",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/taiwan.main"
+    "url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/taiwan.main"
   },
   "keywords": [
     "svg",
@@ -15,5 +15,6 @@
   "author": "Victor Cazanave <victor.cazanave@gmail.com>",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

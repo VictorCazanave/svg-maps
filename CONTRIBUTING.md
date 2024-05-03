@@ -79,13 +79,13 @@ Here is a simplified example of `new-zealand.svg`:
 * Create a new `/packages/[new-map]/package.json` file to describe the npm package to publish:
 ```json
 {
-	"name": "@svg-maps/[new-map]",
+	"name": "@svg-country-maps/[new-map]",
 	"version": "1.0.0",
 	"description": "Map of [New Map]",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/[new-map]"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/[new-map]"
 	},
 	"keywords": [
 		"svg",

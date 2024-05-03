@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/saudi-arabia",
+	"name": "@svg-country-maps/saudi-arabia",
 	"version": "1.0.1",
 	"description": "Map of Saudi Arabia",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/saudi-arabia"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/saudi-arabia"
 	},
 	"keywords": [
 		"svg",
@@ -16,5 +16,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC-BY-4.0"
+	"license": "CC-BY-4.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

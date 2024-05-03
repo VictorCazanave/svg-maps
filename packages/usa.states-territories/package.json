@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/usa.states-territories",
+	"name": "@svg-country-maps/usa.states-territories",
 	"version": "1.0.0",
 	"description": "Map of USA states and territories",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.states-territories"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/usa.states-territories"
 	},
 	"keywords": [
 		"svg",
@@ -18,5 +18,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "Unlicense"
+	"license": "Unlicense",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

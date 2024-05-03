@@ -1,7 +1,6 @@
 {
-	"name": "@vocweb/svg-maps",
+	"name": "svg-country-maps",
 	"description": "A set of SVG maps",
-	"version": "1.0.0",
 	"devDependencies": {
 		"@svg-maps/cli": "^1.0.0-beta.5",
 		"lerna": "^3.13.2"
@@ -14,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/vocweb/svg-maps.git"
+		"url": "git+https://github.com/vocweb/svg-country-maps.git"
 	},
 	"keywords": [
 		"map",
@@ -25,7 +24,7 @@
 	"author": "Tien Chu <chu.tien@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/vocweb/svg-maps/issues"
+		"url": "https://github.com/vocweb/svg-country-maps/issues"
 	},
-	"homepage": "https://github.com/vocweb/svg-maps#readme"
+	"homepage": "https://github.com/vocweb/svg-country-maps#readme"
 }

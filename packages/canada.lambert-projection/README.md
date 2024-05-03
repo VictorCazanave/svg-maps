@@ -3,7 +3,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 *This is the Lambert conformal conic projection of Canada. 
-The Mercator projection of Canada is available [here](https://github.com/VictorCazanave/svg-maps/tree/master/packages/canada).*
+The Mercator projection of Canada is available [here](https://github.com/vocweb/svg-country-maps/tree/master/packages/canada).*
 
 Contains all the provinces and territories of Canada: 
 * Alberta

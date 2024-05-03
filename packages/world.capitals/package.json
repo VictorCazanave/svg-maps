@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/world.capitals",
+	"name": "@svg-country-maps/world.capitals",
 	"version": "1.0.0",
 	"description": "Map of World Capitals",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/world.capitals"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/world.capitals"
 	},
 	"keywords": [
 		"svg",
@@ -17,5 +17,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC-BY-4.0"
+	"license": "CC-BY-4.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

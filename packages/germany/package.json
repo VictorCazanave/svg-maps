@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/germany",
+	"name": "@svg-country-maps/germany",
 	"version": "1.0.1",
 	"description": "Map of Germany",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/germany"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/germany"
 	},
 	"keywords": [
 		"svg",
@@ -16,5 +16,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC-BY-4.0"
+	"license": "CC-BY-4.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }
