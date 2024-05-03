@@ -9,7 +9,8 @@
 		"bootstrap": "lerna bootstrap",
 		"add": "cd ./packages && svg-country-maps add",
 		"generate": "svg-country-maps generate",
-		"release": "lerna publish from-package"
+		"release": "lerna publish from-package",
+		"release-new": "lerna publish"
 	},
 	"repository": {
 		"type": "git",
