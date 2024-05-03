@@ -16,11 +16,11 @@ Contains all the states and union territories of Israel:
 
 ### npm
 
-`npm install --save @svg-maps/israel`
+`npm install --save @svg-country-maps/israel`
 
 ### yarn
 
-`yarn add @svg-maps/israel`
+`yarn add @svg-country-maps/israel`
 
 ## Credits
 

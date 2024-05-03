@@ -25,11 +25,11 @@ Contains all the provincial divisions of South Korea:
 
 ### npm
 
-`npm install --save @svg-maps/south-korea`
+`npm install --save @svg-country-maps/south-korea`
 
 ### yarn
 
-`yarn add @svg-maps/south-korea`
+`yarn add @svg-country-maps/south-korea`
 
 ## Credits
 

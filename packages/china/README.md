@@ -41,11 +41,11 @@ Contains all the provinces, autonomous regions and municipalities of China:
 
 ### npm
 
-`npm install --save @svg-maps/china`
+`npm install --save @svg-country-maps/china`
 
 ### yarn
 
-`yarn add @svg-maps/china`
+`yarn add @svg-country-maps/china`
 
 ## Credits
 

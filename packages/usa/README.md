@@ -59,11 +59,11 @@ Contains all the states of the United States of America:
 
 ### npm
 
-`npm install --save @svg-maps/usa`
+`npm install --save @svg-country-maps/usa`
 
 ### yarn
 
-`yarn add @svg-maps/usa`
+`yarn add @svg-country-maps/usa`
 
 ## Credits
 

@@ -24,11 +24,11 @@ Contains all the provinces and territories of Canada:
 
 ### npm
 
-`npm install --save @svg-maps/canada.lambert-projection`
+`npm install --save @svg-country-maps/canada.lambert-projection`
 
 ### yarn
 
-`yarn add @svg-maps/canada.lambert-projection`
+`yarn add @svg-country-maps/canada.lambert-projection`
 
 ## Credits
 

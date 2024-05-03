@@ -92,11 +92,11 @@ Contains all the counties of the Michigan state:
 
 ### npm
 
-`npm install --save @svg-maps/usa.michigan`
+`npm install --save @svg-country-maps/usa.michigan`
 
 ### yarn
 
-`yarn add @svg-maps/usa.michigan`
+`yarn add @svg-country-maps/usa.michigan`
 
 ## Credits
 

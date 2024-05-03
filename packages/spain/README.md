@@ -25,11 +25,11 @@ Contains all the autonomous communities of Spain:
 
 ### npm
 
-`npm install --save @svg-maps/spain`
+`npm install --save @svg-country-maps/spain`
 
 ### yarn
 
-`yarn add @svg-maps/spain`
+`yarn add @svg-country-maps/spain`
 
 ## Credits
 

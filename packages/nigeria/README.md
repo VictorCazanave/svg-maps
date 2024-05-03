@@ -45,11 +45,11 @@ Contains all the states and the Federal Capital Territory (FCT) of Nigeria:
 
 ### npm
 
-`npm install --save @svg-maps/nigeria`
+`npm install --save @svg-country-maps/nigeria`
 
 ### yarn
 
-`yarn add @svg-maps/nigeria`
+`yarn add @svg-country-maps/nigeria`
 
 ## Credits
 

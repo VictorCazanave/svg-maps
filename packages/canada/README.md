@@ -21,11 +21,11 @@ Contains all the provinces and territories of Canada:
 
 ### npm
 
-`npm install --save @svg-maps/canada`
+`npm install --save @svg-country-maps/canada`
 
 ### yarn
 
-`yarn add @svg-maps/canada`
+`yarn add @svg-country-maps/canada`
 
 ## Credits
 

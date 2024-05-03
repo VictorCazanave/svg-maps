@@ -55,11 +55,11 @@ Contains all the counties of Kenya:
 
 ### npm
 
-`npm install --save @svg-maps/kenya`
+`npm install --save @svg-country-maps/kenya`
 
 ### yarn
 
-`yarn add @svg-maps/kenya`
+`yarn add @svg-country-maps/kenya`
 
 ## Credits
 

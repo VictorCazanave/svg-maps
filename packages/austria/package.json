@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/austria",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Austria",
 	"main": "index.js",
 	"repository": {
@@ -17,5 +17,5 @@
 		"access": "public"
 	},
 	"license": "CC-BY-4.0",
-	"gitHead": "fd012fd03118f53dd89924d96e516d58538f37c5"
+	"gitHead": "e25d8193cabf6584dc5e590e92e0f8ed6911b9fc"
 }

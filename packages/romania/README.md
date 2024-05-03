@@ -49,11 +49,11 @@ Contains the municipality of Bucharest and all the counties of Romania:
 
 ### npm
 
-`npm install --save @svg-maps/romania`
+`npm install --save @svg-country-maps/romania`
 
 ### yarn
 
-`yarn add @svg-maps/romania`
+`yarn add @svg-country-maps/romania`
 
 ## Credits
 

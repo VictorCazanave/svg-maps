@@ -46,11 +46,11 @@ Contains all the districts, municipalities and autonomous territories of Moldova
 
 ### npm
 
-`npm install --save @svg-maps/moldova`
+`npm install --save @svg-country-maps/moldova`
 
 ### yarn
 
-`yarn add @svg-maps/moldova`
+`yarn add @svg-country-maps/moldova`
 
 ## Credits
 

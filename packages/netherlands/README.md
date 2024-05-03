@@ -20,11 +20,11 @@ Contains all the provinces of the Netherlands:
 
 ### npm
 
-`npm install --save @svg-maps/netherlands`
+`npm install --save @svg-country-maps/netherlands`
 
 ### yarn
 
-`yarn add @svg-maps/netherlands`
+`yarn add @svg-country-maps/netherlands`
 
 ## Credits
 

@@ -32,11 +32,11 @@ Contains all the governorates of the administrative divisions of Tunisia:
 
 ### npm
 
-`npm install --save @svg-maps/tunisia`
+`npm install --save @svg-country-maps/tunisia`
 
 ### yarn
 
-`yarn add @svg-maps/tunisia`
+`yarn add @svg-country-maps/tunisia`
 
 ## Credits
 

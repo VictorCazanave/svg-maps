@@ -41,11 +41,11 @@ Contains all the departments of Colombia:
 
 ### npm
 
-`npm install --save @svg-maps/colombia`
+`npm install --save @svg-country-maps/colombia`
 
 ### yarn
 
-`yarn add @svg-maps/colombia`
+`yarn add @svg-country-maps/colombia`
 
 ## Credits
 

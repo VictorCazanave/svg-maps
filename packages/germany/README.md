@@ -24,11 +24,11 @@ Contains all the states (_Länder_) of Germany:
 
 ### npm
 
-`npm install --save @svg-maps/germany`
+`npm install --save @svg-country-maps/germany`
 
 ### yarn
 
-`yarn add @svg-maps/germany`
+`yarn add @svg-country-maps/germany`
 
 ## Credits
 

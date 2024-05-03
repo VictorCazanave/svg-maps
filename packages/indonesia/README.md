@@ -42,11 +42,11 @@ Contains all the provinces of Indonesia:
 
 ### npm
 
-`npm install --save @svg-maps/indonesia`
+`npm install --save @svg-country-maps/indonesia`
 
 ### yarn
 
-`yarn add @svg-maps/indonesia`
+`yarn add @svg-country-maps/indonesia`
 
 ## Credits
 

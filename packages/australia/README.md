@@ -24,11 +24,11 @@ Contains all the states and territories (mainland and islands) of Australia:
 
 ### npm
 
-`npm install --save @svg-maps/australia`
+`npm install --save @svg-country-maps/australia`
 
 ### yarn
 
-`yarn add @svg-maps/australia`
+`yarn add @svg-country-maps/australia`
 
 ## Credits
 

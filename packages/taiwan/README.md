@@ -28,11 +28,11 @@ Contains all the counties and cities of the administrative divisions of Taiwan:
 
 ### npm
 
-`npm install --save @svg-maps/taiwan`
+`npm install --save @svg-country-maps/taiwan`
 
 ### yarn
 
-`yarn add @svg-maps/taiwan`
+`yarn add @svg-country-maps/taiwan`
 
 ## Credits
 
