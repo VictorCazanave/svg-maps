@@ -1,6 +1,7 @@
 {
-	"name": "svg-maps",
+	"name": "@vocweb/svg-maps",
 	"description": "A set of SVG maps",
+	"version": "1.0.0",
 	"devDependencies": {
 		"@svg-maps/cli": "^1.0.0-beta.5",
 		"lerna": "^3.13.2"
@@ -13,7 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/VictorCazanave/svg-maps.git"
+		"url": "git+https://github.com/vocweb/svg-maps.git"
 	},
 	"keywords": [
 		"map",
@@ -21,10 +22,10 @@
 		"javascript",
 		"es modules"
 	],
-	"author": "Victor Cazanave <victor.cazanave@gmail.com>",
+	"author": "Tien Chu <chu.tien@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/VictorCazanave/svg-maps/issues"
+		"url": "https://github.com/vocweb/svg-maps/issues"
 	},
-	"homepage": "https://github.com/VictorCazanave/svg-maps#readme"
+	"homepage": "https://github.com/vocweb/svg-maps#readme"
 }
