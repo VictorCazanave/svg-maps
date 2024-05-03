@@ -28,11 +28,11 @@ Contains all the regions of Italy:
 
 ### npm
 
-`npm install --save @svg-maps/italy`
+`npm install --save @svg-country-maps/italy`
 
 ### yarn
 
-`yarn add @svg-maps/italy`
+`yarn add @svg-country-maps/italy`
 
 ## Credits
 

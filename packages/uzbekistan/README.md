@@ -22,11 +22,11 @@ Contains all the regions, the autonomous republic and the independent city of Uz
 
 ### npm
 
-`npm install --save @svg-maps/uzbekistan`
+`npm install --save @svg-country-maps/uzbekistan`
 
 ### yarn
 
-`yarn add @svg-maps/uzbekistan`
+`yarn add @svg-country-maps/uzbekistan`
 
 ## Credits
 

@@ -26,11 +26,11 @@ Contains all the departments of Honduras:
 
 ### npm
 
-`npm install --save @svg-maps/honduras`
+`npm install --save @svg-country-maps/honduras`
 
 ### yarn
 
-`yarn add @svg-maps/honduras`
+`yarn add @svg-country-maps/honduras`
 
 ## Credits
 

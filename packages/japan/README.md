@@ -55,11 +55,11 @@ Contains all the prefectures of Japan:
 
 ### npm
 
-`npm install --save @svg-maps/japan`
+`npm install --save @svg-country-maps/japan`
 
 ### yarn
 
-`yarn add @svg-maps/japan`
+`yarn add @svg-country-maps/japan`
 
 ## Credits
 

@@ -33,11 +33,11 @@ Contains all the provinces of Cambodia:
 
 ### npm
 
-`npm install --save @svg-maps/cambodia`
+`npm install --save @svg-country-maps/cambodia`
 
 ### yarn
 
-`yarn add @svg-maps/cambodia`
+`yarn add @svg-country-maps/cambodia`
 
 ## Credits
 

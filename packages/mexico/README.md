@@ -40,11 +40,11 @@ Contains all the states of Mexico:
 
 ### npm
 
-`npm install --save @svg-maps/mexico`
+`npm install --save @svg-country-maps/mexico`
 
 ### yarn
 
-`yarn add @svg-maps/mexico`
+`yarn add @svg-country-maps/mexico`
 
 ## Credits
 

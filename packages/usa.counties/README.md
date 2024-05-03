@@ -3152,11 +3152,11 @@ Note: In general, "county," "parish," "borough," and other such signifiers are n
 
 ### npm
 
-`npm install --save @svg-maps/usa.counties`
+`npm install --save @svg-country-maps/usa.counties`
 
 ### yarn
 
-`yarn add @svg-maps/usa.counties`
+`yarn add @svg-country-maps/usa.counties`
 
 ## Credits
 

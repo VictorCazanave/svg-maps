@@ -263,11 +263,11 @@ Contains all the countries in the World:
 
 ### npm
 
-`npm install --save @svg-maps/world`
+`npm install --save @svg-country-maps/world`
 
 ### yarn
 
-`yarn add @svg-maps/world`
+`yarn add @svg-country-maps/world`
 
 ## Credits
 

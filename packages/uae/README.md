@@ -15,11 +15,11 @@ Contains all the emirates of the United Arab Emirates:
 
 ### npm
 
-`npm install --save @svg-maps/uae`
+`npm install --save @svg-country-maps/uae`
 
 ### yarn
 
-`yarn add @svg-maps/uae`
+`yarn add @svg-country-maps/uae`
 
 ## Credits
 

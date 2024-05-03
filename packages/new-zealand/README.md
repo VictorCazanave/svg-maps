@@ -25,11 +25,11 @@ Contains all the regions of New Zealand:
 
 ### npm
 
-`npm install --save @svg-maps/new-zealand`
+`npm install --save @svg-country-maps/new-zealand`
 
 ### yarn
 
-`yarn add @svg-maps/new-zealand`
+`yarn add @svg-country-maps/new-zealand`
 
 ## Credits
 

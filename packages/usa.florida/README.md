@@ -75,11 +75,11 @@ Contains all the counties of the Florida state:
 
 ### npm
 
-`npm install --save @svg-maps/usa.florida`
+`npm install --save @svg-country-maps/usa.florida`
 
 ### yarn
 
-`yarn add @svg-maps/usa.florida`
+`yarn add @svg-country-maps/usa.florida`
 
 ## Credits
 

@@ -152,11 +152,11 @@ Contains all the districts of Pakistan:
 
 ### npm
 
-`npm install --save @svg-maps/pakistan.districts`
+`npm install --save @svg-country-maps/pakistan.districts`
 
 ### yarn
 
-`yarn add @svg-maps/pakistan.districts`
+`yarn add @svg-country-maps/pakistan.districts`
 
 ## Credits
 

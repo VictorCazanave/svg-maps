@@ -26,11 +26,11 @@ Contains all the districts of Hong Kong:
 
 ### npm
 
-`npm install --save @svg-maps/hong-kong`
+`npm install --save @svg-country-maps/hong-kong`
 
 ### yarn
 
-`yarn add @svg-maps/hong-kong`
+`yarn add @svg-country-maps/hong-kong`
 
 ## Credits
 

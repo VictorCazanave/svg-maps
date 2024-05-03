@@ -37,11 +37,11 @@ Contains all the counties of the Utah state:
 
 ### npm
 
-`npm install --save @svg-maps/usa.utah`
+`npm install --save @svg-country-maps/usa.utah`
 
 ### yarn
 
-`yarn add @svg-maps/usa.utah`
+`yarn add @svg-country-maps/usa.utah`
 
 ## Credits
 

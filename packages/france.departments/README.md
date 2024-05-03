@@ -104,11 +104,11 @@ Contains all the departments of Metropolitan France:
 
 ### npm
 
-`npm install --save @svg-maps/france.departments`
+`npm install --save @svg-country-maps/france.departments`
 
 ### yarn
 
-`yarn add @svg-maps/france.departments`
+`yarn add @svg-country-maps/france.departments`
 
 ## Credits
 

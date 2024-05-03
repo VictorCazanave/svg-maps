@@ -38,11 +38,11 @@ Contains all the regions of Tanzania before 2016:
 
 ### npm
 
-`npm install --save @svg-maps/tanzania`
+`npm install --save @svg-country-maps/tanzania`
 
 ### yarn
 
-`yarn add @svg-maps/tanzania`
+`yarn add @svg-country-maps/tanzania`
 
 ## Credits
 

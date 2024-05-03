@@ -34,11 +34,11 @@ Contains all the regions (oblasts) and the capital city of Ukraine:
 
 ### npm
 
-`npm install --save @svg-maps/ukraine`
+`npm install --save @svg-country-maps/ukraine`
 
 ### yarn
 
-`yarn add @svg-maps/ukraine`
+`yarn add @svg-country-maps/ukraine`
 
 ## Credits
 

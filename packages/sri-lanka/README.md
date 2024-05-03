@@ -33,11 +33,11 @@ Contains all the districts of Sri Lanka:
 
 ### npm
 
-`npm install --save @svg-maps/sri-lanka`
+`npm install --save @svg-country-maps/sri-lanka`
 
 ### yarn
 
-`yarn add @svg-maps/sri-lanka`
+`yarn add @svg-country-maps/sri-lanka`
 
 ## Credits
 

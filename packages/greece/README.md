@@ -22,11 +22,11 @@ Contains all the regions of Greece:
 
 ### npm
 
-`npm install --save @svg-maps/greece`
+`npm install --save @svg-country-maps/greece`
 
 ### yarn
 
-`yarn add @svg-maps/greece`
+`yarn add @svg-country-maps/greece`
 
 ## Credits
 
