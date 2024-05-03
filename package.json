@@ -1,7 +1,6 @@
 {
 	"name": "@vocweb/svg-maps",
 	"description": "A set of SVG maps",
-	"version": "1.0.0",
 	"devDependencies": {
 		"@svg-maps/cli": "^1.0.0-beta.5",
 		"lerna": "^3.13.2"
