@@ -30,11 +30,11 @@ Contains all the municipalities of Cape Verde:
 
 ### npm
 
-`npm install --save @svg-maps/cape-verde`
+`npm install --save @svg-country-maps/cape-verde`
 
 ### yarn
 
-`yarn add @svg-maps/cape-verde`
+`yarn add @svg-country-maps/cape-verde`
 
 ## Credits
 

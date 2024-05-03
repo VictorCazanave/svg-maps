@@ -21,11 +21,11 @@ Contains all the regions of Metropolitan France:
 
 ### npm
 
-`npm install --save @svg-maps/france.regions`
+`npm install --save @svg-country-maps/france.regions`
 
 ### yarn
 
-`yarn add @svg-maps/france.regions`
+`yarn add @svg-country-maps/france.regions`
 
 ## Credits
 

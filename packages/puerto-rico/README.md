@@ -86,11 +86,11 @@ Contains all the municipalities of Puerto Rico:
 
 ### npm
 
-`npm install --save @svg-maps/puerto-rico`
+`npm install --save @svg-country-maps/puerto-rico`
 
 ### yarn
 
-`yarn add @svg-maps/puerto-rico`
+`yarn add @svg-country-maps/puerto-rico`
 
 ## Credits
 

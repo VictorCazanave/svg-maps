@@ -9,15 +9,15 @@ This CLI tool helps to create new maps without forking this repository.
 
 ### npm
 
-`npm install @svg-maps/cli`
+`npm install @svg-country-maps/cli`
 
 ### yarn
 
-`yarn add @svg-maps/cli`
+`yarn add @svg-country-maps/cli`
 
 ### npx (using directly without installation)
 
-`npx @svg-maps/cli [command]`
+`npx @svg-country-maps/cli [command]`
 
 ## API
 

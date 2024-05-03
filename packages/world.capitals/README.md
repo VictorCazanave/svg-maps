@@ -264,11 +264,11 @@ Contains all the capitals in the World:
 
 ### npm
 
-`npm install --save @svg-maps/world.capitals`
+`npm install --save @svg-country-maps/world.capitals`
 
 ### yarn
 
-`yarn add @svg-maps/world.capitals`
+`yarn add @svg-country-maps/world.capitals`
 
 ## Credits
 

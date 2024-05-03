@@ -18,11 +18,11 @@ Contains all the provinces of Zimbabwe:
 
 ### npm
 
-`npm install --save @svg-maps/zimbabwe`
+`npm install --save @svg-country-maps/zimbabwe`
 
 ### yarn
 
-`yarn add @svg-maps/zimbabwe`
+`yarn add @svg-country-maps/zimbabwe`
 
 ## Credits
 

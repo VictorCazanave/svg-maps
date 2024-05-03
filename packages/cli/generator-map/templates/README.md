@@ -9,11 +9,11 @@ Contains all LOCATIONS_TYPE of <%= map %>:
 
 ### npm
 
-`npm install --save @svg-maps/<%= package %>`
+`npm install --save @svg-country-maps/<%= package %>`
 
 ### yarn
 
-`yarn add @svg-maps/<%= package %>`
+`yarn add @svg-country-maps/<%= package %>`
 
 ## Credits
 

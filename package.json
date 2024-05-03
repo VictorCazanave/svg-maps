@@ -2,14 +2,15 @@
 	"name": "svg-country-maps",
 	"description": "A set of SVG maps",
 	"devDependencies": {
-		"@svg-maps/cli": "^1.0.0-beta.5",
+		"@svg-country-maps/cli": "^1.0.0-beta.5",
 		"lerna": "^3.13.2"
 	},
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
-		"add": "cd ./packages && svg-maps add",
-		"generate": "svg-maps generate",
-		"release": "lerna publish from-package"
+		"add": "cd ./packages && svg-country-maps add",
+		"generate": "svg-country-maps generate",
+		"release": "lerna publish from-package",
+		"release-new": "lerna publish"
 	},
 	"repository": {
 		"type": "git",

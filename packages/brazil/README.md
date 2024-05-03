@@ -35,11 +35,11 @@ Contains all the states and the Federal District of Brazil:
 
 ### npm
 
-`npm install --save @svg-maps/brazil`
+`npm install --save @svg-country-maps/brazil`
 
 ### yarn
 
-`yarn add @svg-maps/brazil`
+`yarn add @svg-country-maps/brazil`
 
 ## Credits
 

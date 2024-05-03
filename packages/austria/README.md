@@ -18,11 +18,11 @@ Contains all the states of Austria:
 
 ### npm
 
-`npm install --save @svg-maps/austria`
+`npm install --save @svg-country-maps/austria`
 
 ### yarn
 
-`yarn add @svg-maps/austria`
+`yarn add @svg-country-maps/austria`
 
 ## Credits
 

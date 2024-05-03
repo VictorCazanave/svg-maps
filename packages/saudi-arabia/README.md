@@ -21,11 +21,11 @@ Contains all the regions of Saudi Arabia:
 
 ### npm
 
-`npm install --save @svg-maps/saudi-arabia`
+`npm install --save @svg-country-maps/saudi-arabia`
 
 ### yarn
 
-`yarn add @svg-maps/saudi-arabia`
+`yarn add @svg-country-maps/saudi-arabia`
 
 ## Credits
 

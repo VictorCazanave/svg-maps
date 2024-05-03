@@ -72,11 +72,11 @@ Contains all LOCATIONS_TYPE of Vietnam:
 
 ### npm
 
-`npm install --save @svg-maps/vietnam`
+`npm install --save @svg-country-maps/vietnam`
 
 ### yarn
 
-`yarn add @svg-maps/vietnam`
+`yarn add @svg-country-maps/vietnam`
 
 ## Credits
 

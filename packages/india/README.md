@@ -44,11 +44,11 @@ Contains all the states and union territories of India:
 
 ### npm
 
-`npm install --save @svg-maps/india`
+`npm install --save @svg-country-maps/india`
 
 ### yarn
 
-`yarn add @svg-maps/india`
+`yarn add @svg-country-maps/india`
 
 ## Credits
 

@@ -18,11 +18,11 @@ Contains all the regions of Cameroon:
 
 ### npm
 
-`npm install --save @svg-maps/cameroon`
+`npm install --save @svg-country-maps/cameroon`
 
 ### yarn
 
-`yarn add @svg-maps/cameroon`
+`yarn add @svg-country-maps/cameroon`
 
 ## Credits
 
