@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/cameroon",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Map of Cameroon",
 	"main": "index.js",
 	"repository": {

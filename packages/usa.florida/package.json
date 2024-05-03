@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/usa.florida",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Florida, USA",
 	"main": "index.js",
 	"repository": {

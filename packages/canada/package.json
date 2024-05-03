@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/canada",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Map of Canada",
 	"main": "index.js",
 	"repository": {

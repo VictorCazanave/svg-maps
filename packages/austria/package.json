@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/austria",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Map of Austria",
 	"main": "index.js",
 	"repository": {

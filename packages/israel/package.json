@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/israel",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Map of Israel",
 	"main": "index.js",
 	"repository": {

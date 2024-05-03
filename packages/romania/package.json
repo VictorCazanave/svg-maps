@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/romania",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Romania",
 	"main": "index.js",
 	"repository": {

@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/greece",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Map of Greece",
 	"main": "index.js",
 	"repository": {

@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/nigeria",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Nigeria",
 	"main": "index.js",
 	"repository": {

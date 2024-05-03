@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/saudi-arabia",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Map of Saudi Arabia",
 	"main": "index.js",
 	"repository": {

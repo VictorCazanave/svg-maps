@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/mexico",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Map of Mexico",
 	"main": "index.js",
 	"repository": {

@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/cli",
-	"version": "1.0.0-beta.6",
+	"version": "1.0.0",
 	"description": "Command-Line Interface to manage SVG maps",
 	"main": "./lib/index.js",
 	"bin": {

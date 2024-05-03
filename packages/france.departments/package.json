@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/france.departments",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Map of France departments",
 	"main": "index.js",
 	"repository": {

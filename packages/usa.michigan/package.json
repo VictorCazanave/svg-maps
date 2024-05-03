@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/usa.michigan",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of Michigan, USA",
 	"main": "index.js",
 	"repository": {

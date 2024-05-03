@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/japan",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Map of Japan",
 	"main": "index.js",
 	"repository": {

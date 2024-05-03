@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/world.capitals",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Map of World Capitals",
 	"main": "index.js",
 	"repository": {
