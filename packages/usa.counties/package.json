@@ -17,5 +17,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "Unlicense"
+	"license": "Unlicense",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

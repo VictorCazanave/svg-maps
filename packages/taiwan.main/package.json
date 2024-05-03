@@ -15,5 +15,6 @@
   "author": "Victor Cazanave <victor.cazanave@gmail.com>",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }

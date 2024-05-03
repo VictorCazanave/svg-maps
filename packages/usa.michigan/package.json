@@ -17,5 +17,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC-BY-SA-3.0"
+	"license": "CC-BY-SA-3.0",
+	"gitHead": "1b1e8327e50a77f441ca68f3de3083daa436b167"
 }
