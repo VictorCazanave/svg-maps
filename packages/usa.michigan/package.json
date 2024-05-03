@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/usa.michigan",
+	"name": "@svg-country-maps/usa.michigan",
 	"version": "1.0.0",
 	"description": "Map of Michigan, USA",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/usa.michigan"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/usa.michigan"
 	},
 	"keywords": [
 		"svg",

@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/pakistan.districts",
+	"name": "@svg-country-maps/pakistan.districts",
 	"version": "1.0.1",
 	"description": "Map of Pakistan districts",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/pakistan.districts"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/pakistan.districts"
 	},
 	"keywords": [
 		"svg",

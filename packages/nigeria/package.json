@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/nigeria",
+	"name": "@svg-country-maps/nigeria",
 	"version": "1.0.0",
 	"description": "Map of Nigeria",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/nigeria"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/nigeria"
 	},
 	"keywords": [
 		"svg",

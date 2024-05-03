@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/mexico",
+	"name": "@svg-country-maps/mexico",
 	"version": "1.0.2",
 	"description": "Map of Mexico",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/mexico"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/mexico"
 	},
 	"keywords": [
 		"svg",

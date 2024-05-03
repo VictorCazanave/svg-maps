@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/australia",
+	"name": "@svg-country-maps/australia",
 	"version": "1.1.1",
 	"description": "Map of Australia",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/australia"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/australia"
 	},
 	"keywords": [
 		"svg",

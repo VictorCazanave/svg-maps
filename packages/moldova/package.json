@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/moldova",
+	"name": "@svg-country-maps/moldova",
 	"version": "1.0.0",
 	"description": "Map of Moldova",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/moldova"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/moldova"
 	},
 	"keywords": [
 		"svg",

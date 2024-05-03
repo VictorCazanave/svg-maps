@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/<%= package %>",
+	"name": "@svg-country-maps/<%= package %>",
 	"version": "1.0.0",
 	"description": "Map of <%= map %>",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/<%= package %>"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/<%= package %>"
 	},
 	"keywords": [
 		"svg",

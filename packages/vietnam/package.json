@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/vietnam",
+	"name": "@svg-country-maps/vietnam",
 	"version": "1.0.0",
 	"description": "Map of Vietnam",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/vietnam"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/vietnam"
 	},
 	"keywords": [
 		"svg",

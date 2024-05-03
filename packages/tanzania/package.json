@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/tanzania",
+	"name": "@svg-country-maps/tanzania",
 	"version": "1.0.0",
 	"description": "Map of Tanzania",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/tanzania"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/tanzania"
 	},
 	"keywords": [
 		"svg",

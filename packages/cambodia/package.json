@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/cambodia",
+	"name": "@svg-country-maps/cambodia",
 	"version": "1.0.0",
 	"description": "Map of Cambodia",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/cambodia"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/cambodia"
 	},
 	"keywords": [
 		"svg",

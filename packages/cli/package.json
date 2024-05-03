@@ -1,5 +1,5 @@
 {
-	"name": "@svg-maps/cli",
+	"name": "@svg-country-maps/cli",
 	"version": "1.0.0-beta.5",
 	"description": "Command-Line Interface to manage SVG maps",
 	"main": "./lib/index.js",
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/cli"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/cli"
 	},
 	"keywords": [
 		"svg",

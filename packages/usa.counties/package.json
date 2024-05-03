@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/usa.counties",
+	"name": "@svg-country-maps/usa.counties",
 	"version": "1.1.2",
 	"description": "Map of USA counties",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/usa.counties"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/usa.counties"
 	},
 	"keywords": [
 		"svg",

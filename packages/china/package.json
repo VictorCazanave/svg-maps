@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/china",
+	"name": "@svg-country-maps/china",
 	"version": "1.0.1",
 	"description": "Map of China",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/china"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/china"
 	},
 	"keywords": [
 		"svg",

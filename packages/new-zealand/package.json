@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/new-zealand",
+	"name": "@svg-country-maps/new-zealand",
 	"version": "1.0.1",
 	"description": "Map of New Zealand",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/new-zealand"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/new-zealand"
 	},
 	"keywords": [
 		"svg",

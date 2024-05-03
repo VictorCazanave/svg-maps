@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/spain",
+	"name": "@svg-country-maps/spain",
 	"version": "1.0.1",
 	"description": "Map of Spain",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/spain"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/spain"
 	},
 	"keywords": [
 		"svg",

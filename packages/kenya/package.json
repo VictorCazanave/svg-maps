@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/kenya",
+	"name": "@svg-country-maps/kenya",
 	"version": "1.0.0",
 	"description": "Map of Kenya",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/kenya"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/kenya"
 	},
 	"keywords": [
 		"svg",

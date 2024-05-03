@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/france.departments",
+	"name": "@svg-country-maps/france.departments",
 	"version": "1.0.1",
 	"description": "Map of France departments",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/france.departments"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/france.departments"
 	},
 	"keywords": [
 		"svg",

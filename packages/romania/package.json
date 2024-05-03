@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/romania",
+	"name": "@svg-country-maps/romania",
 	"version": "1.0.0",
 	"description": "Map of Romania",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/romania"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/romania"
 	},
 	"keywords": [
 		"svg",

@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/honduras",
+	"name": "@svg-country-maps/honduras",
 	"version": "1.0.0",
 	"description": "Map of Honduras",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/honduras"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/honduras"
 	},
 	"keywords": [
 		"svg",

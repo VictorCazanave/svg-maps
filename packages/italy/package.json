@@ -1,11 +1,11 @@
 {
-	"name": "@svg-maps/italy",
+	"name": "@svg-country-maps/italy",
 	"version": "1.0.1",
 	"description": "Map of Italy",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/italy"
+		"url": "https://github.com/vocweb/svg-country-maps/tree/master/packages/italy"
 	},
 	"keywords": [
 		"svg",
