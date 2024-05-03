@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/vietnam"
+		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/vietnam"
 	},
 	"keywords": [
 		"svg",
@@ -16,5 +16,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "CC BY 4.0"
+	"license": "CC BY 4.0",
+	"gitHead": "87a71b6ff1d347e6100e95816907f6e71c39376d"
 }

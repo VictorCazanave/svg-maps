@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/cli"
+		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/cli"
 	},
 	"keywords": [
 		"svg",

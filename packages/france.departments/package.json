@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/france.departments"
+		"url": "https://github.com/vocweb/svg-maps/tree/master/packages/france.departments"
 	},
 	"keywords": [
 		"svg",
