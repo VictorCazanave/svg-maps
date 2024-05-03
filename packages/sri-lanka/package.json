@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/sri-lanka",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Map of Sri Lanka",
 	"main": "index.js",
 	"repository": {
@@ -17,5 +17,5 @@
 		"access": "public"
 	},
 	"license": "CC-BY-4.0",
-	"gitHead": "e25d8193cabf6584dc5e590e92e0f8ed6911b9fc"
+	"gitHead": "995e76dea4828c168c729bbcdb2446a83288ac9c"
 }
