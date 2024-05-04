@@ -7,8 +7,8 @@
 	},
 	"scripts": {
 		"bootstrap": "lerna bootstrap",
-		"add": "cd ./packages && svg-country-maps add",
-		"generate": "svg-country-maps generate",
+		"add": "cd ./packages && svg-maps add",
+		"generate": "svg-maps generate",
 		"release": "lerna publish from-package",
 		"release-new": "lerna publish"
 	},
