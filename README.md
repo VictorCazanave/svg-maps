@@ -64,7 +64,8 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 ## Install
 
 ```shell
-npm install --save @vocweb/svg-maps/japan
+npm install --save @svg-country-maps/japan
+npm install --save @svg-country-maps/vietnam
 ```
 
 ## SVG files
