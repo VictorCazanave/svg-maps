@@ -1,6 +1,6 @@
 {
 	"name": "@svg-country-maps/vietnam",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "Map of Vietnam",
 	"main": "index.js",
 	"repository": {
