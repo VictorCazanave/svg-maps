@@ -1,4 +1,4 @@
-# 🇻🇳 Viet Nam
+# 🇻🇳 Vietnam
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/))
 
@@ -70,17 +70,14 @@ Contains all provinces and cities of Vietnam:
 
 ### npm
 
-`npm install --save @svg-maps/viet-nam`
+`npm install --save @svg-maps/vietnam`
 
 ### yarn
 
-`yarn add @svg-maps/viet-nam`
+`yarn add @svg-maps/vietnam`
 
 ## Credits
 
 This map is based on the work of [StephenTruong110](https://github.com/StephenTruong110).
 
 The original map is available [here](https://github.com/StephenTruong110/vietnam-map-svg) under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license.
-
-
-

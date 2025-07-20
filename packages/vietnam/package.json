@@ -1,16 +1,16 @@
 {
-	"name": "@svg-maps/viet-nam",
+	"name": "@svg-maps/vietnam",
 	"version": "1.0.0",
-	"description": "Map of Viet Nam",
+	"description": "Map of Vietnam",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/viet-nam"
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/vietnam"
 	},
 	"keywords": [
 		"svg",
 		"map",
-		"viet nam"
+		"vietnam"
 	],
 	"author": "Stephen Truong <truongthanhbinh0110@gmail.com>",
 	"publishConfig": {
