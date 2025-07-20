@@ -22,8 +22,8 @@
 		"commander": "^6.2.0",
 		"pkginfo": "^0.4.1",
 		"svgson": "^4.1.0",
-		"yeoman-environment": "^2.10.3",
-		"yeoman-generator": "^4.12.0"
+		"yeoman-environment": "^4.4.3",
+		"yeoman-generator": "^7.5.1"
 	},
 	"gitHead": "afaaaccbca2f9c39db2e86580c70023545f0c1ee"
 }
