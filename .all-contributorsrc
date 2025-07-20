@@ -247,7 +247,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "StephenTruong110",
+      "name": "Trương Thanh Bình",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67067446?v=4",
+      "profile": "https://www.linkedin.com/in/truong-binh-a6ab201b9/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "commitType": "docs"
 }
