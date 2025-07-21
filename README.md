@@ -12,6 +12,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇨🇦 [Canada](packages/canada)
 * 🇨🇦 [Canada, Lambert Projection](packages/canada.lambert-projection)
 * 🇨🇻 [Cape Verde](packages/cape-verde)
+* 🇨🇱 [Chile, Santiago](packages/chile.santiago)
 * 🇨🇳 [China](packages/china)
 * 🇨🇴 [Colombia](packages/colombia)
 * 🇩🇰 [Denmark](packages/denmark)
