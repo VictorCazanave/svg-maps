@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/malawi",
+	"version": "1.0.1",
+	"description": "Map of Malawi",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/malawi"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"malawi"
+	],
+	"author": "Francis Chidziwisano <franchidzi@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
