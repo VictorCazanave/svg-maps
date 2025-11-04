@@ -1,0 +1,23 @@
+{
+	"name": "@svg-maps/london-boroughs",
+	"version": "1.0.0",
+	"description": "Map of London's Boroughs",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/london-boroughs"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"london",
+		"boroughs",
+		"united kingdom",
+		"uk"
+	],
+	"author": "Abu Bakar Naseer <bkrmalick@hotmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Unlicense"
+}
