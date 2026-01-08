@@ -7,6 +7,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com):
 * 🇦🇺 [Australia](packages/australia)
 * 🇦🇹 [Austria](packages/austria)
 * 🇧🇷 [Brazil](packages/brazil)
+* 🇧🇷 [Brazil, Telephone Area Codes](packages/brazil.ddd)
 * 🇰🇭 [Cambodia](packages/cambodia)
 * 🇨🇲 [Cameroon](packages/cameroon)
 * 🇨🇦 [Canada](packages/canada)

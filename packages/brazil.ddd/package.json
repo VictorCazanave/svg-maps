@@ -1,0 +1,28 @@
+{
+	"name": "@svg-maps/brazil.ddd",
+	"version": "1.0.0",
+	"description": "Map of Brazil by Telephone Area Codes (DDD)",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"files": [
+		"index.js",
+		"index.d.ts",
+		"brazil.ddd.svg"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/brazil.ddd"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"brazil",
+		"ddd",
+		"telephone"
+	],
+	"author": "Thiago Grisolfi <thiago.grisolfi@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-SA-4.0"
+}
