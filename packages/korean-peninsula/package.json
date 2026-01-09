@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/korean-peninsula",
+	"version": "1.0.0",
+	"description": "Map of Korean Peninsula",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/korean-peninsula"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"korean peninsula"
+	],
+	"author": "Ian Hoffman <hello@koreanpatch.co>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Unlicense"
+}
