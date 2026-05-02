@@ -46,7 +46,7 @@ Contains all the counties of the Florida state:
 * Manatee
 * Marion
 * Marti
-* Miami-Dad
+* Miami-Dade
 * Monroe"
 * Nassau
 * Okaloosa
