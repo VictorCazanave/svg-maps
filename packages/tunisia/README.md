@@ -29,8 +29,6 @@ Contains all the governorates of the administrative divisions of Tunisia:
 * Tunis Governorate
 * Zaghouan Governorate
 
-**TODO:** Fix split Sfax.
-
 ## Installation
 
 ### npm
